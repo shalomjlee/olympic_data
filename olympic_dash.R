@@ -94,6 +94,10 @@ ui <- dashboardPage(
         text-align: right;
       }
       
+      .box-header {
+        display: none;
+      }
+      
       ')
     ),
   
