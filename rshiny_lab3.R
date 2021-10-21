@@ -56,6 +56,7 @@ ui <- dashboardPage(
       .picrow {
         display: flex;
         align-items: center;
+        padding: 20px;
       }
       
       .Ltext {
@@ -117,8 +118,7 @@ ui <- dashboardPage(
               width = 7,
               img(
                 src = 'https://media.gettyimages.com/photos/empty-seats-are-seen-as-the-olympic-flame-burns-after-the-lighting-of-picture-id1234130838?s=2048x2048',
-                width = '100%',
-                style = 'padding: 20px;'
+                width = '100%'
               )
             ),
             
@@ -145,18 +145,18 @@ ui <- dashboardPage(
               width = 5,
               h4('Olympic Medals'),
               p('are awarded in gold, silver, and bronze.
-                This tradition was introduced at the 1904 Olympics.
-                Gold is awarded to the first place athlete/team,
-                silver to the second place,
-                and bronze to the third place.')
+                This tradition was introduced at the 1904 Olympics.'),
+              p('Gold is awarded to the first place athlete/team,
+                silver to the second,
+                and bronze to the third.'),
+              p('Currently, the United States holds the record for total medals won in Olympic history.')
             ),
             
             column(
               width = 7,
               img(
                 src = 'https://media.gettyimages.com/photos/medallions-picture-id115866765?s=2048x2048',
-                width = '100%',
-                style = 'padding: 20px'
+                width = '100%'
               )
             )
           ), #end R pic row
@@ -169,8 +169,7 @@ ui <- dashboardPage(
               width = 7,
               img(
                 src = 'https://media.gettyimages.com/photos/tommie-smith-and-john-carlos-gold-and-bronze-medalists-in-the-run-at-picture-id514865956?s=2048x2048',
-                width = '100%',
-                style = 'padding: 20px'
+                width = '100%'
               )
             ),
             
@@ -191,16 +190,18 @@ ui <- dashboardPage(
             column(
               class = 'Ltext',
               width = 5,
-              h3('title title title'),
-              p('words words words')
+              h4('The Rio 2016 Summer Olympic Closing Ceremony'),
+              p('at Rio de Janeiro, Brazil, was a spectacle,
+                much like all other recent opening and closing ceremonies.
+                Every host city always aims to surpass its predecessor,
+                which has resulted in more and more bombastic and grandiose celebrations.')
             ),
             
             column(
               width = 7,
               img(
                 src = 'https://media.gettyimages.com/photos/this-picture-shows-an-overview-of-fireworks-during-the-closing-of-picture-id593260754?s=2048x2048',
-                width = '100%',
-                style = 'padding: 20px'
+                width = '100%'
               )
             )
           ), #end R pic row
@@ -213,16 +214,18 @@ ui <- dashboardPage(
               width = 7,
               img(
                 src = 'https://media.gettyimages.com/photos/shaun-white-of-the-united-states-competes-during-the-snowboard-mens-picture-id917608650?s=2048x2048',
-                width = '100%',
-                style = 'padding: 20px'
+                width = '100%'
               )
             ),
             
             column(
               class = 'Rtext',
               width = 5,
-              h3('title title title'),
-              p('words words words')
+              h4('Shaun White of Team USA'),
+              p("competes at the PyeongChang 2018 Winter Olympics
+                for the Men's Halfpipe event, where he was awarded gold."),
+              p('Initially, the Olympics were only held in the summer;
+                the first winter games were held in 1924.')
             )
           ), #end L pic row
           
@@ -233,16 +236,16 @@ ui <- dashboardPage(
             column(
               class = 'Ltext',
               width = 5,
-              h3('title title title'),
-              p('words words words')
+              h4("Women's Archery at the 1908 London Olympics"),
+              p("features very different attire from that of today's athletes.
+                Women were first allowed to participate in the Olympics in 1900.")
             ),
             
             column(
               width = 7,
               img(
                 src = 'https://media.gettyimages.com/photos/15th-july-1908-women-archers-participating-in-the-national-round-at-picture-id3303724?s=2048x2048',
-                width = '100%',
-                style = 'padding: 20px'
+                width = '100%'
               )
             )
           ), #end R pic row
