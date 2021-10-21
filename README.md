@@ -22,6 +22,20 @@ The [Olympic Games](https://en.wikipedia.org/wiki/Olympic_Games) are the most pr
 4. Once the dashboard window opens, maximize the window for optimal viewing.
 
 ## Resources, Libraries, & Tools
+**Data Sources**
+* [Kaggle](https://www.kaggle.com/mysarahmadbhat/120-years-of-olympic-history) for Olympic athlete data
+* [Getty Images](https://www.gettyimages.com/) for landing page pictures
+* [Google Fonts](https://fonts.google.com/) for custom fonts
+
+**Libraries**
+* [R Shiny](https://shiny.rstudio.com/) and [Shiny Dashboard](https://rstudio.github.io/shinydashboard/) to build interactive web applications in a dashboard format
+* [Tidyverse](https://www.tidyverse.org/) for data manipulation and cleaning
+* [Treemapify](https://cran.r-project.org/web/packages/treemapify/vignettes/introduction-to-treemapify.html) for treemap plotting
+* [Fresh](https://github.com/dreamRs/fresh) for dashboard formatting
+
+**Tools**
+
+This app was created with the Open Source Edition of [R Studio](https://www.rstudio.com/products/rstudio/).
 
 ## Features
 
