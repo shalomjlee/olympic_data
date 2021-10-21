@@ -3,6 +3,7 @@ library(shiny)
 library(shinydashboard)
 library(tidyverse)
 library(treemapify)
+library(fresh)
 # library(viridis)
 
 #import data
@@ -30,10 +31,19 @@ medal_df <- olympic_df %>%
   distinct(year, event, medal, .keep_all = T) %>% 
   filter(medal != 'No Medal')
 
+#customize theme
+custom_theme <- create_theme(
+  adminlte_color(
+    light_blue = "#43848B"
+  ),
+  
+  adminlte_sidebar(
+    dark_bg = "#667274",
+    dark_hover_bg = "#404849"
+  )
+)
 #begin page build
 ui <- dashboardPage(
-  
-  # skin = 'black',
   
   dashboardHeader(title = "Olympian Analysis"),
   
@@ -50,9 +60,24 @@ ui <- dashboardPage(
   #begin body
   dashboardBody(
     
+    HTML('<link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Bitter:wght@700&family=Georama:wght@400&display=swap" rel="stylesheet">'),
+    
+    use_theme(custom_theme),
+    
     #add css attributes
     tags$style(
       HTML('
+      p, * {
+        font-family: "Georama", sans-serif;
+      }
+      
+      .skin-blue .main-header .logo,
+      h1, h2, h3, h4 {
+        font-family: "Bitter", serif;
+      }
+      
       .picrow {
         display: flex;
         align-items: center;
@@ -63,21 +88,8 @@ ui <- dashboardPage(
         text-align: right;
       }
       
-      .skin-blue .main-header .logo {
-        font-family: "Source Sans Pro", Helvetica, sans-serif;
-      }
-      
       ')
     ),
-    
-    
-    # .skin-black .main-header .navbar,
-    # .skin-black .main-header .logo,
-    # .skin-black .main-header .navbar .sidebar-toggle {
-    #   color: white;
-    #   background-color: #465d61;
-    # }
-    
   
     #begin tab items
     tabItems(
