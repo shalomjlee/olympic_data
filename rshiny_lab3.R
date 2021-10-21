@@ -38,8 +38,12 @@ custom_theme <- create_theme(
   ),
   
   adminlte_sidebar(
-    dark_bg = "#667274",
+    dark_bg = "#536061",
     dark_hover_bg = "#404849"
+  ),
+  
+  adminlte_global(
+    content_bg = "#E7E7E7"
   )
 )
 #begin page build
@@ -59,11 +63,13 @@ ui <- dashboardPage(
   
   #begin body
   dashboardBody(
-    
+    #import fonts
     HTML('<link rel="preconnect" href="https://fonts.googleapis.com">
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-        <link href="https://fonts.googleapis.com/css2?family=Bitter:wght@700&family=Georama:wght@400&display=swap" rel="stylesheet">'),
+        <link href="https://fonts.googleapis.com/css2?family=Bitter:wght@700&family=Georama:wght@400&display=swap" rel="stylesheet">'
+    ),
     
+    #use custom theme
     use_theme(custom_theme),
     
     #add css attributes
@@ -116,7 +122,8 @@ ui <- dashboardPage(
               HTML('<p>Olympic data was retrieved from <a href="https://www.kaggle.com/mysarahmadbhat/120-years-of-olympic-history">Kaggle</a>.</p>'),
               br(),
               p('Get started by selecting one of the tabs on the left,
-                or explore the gallery of pictures below to learn more about the history of the Olympics.')
+                or explore the gallery of pictures below to learn more about the history of the Olympics.'),
+              HTML('<p>Photos were provided by <a href="https://www.gettyimages.com/">Getty Images</a>.</p>'),
             )
           ), #end title row
           
@@ -140,11 +147,16 @@ ui <- dashboardPage(
               h4('The Tokyo 2020 Summer Olympic Games'),
               p('were actually held in Summer of 2021 due to the COVID-19 pandemic.
                 Pictured is the Olympic Flame lit for the Olympic Opening Ceremony,
-                with visibly empty seats in the stadium.')
+                with visibly empty seats in the stadium.'),
               # p('Though COVID precautions were taken at the games,
               #   the highly contagious Delta variant was responsible for the majority of new COVID cases at the time,
               #   and vaccinations had not been widely available yet.
-              #   Protests had persisted for months before the games')
+              #   Protests had persisted for months before the games etc. etc.'),
+              p('The Olympic Flame is a symbol derived from ancient Greece, 
+                first introduced to the modern Olympic Games in 1928.
+                Months before the games, the Olympic Flame is lit in Olympia, Greece,
+                which initiates the Olympic torch relay, leading to the lighting of the Olympic cauldron
+                at the opening ceremony. The flame is kept burning until the closing ceremony.')
             )
           ), #end L pic row
           
