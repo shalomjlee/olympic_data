@@ -119,19 +119,22 @@ ui <- dashboardPage(
               h1('Olympic Athlete Data Analysis'),
               h4('Created by Maria Dong, Jess Izumi, & Shalom Lee'),
               h4(em('Members of Talent Path WRC')),
-              br(),
+              
+              tags$hr(style="border-color: black;"),
+              
               h3('Welcome to our dashboard!'),
               p('Here, we analyze Olympic athlete data from 1896 to 2016.
                 Attributes analyzed include age, sex, team, year/season of games, medals, and more.'),
-              HTML('<p>Olympic data was retrieved from <a href="https://www.kaggle.com/mysarahmadbhat/120-years-of-olympic-history">Kaggle</a>.</p>'),
+              HTML('<p>Olympic data retrieved from <a href="https://www.kaggle.com/mysarahmadbhat/120-years-of-olympic-history">Kaggle</a>.</p>'),
               br(),
               p('Get started by selecting one of the tabs on the left,
                 or explore the gallery of pictures below to learn more about the history of the Olympics.'),
-              HTML('<p>Photos were provided by <a href="https://www.gettyimages.com/">Getty Images</a>.</p>'),
+              HTML('<p>Photos provided by <a href="https://www.gettyimages.com/">Getty Images</a>.</p>'),
             )
           ), #end title row
           
-          br(),
+          # br(),
+          tags$hr(style="border-color: black;"),
           
           #L pic row
           fluidRow(
@@ -164,6 +167,8 @@ ui <- dashboardPage(
             )
           ), #end L pic row
           
+          tags$hr(style="border-color: black;"),
+          
           #R pic row
           fluidRow(
             class = 'picrow',
@@ -189,6 +194,8 @@ ui <- dashboardPage(
             )
           ), #end R pic row
           
+          tags$hr(style="border-color: black;"),
+          
           #L pic row
           fluidRow(
             class = 'picrow',
@@ -210,6 +217,8 @@ ui <- dashboardPage(
                 Tommie Smith and John Carlos won the gold and bronze medals, respectively.')
             )
           ), #end L pic row
+          
+          tags$hr(style="border-color: black;"),
           
           #R pic row
           fluidRow(
@@ -234,6 +243,8 @@ ui <- dashboardPage(
             )
           ), #end R pic row
           
+          tags$hr(style="border-color: black;"),
+          
           #L pic row
           fluidRow(
             class = 'picrow',
@@ -257,6 +268,8 @@ ui <- dashboardPage(
             )
           ), #end L pic row
           
+          tags$hr(style="border-color: black;"),
+          
           #R pic row
           fluidRow(
             class = 'picrow',
@@ -276,8 +289,7 @@ ui <- dashboardPage(
                 width = '100%'
               )
             )
-          ), #end R pic row
-          
+          ) #end R pic row
         ) #end page
       ), #end first tab
       
@@ -446,7 +458,7 @@ ui <- dashboardPage(
           br(),
           
           fluidRow(
-            column( width = 5,
+            column( width = 6,
                     box(width = 12,
                         sliderInput(inputId = "choice4",
                                     label = "Choose a Year:",
@@ -462,7 +474,7 @@ ui <- dashboardPage(
                                  label = "Choose a Season:",
                                  choices = sort(unique(olympic_df$season)))
             ),
-            column(width = 2)
+            column(width = 1)
           ), #end row
           
           tags$hr(style="border-color: black;"),
@@ -688,7 +700,7 @@ server <- function(input, output, session){
   output$scatter_ath <- renderPlot({
     ggplot(data = cleaned_olympics_filtered3(), aes(athletes, medals)) + 
       geom_point(mapping = aes(color = region)) +
-      labs(x="Number of athletes", y="Number of Medals Won") +
+      labs(x="Number of Athletes", y="Number of Medals Won") +
       theme(legend.position = "none") + 
       geom_smooth(mapping = aes(x=athletes, y=medals, color = "green"), method = "lm", se = FALSE)
   }) #end athlete v medal scatter plot
