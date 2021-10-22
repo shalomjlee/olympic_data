@@ -85,7 +85,7 @@ _Figure 5: An example of a visualization on this tab. A scatter plot and trendli
 
 ### Findings on Medals and Events
 **Number of athletes vs. number of medals scatter plot:**
-* The two variables are unquestionably positively correlated for all years of Olympic Games.
+* The two variables are positively correlated for all years of Olympic Games.
 * The USA is consistently at/near the top of the trendline, showing that they usually have one of the highest number of athletes and medals for that year's games.
 
 **Olympic events for selected year/season:**
@@ -95,6 +95,16 @@ _Figure 5: An example of a visualization on this tab. A scatter plot and trendli
 
 **Count of medals per country over time:**
 * The USA has consistently been a top earner of medals.
-* The "spike" as discussed before can again be seen with some host countries and number of medals won that year.
+* The "spike" (as discussed previously in the demographics section) can again be seen with some host countries and number of medals won that year.
+  * This is consistent with our previous finding that more athletes are correlated with more medals, and that host countries were likely to send more athletes than usual to the games they hosted.
 
 ## Future Considerations
+Some things we'd like to work on in future edits:
+
+**Bugs:**
+* Fixing the appearance of graphs when there are no applicable athletes
+* Fixing the slider for year on the "Events, Medals, & Trends" tab, so that it will automatically adjust to an existing year of games for the selected season
+
+**Appearance:**
+* Creating a more visually appealing layout
+* Adjusting color scales for some visuals, namely the treemap
