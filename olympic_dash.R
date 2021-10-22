@@ -33,19 +33,24 @@ medal_df <- olympic_df %>%
 
 #customize theme
 custom_theme <- create_theme(
+  
+  #header color
   adminlte_color(
     light_blue = "#43848B"
   ),
   
+  #sidebar colors
   adminlte_sidebar(
     dark_bg = "#536061",
     dark_hover_bg = "#404849"
   ),
   
+  #body background color
   adminlte_global(
     content_bg = "#E7E7E7"
   )
 )
+
 #begin page build
 ui <- dashboardPage(
   
@@ -63,10 +68,13 @@ ui <- dashboardPage(
   
   #begin body
   dashboardBody(
+    
     #import fonts
-    HTML('<link rel="preconnect" href="https://fonts.googleapis.com">
-        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-        <link href="https://fonts.googleapis.com/css2?family=Bitter:wght@700&family=Georama:wght@400&display=swap" rel="stylesheet">'
+    HTML('
+      <link rel="preconnect" href="https://fonts.googleapis.com">
+      <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+      <link href="https://fonts.googleapis.com/css2?family=Bitter:wght@700&family=Georama:wght@400&display=swap" rel="stylesheet">
+      '
     ),
     
     #use custom theme
@@ -227,7 +235,7 @@ ui <- dashboardPage(
             column(
               class = 'Ltext',
               width = 5,
-              h4('The Rio 2016 Summer Olympic Closing Ceremony'),
+              h4('The Rio 2016 Olympic Closing Ceremony'),
               p('at Rio de Janeiro, Brazil, was a spectacle,
                 much like all other recent opening and closing ceremonies.
                 Every host city always aims to surpass its predecessor,
@@ -250,7 +258,7 @@ ui <- dashboardPage(
             class = 'picrow',
             
             column(
-              width = 7,
+              width = 6,
               img(
                 src = 'https://media.gettyimages.com/photos/shaun-white-of-the-united-states-competes-during-the-snowboard-mens-picture-id917608650?s=2048x2048',
                 width = '100%'
@@ -258,11 +266,24 @@ ui <- dashboardPage(
             ),
             
             column(
-              class = 'Rtext',
-              width = 5,
-              h4('Shaun White of Team USA'),
-              p("competes at the PyeongChang 2018 Winter Olympics
-                for the Men's Halfpipe event, where he was awarded gold."),
+              width = 6,
+              img(
+                src = 'https://media.gettyimages.com/photos/chloe-kim-of-the-united-states-competes-in-the-snowboard-ladies-on-picture-id917166000?s=2048x2048',
+                width = '100%'
+              )
+            )
+          ), #end L pic row
+          
+          #L pic row
+          fluidRow(
+            class = 'picrow',
+            style = 'padding-top: 0px',
+            
+            column(
+              width = 12,
+              h4('Shaun White (left) and Chloe Kim (right) of Team USA'),
+              p("compete at the PyeongChang 2018 Winter Olympics
+                for the Men's Halfpipe and Women's Halfpipe events, where they were each awarded gold."),
               p('Initially, the Olympics were only held in the summer;
                 the first winter games were held in 1924.')
             )
@@ -313,6 +334,7 @@ ui <- dashboardPage(
           
           #row of input options
           fluidRow(
+            
             #first choice: dropdown menu
             column(
               width = 4,
@@ -320,9 +342,10 @@ ui <- dashboardPage(
                 inputId = 'country_input',
                 label = 'Choose a Country:',
                 selected ='USA',
-                choices = sort(unique(athlete_df$NOC))
+                choices = sort(unique(athlete_df$region))
               ),  
             ),
+            
             #blank column
             column(width = 8)
           ), #end input options
@@ -358,16 +381,19 @@ ui <- dashboardPage(
           
           #row of title & input options
           fluidRow(
+            
             #title column
             column(
               width = 8,
               h3('Distribution of Age by Gender')
             ),
+            
             #input: year radio buttons
             column(
               width = 4,
               radioButtons(
                 inputId = 'time_input',
+                selected ='1990 and after',
                 label = 'Choose a Period of Time:',
                 choices = c('before 1990', '1990 and after')
               )
@@ -398,12 +424,13 @@ ui <- dashboardPage(
           tags$hr(style="border-color: black;"),
           
           fluidRow(
+            
             #title column
             column(
               width = 8,
               h3('Number of Athletes Over Time'),
-              
             ),
+            
             #input: season radio buttons
             column(
               width = 4,
@@ -434,7 +461,10 @@ ui <- dashboardPage(
               width = 6,
               plotOutput('line_facet')
             )
-          ) #end viz row
+          ), #end viz row
+          
+          br(), br()
+          
         ) #end page
       ), #end second tab
       
@@ -542,7 +572,7 @@ ui <- dashboardPage(
                 inputId = 'country_input2',
                 label = 'Choose a Country:',
                 selected = 'USA',
-                choices = sort(unique(medal_df$NOC))
+                choices = sort(unique(medal_df$region))
               ),
               radioButtons(
                 inputId = "season_input_medals",
@@ -553,7 +583,9 @@ ui <- dashboardPage(
               width = 9,
               plotOutput('line_medals')
             )
-          ) #end viz row
+          ), #end viz row
+          
+          br(), br()
           
         ) #end page  
       ) #close third tab
@@ -569,14 +601,14 @@ server <- function(input, output, session){
   #ht/wt scatter for all
   country_filter_all <- reactive({
     athlete_df %>%
-      filter(NOC == input$country_input)
+      filter(region == input$country_input)
   }) #end ht/wt df
   
   #ht/wt scatter for medalists
   country_filter_m <- reactive({
     athlete_df %>%
       filter(
-        NOC == input$country_input,
+        region == input$country_input,
         medal != 'No Medal'
       )
   }) #end ht/wt df for medalists
@@ -626,13 +658,13 @@ server <- function(input, output, session){
     if (input$time_input == 'before 1990'){
       athlete_df %>%
         filter(
-          NOC == input$country_input,
+          region == input$country_input,
           year < 1990
         )
     } else if (input$time_input == '1990 and after'){
       athlete_df %>%
         filter(
-          NOC == input$country_input,
+          region == input$country_input,
           year >= 1990
         )
     }
@@ -655,7 +687,7 @@ server <- function(input, output, session){
   country_filter_count <- reactive({
     athlete_df %>%
       filter(
-        NOC == input$country_input,
+        region == input$country_input,
         season == input$season_input
       ) %>% 
       group_by(year) %>% 
@@ -672,7 +704,7 @@ server <- function(input, output, session){
   sex_facet <- reactive({
     athlete_df %>%
       filter(
-        NOC == input$country_input,
+        region == input$country_input,
         season == input$season_input
       ) %>% 
       group_by(year, sex) %>% 
@@ -742,7 +774,7 @@ server <- function(input, output, session){
   count_medal_filter <- reactive({
     medal_df %>%
       filter(
-        NOC == input$country_input2,
+        region == input$country_input2,
         season == input$season_input_medals
       ) %>%
       count(year, medal) %>%
@@ -768,7 +800,7 @@ server <- function(input, output, session){
         size = 2
       ) +
       labs(y = 'count')
-  }) #medal line plots
+  }) #end medal line plots
   
 } #end server
 

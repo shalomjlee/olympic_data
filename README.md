@@ -62,5 +62,39 @@ The visuals will respond if applicable, and may offer more interactivity, as bef
 _Figure 5: An example of a visualization on this tab. A scatter plot and trendline visualizing correlation between number of athletes and medals won for a specific year's Olympic Games. Users can draw a box around points of interest in the plot, and additional information about those points will populate in the box to the right._
 
 ## Analyses & Discussion
+### Demographic Findings
+**Height vs. weight scatter plot:**
+* Predictably, male athletes tend to be taller and heavier than females.
+* The trendline of males is also steeper for all countries, showing that males are heavier per unit of height than females are. 
+* For most countries, medalists' heights and weights are more condensed, suggesting that points furthest from the trendline are less likely to have won a medal.
+
+**Distribution of age by gender:**
+* For most countries, the mean age of athletes has shifted upwards from "before 1990" to "1990 and after". Interestingly, two major countries that do not seem to have followed this trend are Russia and China.
+* All countries have increased their numbers of female athletes in "1990 and after" as opposed to "before 1990".
+* Female athletes tend to form the majority of the youngest athletes, whereas males tend to form the majority of the oldest athletes.
+
+**Number of athletes over time:**
+* Most countries have increased their number of Olympic athletes per game over time.
+* Upward "spikes" in athlete numbers are often seen for host countries. See:
+  * Brazil in Summer 2016, 
+  * Russia in Winter 2014, 
+  * the UK in Summer 2012, 
+  * China in Summer 2008, 
+  * and Italy in Winter 2006.
+* Again, the later rise in numbers of female athletes can be seen, but with more detail with regards to time.
+
+### Findings on Medals and Events
+**Number of athletes vs. number of medals scatter plot:**
+* The two variables are unquestionably positively correlated for all years of Olympic Games.
+* The USA is consistently at/near the top of the trendline, showing that they usually have one of the highest number of athletes and medals for that year's games.
+
+**Olympic events for selected year/season:**
+* Over time, the number of events and categories of events have proliferated greatly.
+* There are significantly more Summer events than there are Winter.
+* "Athletics" has always been the largest category for the Summer Olympics.
+
+**Count of medals per country over time:**
+* The USA has consistently been a top earner of medals.
+* The "spike" as discussed before can again be seen with some host countries and number of medals won that year.
 
 ## Future Considerations
