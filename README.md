@@ -108,3 +108,6 @@ Some things we'd like to work on in future edits:
 **Appearance:**
 * Creating a more visually appealing layout
 * Adjusting color scales for some visuals, namely the treemap
+
+**Other:**
+* Creating a version of the app that can be published to Github Pages
