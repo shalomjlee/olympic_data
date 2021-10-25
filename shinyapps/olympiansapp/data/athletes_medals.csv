@@ -1,0 +1,3822 @@
+"","year","season","NOC","region","medals","athletes"
+"1",1896,"Summer","AUS","Australia",5,1
+"2",1896,"Summer","AUT","Austria",8,3
+"3",1896,"Summer","DEN","Denmark",12,3
+"4",1896,"Summer","FRA","France",18,12
+"5",1896,"Summer","GBR","UK",19,10
+"6",1896,"Summer","GER","Germany",27,19
+"7",1896,"Summer","GRE","Greece",39,102
+"8",1896,"Summer","HUN","Hungary",14,7
+"9",1896,"Summer","ITA","Italy",1,1
+"10",1896,"Summer","SUI","Switzerland",5,3
+"11",1896,"Summer","SWE","Sweden",5,1
+"12",1896,"Summer","USA","USA",16,14
+"13",1900,"Summer","ARG","Argentina",1,1
+"14",1900,"Summer","AUS","Australia",6,2
+"15",1900,"Summer","AUT","Austria",17,16
+"16",1900,"Summer","BEL","Belgium",31,64
+"17",1900,"Summer","BOH","Czech Republic",9,7
+"18",1900,"Summer","BRA","Brazil",3,1
+"19",1900,"Summer","CAN","Canada",5,4
+"20",1900,"Summer","COL","Colombia",1,1
+"21",1900,"Summer","CUB","Cuba",2,1
+"22",1900,"Summer","DEN","Denmark",14,13
+"23",1900,"Summer","ESP","Spain",7,9
+"24",1900,"Summer","FRA","France",81,720
+"25",1900,"Summer","GBR","UK",39,104
+"26",1900,"Summer","GER","Germany",27,76
+"27",1900,"Summer","GRE","Greece",3,3
+"28",1900,"Summer","HAI","Haiti",4,3
+"29",1900,"Summer","HUN","Hungary",21,18
+"30",1900,"Summer","IND","India",5,1
+"31",1900,"Summer","IRI","Iran",1,1
+"32",1900,"Summer","ITA","Italy",17,23
+"33",1900,"Summer","LUX","Luxembourg",1,1
+"34",1900,"Summer","MEX","Mexico",1,3
+"35",1900,"Summer","NED","Netherlands",18,35
+"36",1900,"Summer","NOR","Norway",9,7
+"37",1900,"Summer","NZL","New Zealand",1,1
+"38",1900,"Summer","PER","Peru",2,1
+"39",1900,"Summer","ROU","Romania",1,1
+"40",1900,"Summer","RUS","Russia",3,4
+"41",1900,"Summer","SUI","Switzerland",14,18
+"42",1900,"Summer","SWE","Sweden",16,10
+"43",1900,"Summer","USA","USA",41,75
+"44",1904,"Summer","AUS","Australia",6,2
+"45",1904,"Summer","AUT","Austria",7,2
+"46",1904,"Summer","CAN","Canada",15,56
+"47",1904,"Summer","CUB","Cuba",5,3
+"48",1904,"Summer","FRA","France",2,1
+"49",1904,"Summer","GBR","UK",4,6
+"50",1904,"Summer","GER","Germany",25,22
+"51",1904,"Summer","GRE","Greece",5,14
+"52",1904,"Summer","HUN","Hungary",9,4
+"53",1904,"Summer","ITA","Italy",1,1
+"54",1904,"Summer","NFL","Canada",1,1
+"55",1904,"Summer","NOR","Norway",6,3
+"56",1904,"Summer","RSA","South Africa",2,8
+"57",1904,"Summer","SUI","Switzerland",4,3
+"58",1904,"Summer","USA","USA",95,524
+"59",1906,"Summer","AUS","Australia",9,4
+"60",1906,"Summer","AUT","Austria",46,31
+"61",1906,"Summer","BEL","Belgium",22,16
+"62",1906,"Summer","BOH","Czech Republic",22,13
+"63",1906,"Summer","CAN","Canada",4,3
+"64",1906,"Summer","CRT","Greece",5,8
+"65",1906,"Summer","DEN","Denmark",24,49
+"66",1906,"Summer","EGY","Egypt",5,2
+"67",1906,"Summer","FIN","Finland",11,4
+"68",1906,"Summer","FRA","France",51,56
+"69",1906,"Summer","GBR","UK",42,48
+"70",1906,"Summer","GER","Germany",41,49
+"71",1906,"Summer","GRE","Greece",70,312
+"72",1906,"Summer","HUN","Hungary",41,35
+"73",1906,"Summer","ITA","Italy",37,76
+"74",1906,"Summer","NED","Netherlands",8,16
+"75",1906,"Summer","NOR","Norway",12,32
+"76",1906,"Summer","SUI","Switzerland",14,9
+"77",1906,"Summer","SWE","Sweden",37,39
+"78",1906,"Summer","TUR","Turkey",2,1
+"79",1906,"Summer","USA","USA",28,38
+"80",1908,"Summer","ANZ","Australia",20,30
+"81",1908,"Summer","ARG","Argentina",1,1
+"82",1908,"Summer","AUT","Austria",10,7
+"83",1908,"Summer","BEL","Belgium",33,70
+"84",1908,"Summer","BOH","Czech Republic",15,19
+"85",1908,"Summer","CAN","Canada",42,87
+"86",1908,"Summer","DEN","Denmark",27,78
+"87",1908,"Summer","FIN","Finland",23,62
+"88",1908,"Summer","FRA","France",54,208
+"89",1908,"Summer","GBR","UK",108,735
+"90",1908,"Summer","GER","Germany",41,82
+"91",1908,"Summer","GRE","Greece",25,20
+"92",1908,"Summer","HUN","Hungary",37,65
+"93",1908,"Summer","ISL","Iceland",1,1
+"94",1908,"Summer","ITA","Italy",30,66
+"95",1908,"Summer","NED","Netherlands",45,113
+"96",1908,"Summer","NOR","Norway",23,69
+"97",1908,"Summer","RSA","South Africa",15,14
+"98",1908,"Summer","RUS","Russia",7,6
+"99",1908,"Summer","SUI","Switzerland",1,1
+"100",1908,"Summer","SWE","Sweden",67,168
+"101",1908,"Summer","USA","USA",52,122
+"102",1912,"Summer","ANZ","Australia",17,25
+"103",1912,"Summer","AUT","Austria",46,85
+"104",1912,"Summer","BEL","Belgium",23,36
+"105",1912,"Summer","BOH","Czech Republic",26,43
+"106",1912,"Summer","CAN","Canada",30,37
+"107",1912,"Summer","CHI","Chile",16,14
+"108",1912,"Summer","DEN","Denmark",46,152
+"109",1912,"Summer","FIN","Finland",49,164
+"110",1912,"Summer","FRA","France",66,119
+"111",1912,"Summer","GBR","UK",79,274
+"112",1912,"Summer","GER","Germany",69,185
+"113",1912,"Summer","GRE","Greece",25,22
+"114",1912,"Summer","HUN","Hungary",52,121
+"115",1912,"Summer","ISL","Iceland",2,2
+"116",1912,"Summer","ITA","Italy",36,66
+"117",1912,"Summer","JPN","Japan",4,2
+"118",1912,"Summer","LUX","Luxembourg",6,21
+"119",1912,"Summer","NED","Netherlands",14,33
+"120",1912,"Summer","NOR","Norway",58,190
+"121",1912,"Summer","POL","Poland",1,1
+"122",1912,"Summer","POR","Portugal",8,6
+"123",1912,"Summer","RSA","South Africa",21,21
+"124",1912,"Summer","RUS","Russia",62,159
+"125",1912,"Summer","SRB","Serbia",2,2
+"126",1912,"Summer","SUI","Switzerland",3,7
+"127",1912,"Summer","SWE","Sweden",95,444
+"128",1912,"Summer","TUR","Turkey",7,2
+"129",1912,"Summer","UNK",NA,1,2
+"130",1912,"Summer","USA","USA",68,174
+"131",1920,"Summer","ARG","Argentina",1,1
+"132",1920,"Summer","AUS","Australia",19,13
+"133",1920,"Summer","BEL","Belgium",121,336
+"134",1920,"Summer","BRA","Brazil",10,19
+"135",1920,"Summer","CAN","Canada",39,52
+"136",1920,"Summer","CHI","Chile",2,2
+"137",1920,"Summer","DEN","Denmark",66,154
+"138",1920,"Summer","EGY","Egypt",11,18
+"139",1920,"Summer","ESP","Spain",29,58
+"140",1920,"Summer","EST","Estonia",19,14
+"141",1920,"Summer","FIN","Finland",51,63
+"142",1920,"Summer","FRA","France",113,304
+"143",1920,"Summer","GBR","UK",84,234
+"144",1920,"Summer","GRE","Greece",34,47
+"145",1920,"Summer","IND","India",6,5
+"146",1920,"Summer","ITA","Italy",79,174
+"147",1920,"Summer","JPN","Japan",15,15
+"148",1920,"Summer","LUX","Luxembourg",18,25
+"149",1920,"Summer","MON","Monaco",6,4
+"150",1920,"Summer","NED","Netherlands",58,130
+"151",1920,"Summer","NOR","Norway",72,193
+"152",1920,"Summer","NZL","New Zealand",6,4
+"153",1920,"Summer","POR","Portugal",7,13
+"154",1920,"Summer","RSA","South Africa",34,39
+"155",1920,"Summer","SUI","Switzerland",45,77
+"156",1920,"Summer","SWE","Sweden",100,260
+"157",1920,"Summer","TCH","Czech Republic",53,119
+"158",1920,"Summer","USA","USA",113,288
+"159",1920,"Summer","YUG","Serbia",1,15
+"160",1924,"Summer","ARG","Argentina",39,77
+"161",1924,"Summer","AUS","Australia",31,36
+"162",1924,"Summer","AUT","Austria",27,49
+"163",1924,"Summer","BEL","Belgium",82,172
+"164",1924,"Summer","BRA","Brazil",15,12
+"165",1924,"Summer","BUL","Bulgaria",12,24
+"166",1924,"Summer","CAN","Canada",39,65
+"167",1924,"Summer","CHI","Chile",12,13
+"168",1924,"Summer","CUB","Cuba",3,9
+"169",1924,"Summer","DEN","Denmark",60,89
+"170",1924,"Summer","ECU","Ecuador",4,3
+"171",1924,"Summer","EGY","Egypt",12,24
+"172",1924,"Summer","ESP","Spain",44,95
+"173",1924,"Summer","EST","Estonia",26,37
+"174",1924,"Summer","FIN","Finland",69,121
+"175",1924,"Summer","FRA","France",128,401
+"176",1924,"Summer","GBR","UK",115,267
+"177",1924,"Summer","GRE","Greece",37,39
+"178",1924,"Summer","HAI","Haiti",9,8
+"179",1924,"Summer","HUN","Hungary",54,89
+"180",1924,"Summer","IND","India",13,13
+"181",1924,"Summer","IRL","Ireland",29,48
+"182",1924,"Summer","ITA","Italy",93,200
+"183",1924,"Summer","JPN","Japan",21,19
+"184",1924,"Summer","LAT","Latvia",23,36
+"185",1924,"Summer","LTU","Lithuania",2,13
+"186",1924,"Summer","LUX","Luxembourg",35,48
+"187",1924,"Summer","MEX","Mexico",15,15
+"188",1924,"Summer","MON","Monaco",6,7
+"189",1924,"Summer","NED","Netherlands",81,177
+"190",1924,"Summer","NOR","Norway",43,62
+"191",1924,"Summer","NZL","New Zealand",6,4
+"192",1924,"Summer","PHI","Philippines",2,1
+"193",1924,"Summer","POL","Poland",38,65
+"194",1924,"Summer","POR","Portugal",16,28
+"195",1924,"Summer","ROU","Romania",7,35
+"196",1924,"Summer","RSA","South Africa",25,30
+"197",1924,"Summer","RUS","Russia",2,3
+"198",1924,"Summer","SUI","Switzerland",74,141
+"199",1924,"Summer","SWE","Sweden",84,159
+"200",1924,"Summer","TCH","Czech Republic",75,133
+"201",1924,"Summer","TUR","Turkey",11,22
+"202",1924,"Summer","URU","Uruguay",11,26
+"203",1924,"Summer","USA","USA",108,299
+"204",1924,"Summer","YUG","Serbia",27,42
+"205",1924,"Winter","AUS","Australia",1,1
+"206",1924,"Winter","AUT","Austria",3,4
+"207",1924,"Winter","BEL","Belgium",8,18
+"208",1924,"Winter","CAN","Canada",8,12
+"209",1924,"Winter","FIN","Finland",11,17
+"210",1924,"Winter","FRA","France",16,43
+"211",1924,"Winter","GBR","UK",10,44
+"212",1924,"Winter","HUN","Hungary",3,4
+"213",1924,"Winter","IND","India",1,7
+"214",1924,"Winter","ITA","Italy",5,23
+"215",1924,"Winter","LAT","Latvia",7,2
+"216",1924,"Winter","NEP","Nepal",1,1
+"217",1924,"Winter","NOR","Norway",10,14
+"218",1924,"Winter","POL","Poland",10,7
+"219",1924,"Winter","SUI","Switzerland",8,30
+"220",1924,"Winter","SWE","Sweden",11,31
+"221",1924,"Winter","TCH","Czech Republic",7,27
+"222",1924,"Winter","USA","USA",11,24
+"223",1924,"Winter","YUG","Serbia",2,4
+"224",1928,"Summer","ARG","Argentina",40,81
+"225",1928,"Summer","AUS","Australia",26,18
+"226",1928,"Summer","AUT","Austria",39,73
+"227",1928,"Summer","BEL","Belgium",90,187
+"228",1928,"Summer","BUL","Bulgaria",5,5
+"229",1928,"Summer","CAN","Canada",49,69
+"230",1928,"Summer","CHI","Chile",22,38
+"231",1928,"Summer","CUB","Cuba",1,1
+"232",1928,"Summer","DEN","Denmark",55,91
+"233",1928,"Summer","EGY","Egypt",14,32
+"234",1928,"Summer","ESP","Spain",34,80
+"235",1928,"Summer","EST","Estonia",19,20
+"236",1928,"Summer","FIN","Finland",48,69
+"237",1928,"Summer","FRA","France",112,255
+"238",1928,"Summer","GBR","UK",84,232
+"239",1928,"Summer","GER","Germany",95,295
+"240",1928,"Summer","GRE","Greece",26,23
+"241",1928,"Summer","HAI","Haiti",3,2
+"242",1928,"Summer","HUN","Hungary",63,109
+"243",1928,"Summer","IND","India",10,21
+"244",1928,"Summer","IRL","Ireland",27,38
+"245",1928,"Summer","ITA","Italy",81,174
+"246",1928,"Summer","JPN","Japan",31,40
+"247",1928,"Summer","LAT","Latvia",14,17
+"248",1928,"Summer","LTU","Lithuania",10,12
+"249",1928,"Summer","LUX","Luxembourg",31,48
+"250",1928,"Summer","MEX","Mexico",18,30
+"251",1928,"Summer","MLT","Malta",1,9
+"252",1928,"Summer","MON","Monaco",8,10
+"253",1928,"Summer","NED","Netherlands",103,266
+"254",1928,"Summer","NOR","Norway",42,52
+"255",1928,"Summer","NZL","New Zealand",12,9
+"256",1928,"Summer","PAN","Panama",2,1
+"257",1928,"Summer","PHI","Philippines",6,4
+"258",1928,"Summer","POL","Poland",44,93
+"259",1928,"Summer","POR","Portugal",14,32
+"260",1928,"Summer","ROU","Romania",16,21
+"261",1928,"Summer","RSA","South Africa",25,24
+"262",1928,"Summer","SUI","Switzerland",70,133
+"263",1928,"Summer","SWE","Sweden",66,100
+"264",1928,"Summer","TCH","Czech Republic",51,69
+"265",1928,"Summer","TUR","Turkey",17,31
+"266",1928,"Summer","URU","Uruguay",1,17
+"267",1928,"Summer","USA","USA",96,280
+"268",1928,"Summer","YUG","Serbia",21,34
+"269",1928,"Summer","ZIM","Zimbabwe",2,2
+"270",1928,"Winter","ARG","Argentina",1,10
+"271",1928,"Winter","AUT","Austria",13,39
+"272",1928,"Winter","BEL","Belgium",4,25
+"273",1928,"Winter","CAN","Canada",10,23
+"274",1928,"Winter","EST","Estonia",3,2
+"275",1928,"Winter","FIN","Finland",10,18
+"276",1928,"Winter","FRA","France",13,38
+"277",1928,"Winter","GBR","UK",9,32
+"278",1928,"Winter","GER","Germany",12,44
+"279",1928,"Winter","HUN","Hungary",6,13
+"280",1928,"Winter","ITA","Italy",6,13
+"281",1928,"Winter","JPN","Japan",4,6
+"282",1928,"Winter","LAT","Latvia",3,1
+"283",1928,"Winter","LTU","Lithuania",4,1
+"284",1928,"Winter","LUX","Luxembourg",1,5
+"285",1928,"Winter","MEX","Mexico",1,5
+"286",1928,"Winter","NED","Netherlands",4,7
+"287",1928,"Winter","NOR","Norway",9,25
+"288",1928,"Winter","POL","Poland",6,24
+"289",1928,"Winter","ROU","Romania",1,10
+"290",1928,"Winter","SUI","Switzerland",9,41
+"291",1928,"Winter","SWE","Sweden",10,24
+"292",1928,"Winter","TCH","Czech Republic",7,25
+"293",1928,"Winter","USA","USA",12,24
+"294",1928,"Winter","YUG","Serbia",2,6
+"295",1932,"Summer","ARG","Argentina",30,33
+"296",1932,"Summer","AUS","Australia",17,13
+"297",1932,"Summer","AUT","Austria",14,19
+"298",1932,"Summer","BEL","Belgium",10,36
+"299",1932,"Summer","BRA","Brazil",28,59
+"300",1932,"Summer","BUL","Bulgaria",1,2
+"301",1932,"Summer","CAN","Canada",69,102
+"302",1932,"Summer","CHN","China",2,1
+"303",1932,"Summer","COL","Colombia",2,2
+"304",1932,"Summer","CUB","Cuba",1,3
+"305",1932,"Summer","DEN","Denmark",34,43
+"306",1932,"Summer","ESA","El Salvador",1,1
+"307",1932,"Summer","ESP","Spain",4,7
+"308",1932,"Summer","EST","Estonia",3,2
+"309",1932,"Summer","FIN","Finland",36,40
+"310",1932,"Summer","FRA","France",57,103
+"311",1932,"Summer","GBR","UK",50,107
+"312",1932,"Summer","GER","Germany",67,145
+"313",1932,"Summer","GRE","Greece",12,10
+"314",1932,"Summer","GUA","Guatemala",1,1
+"315",1932,"Summer","HAI","Haiti",3,3
+"316",1932,"Summer","HUN","Hungary",39,58
+"317",1932,"Summer","IND","India",8,19
+"318",1932,"Summer","IRL","Ireland",10,16
+"319",1932,"Summer","ITA","Italy",61,112
+"320",1932,"Summer","JPN","Japan",66,157
+"321",1932,"Summer","LAT","Latvia",4,5
+"322",1932,"Summer","LUX","Luxembourg",3,3
+"323",1932,"Summer","MEX","Mexico",52,73
+"324",1932,"Summer","MON","Monaco",1,1
+"325",1932,"Summer","NED","Netherlands",29,46
+"326",1932,"Summer","NOR","Norway",8,7
+"327",1932,"Summer","NZL","New Zealand",15,21
+"328",1932,"Summer","PER","Peru",1,2
+"329",1932,"Summer","PHI","Philippines",7,8
+"330",1932,"Summer","POL","Poland",21,51
+"331",1932,"Summer","POR","Portugal",4,6
+"332",1932,"Summer","ROU","Romania",1,1
+"333",1932,"Summer","RSA","South Africa",18,12
+"334",1932,"Summer","SUI","Switzerland",9,7
+"335",1932,"Summer","SWE","Sweden",51,81
+"336",1932,"Summer","TCH","Czech Republic",15,25
+"337",1932,"Summer","TUR","Turkey",1,1
+"338",1932,"Summer","URU","Uruguay",2,2
+"339",1932,"Summer","USA","USA",122,474
+"340",1932,"Summer","VEN","Venezuela",1,1
+"341",1932,"Summer","YUG","Serbia",1,1
+"342",1932,"Winter","AUT","Austria",6,7
+"343",1932,"Winter","BEL","Belgium",2,5
+"344",1932,"Winter","CAN","Canada",12,42
+"345",1932,"Winter","FIN","Finland",6,7
+"346",1932,"Winter","FRA","France",3,8
+"347",1932,"Winter","GBR","UK",1,4
+"348",1932,"Winter","GER","Germany",4,20
+"349",1932,"Winter","HUN","Hungary",1,4
+"350",1932,"Winter","ITA","Italy",6,12
+"351",1932,"Winter","JPN","Japan",9,16
+"352",1932,"Winter","NOR","Norway",9,19
+"353",1932,"Winter","POL","Poland",5,15
+"354",1932,"Winter","ROU","Romania",2,4
+"355",1932,"Winter","SUI","Switzerland",4,7
+"356",1932,"Winter","SWE","Sweden",9,12
+"357",1932,"Winter","TCH","Czech Republic",5,6
+"358",1932,"Winter","USA","USA",14,64
+"359",1936,"Summer","AFG","Afghanistan",4,15
+"360",1936,"Summer","ARG","Argentina",31,51
+"361",1936,"Summer","AUS","Australia",26,32
+"362",1936,"Summer","AUT","Austria",105,234
+"363",1936,"Summer","BEL","Belgium",72,150
+"364",1936,"Summer","BER","Bermuda",4,5
+"365",1936,"Summer","BOL","Boliva",2,2
+"366",1936,"Summer","BRA","Brazil",37,73
+"367",1936,"Summer","BUL","Bulgaria",22,26
+"368",1936,"Summer","CAN","Canada",69,97
+"369",1936,"Summer","CHI","Chile",27,40
+"370",1936,"Summer","CHN","China",27,54
+"371",1936,"Summer","COL","Colombia",5,5
+"372",1936,"Summer","CRC","Costa Rica",1,1
+"373",1936,"Summer","DEN","Denmark",71,121
+"374",1936,"Summer","EGY","Egypt",30,53
+"375",1936,"Summer","EST","Estonia",29,33
+"376",1936,"Summer","FIN","Finland",70,108
+"377",1936,"Summer","FRA","France",100,201
+"378",1936,"Summer","GBR","UK",91,208
+"379",1936,"Summer","GER","Germany",143,433
+"380",1936,"Summer","GRE","Greece",34,41
+"381",1936,"Summer","HUN","Hungary",104,216
+"382",1936,"Summer","IND","India",12,27
+"383",1936,"Summer","ISL","Iceland",6,12
+"384",1936,"Summer","ITA","Italy",99,244
+"385",1936,"Summer","JPN","Japan",79,220
+"386",1936,"Summer","LAT","Latvia",16,29
+"387",1936,"Summer","LIE","Liechtenstein",5,6
+"388",1936,"Summer","LUX","Luxembourg",37,49
+"389",1936,"Summer","MEX","Mexico",14,32
+"390",1936,"Summer","MLT","Malta",2,11
+"391",1936,"Summer","MON","Monaco",5,8
+"392",1936,"Summer","NED","Netherlands",75,165
+"393",1936,"Summer","NOR","Norway",43,70
+"394",1936,"Summer","NZL","New Zealand",9,7
+"395",1936,"Summer","PER","Peru",16,40
+"396",1936,"Summer","PHI","Philippines",20,28
+"397",1936,"Summer","POL","Poland",55,144
+"398",1936,"Summer","POR","Portugal",10,19
+"399",1936,"Summer","ROU","Romania",33,54
+"400",1936,"Summer","RSA","South Africa",27,32
+"401",1936,"Summer","SUI","Switzerland",102,190
+"402",1936,"Summer","SWE","Sweden",84,171
+"403",1936,"Summer","TCH","Czech Republic",102,190
+"404",1936,"Summer","TUR","Turkey",26,48
+"405",1936,"Summer","URU","Uruguay",15,37
+"406",1936,"Summer","USA","USA",127,359
+"407",1936,"Summer","YUG","Serbia",59,93
+"408",1936,"Winter","AUS","Australia",3,1
+"409",1936,"Winter","AUT","Austria",15,60
+"410",1936,"Winter","BEL","Belgium",10,27
+"411",1936,"Winter","BUL","Bulgaria",3,7
+"412",1936,"Winter","CAN","Canada",13,29
+"413",1936,"Winter","ESP","Spain",2,6
+"414",1936,"Winter","EST","Estonia",8,5
+"415",1936,"Winter","FIN","Finland",10,19
+"416",1936,"Winter","FRA","France",6,28
+"417",1936,"Winter","GBR","UK",10,38
+"418",1936,"Winter","GER","Germany",17,55
+"419",1936,"Winter","GRE","Greece",2,1
+"420",1936,"Winter","HUN","Hungary",9,25
+"421",1936,"Winter","ITA","Italy",11,40
+"422",1936,"Winter","JPN","Japan",13,31
+"423",1936,"Winter","LAT","Latvia",13,26
+"424",1936,"Winter","LIE","Liechtenstein",2,4
+"425",1936,"Winter","LUX","Luxembourg",2,4
+"426",1936,"Winter","NED","Netherlands",6,8
+"427",1936,"Winter","NOR","Norway",13,31
+"428",1936,"Winter","POL","Poland",9,20
+"429",1936,"Winter","ROU","Romania",8,15
+"430",1936,"Winter","SUI","Switzerland",9,34
+"431",1936,"Winter","SWE","Sweden",12,32
+"432",1936,"Winter","TCH","Czech Republic",15,44
+"433",1936,"Winter","TUR","Turkey",3,6
+"434",1936,"Winter","USA","USA",17,55
+"435",1936,"Winter","YUG","Serbia",6,17
+"436",1948,"Summer","AFG","Afghanistan",2,25
+"437",1948,"Summer","ARG","Argentina",101,199
+"438",1948,"Summer","AUS","Australia",52,75
+"439",1948,"Summer","AUT","Austria",79,148
+"440",1948,"Summer","BEL","Belgium",77,152
+"441",1948,"Summer","BER","Bermuda",13,12
+"442",1948,"Summer","BRA","Brazil",41,70
+"443",1948,"Summer","CAN","Canada",83,127
+"444",1948,"Summer","CHI","Chile",31,54
+"445",1948,"Summer","CHN","China",12,31
+"446",1948,"Summer","COL","Colombia",6,6
+"447",1948,"Summer","CUB","Cuba",31,53
+"448",1948,"Summer","DEN","Denmark",83,162
+"449",1948,"Summer","EGY","Egypt",53,85
+"450",1948,"Summer","ESP","Spain",37,65
+"451",1948,"Summer","FIN","Finland",84,129
+"452",1948,"Summer","FRA","France",135,316
+"453",1948,"Summer","GBR","UK",139,407
+"454",1948,"Summer","GRE","Greece",44,61
+"455",1948,"Summer","GUY","Guyana",7,4
+"456",1948,"Summer","HUN","Hungary",76,128
+"457",1948,"Summer","IND","India",39,79
+"458",1948,"Summer","IRI","Iran",23,36
+"459",1948,"Summer","IRL","Ireland",34,73
+"460",1948,"Summer","IRQ","Iraq",4,11
+"461",1948,"Summer","ISL","Iceland",18,20
+"462",1948,"Summer","ITA","Italy",89,215
+"463",1948,"Summer","JAM","Jamaica",14,13
+"464",1948,"Summer","KOR","South Korea",24,46
+"465",1948,"Summer","LIB","Lebanon",9,8
+"466",1948,"Summer","LIE","Liechtenstein",1,2
+"467",1948,"Summer","LUX","Luxembourg",32,45
+"468",1948,"Summer","MEX","Mexico",57,88
+"469",1948,"Summer","MLT","Malta",1,1
+"470",1948,"Summer","MON","Monaco",2,4
+"471",1948,"Summer","MYA","Myanmar",5,4
+"472",1948,"Summer","NED","Netherlands",74,149
+"473",1948,"Summer","NOR","Norway",50,81
+"474",1948,"Summer","NZL","New Zealand",8,7
+"475",1948,"Summer","PAK","Pakistan",20,35
+"476",1948,"Summer","PAN","Panama",2,1
+"477",1948,"Summer","PER","Peru",26,41
+"478",1948,"Summer","PHI","Philippines",18,26
+"479",1948,"Summer","POL","Poland",28,38
+"480",1948,"Summer","POR","Portugal",22,48
+"481",1948,"Summer","PUR","Puerto Rico",8,9
+"482",1948,"Summer","RSA","South Africa",34,35
+"483",1948,"Summer","SRI","Sri Lanka",9,7
+"484",1948,"Summer","SUI","Switzerland",98,186
+"485",1948,"Summer","SWE","Sweden",100,181
+"486",1948,"Summer","SYR","Syria",1,1
+"487",1948,"Summer","TCH","Czech Republic",57,87
+"488",1948,"Summer","TTO","Trinidad",9,5
+"489",1948,"Summer","TUR","Turkey",42,58
+"490",1948,"Summer","URU","Uruguay",32,61
+"491",1948,"Summer","USA","USA",126,300
+"492",1948,"Summer","VEN","Venezuela",2,1
+"493",1948,"Summer","YUG","Serbia",35,90
+"494",1948,"Winter","ARG","Argentina",5,9
+"495",1948,"Winter","AUT","Austria",20,54
+"496",1948,"Winter","BEL","Belgium",10,11
+"497",1948,"Winter","BUL","Bulgaria",5,4
+"498",1948,"Winter","CAN","Canada",16,28
+"499",1948,"Winter","CHI","Chile",3,4
+"500",1948,"Winter","DEN","Denmark",2,2
+"501",1948,"Winter","ESP","Spain",3,6
+"502",1948,"Winter","FIN","Finland",12,24
+"503",1948,"Winter","FRA","France",15,36
+"504",1948,"Winter","GBR","UK",17,55
+"505",1948,"Winter","GRE","Greece",2,1
+"506",1948,"Winter","HUN","Hungary",15,22
+"507",1948,"Winter","ISL","Iceland",4,4
+"508",1948,"Winter","ITA","Italy",21,54
+"509",1948,"Winter","KOR","South Korea",3,3
+"510",1948,"Winter","LIB","Lebanon",3,2
+"511",1948,"Winter","LIE","Liechtenstein",4,10
+"512",1948,"Winter","NED","Netherlands",4,4
+"513",1948,"Winter","NOR","Norway",19,49
+"514",1948,"Winter","POL","Poland",8,29
+"515",1948,"Winter","ROU","Romania",3,7
+"516",1948,"Winter","SUI","Switzerland",21,70
+"517",1948,"Winter","SWE","Sweden",16,43
+"518",1948,"Winter","TCH","Czech Republic",21,47
+"519",1948,"Winter","TUR","Turkey",3,4
+"520",1948,"Winter","USA","USA",20,69
+"521",1948,"Winter","YUG","Serbia",8,17
+"522",1952,"Summer","AHO","Curacao",1,11
+"523",1952,"Summer","ARG","Argentina",77,123
+"524",1952,"Summer","AUS","Australia",67,81
+"525",1952,"Summer","AUT","Austria",70,112
+"526",1952,"Summer","BAH","Bahamas",3,7
+"527",1952,"Summer","BEL","Belgium",74,135
+"528",1952,"Summer","BER","Bermuda",6,6
+"529",1952,"Summer","BRA","Brazil",51,97
+"530",1952,"Summer","BUL","Bulgaria",34,63
+"531",1952,"Summer","CAN","Canada",74,107
+"532",1952,"Summer","CHI","Chile",33,59
+"533",1952,"Summer","CHN","China",1,1
+"534",1952,"Summer","CUB","Cuba",23,29
+"535",1952,"Summer","DEN","Denmark",73,129
+"536",1952,"Summer","EGY","Egypt",65,106
+"537",1952,"Summer","ESP","Spain",21,27
+"538",1952,"Summer","FIN","Finland",139,258
+"539",1952,"Summer","FRA","France",131,245
+"540",1952,"Summer","GBR","UK",127,257
+"541",1952,"Summer","GER","Germany",123,205
+"542",1952,"Summer","GHA","Ghana",5,7
+"543",1952,"Summer","GRE","Greece",24,48
+"544",1952,"Summer","GUA","Guatemala",26,21
+"545",1952,"Summer","GUY","Guyana",1,1
+"546",1952,"Summer","HKG","China",6,4
+"547",1952,"Summer","HUN","Hungary",107,189
+"548",1952,"Summer","INA","Indonesia",3,3
+"549",1952,"Summer","IND","India",42,64
+"550",1952,"Summer","IRI","Iran",22,22
+"551",1952,"Summer","IRL","Ireland",18,19
+"552",1952,"Summer","ISL","Iceland",11,9
+"553",1952,"Summer","ISR","Israel",17,25
+"554",1952,"Summer","ITA","Italy",114,231
+"555",1952,"Summer","JAM","Jamaica",10,8
+"556",1952,"Summer","JPN","Japan",60,69
+"557",1952,"Summer","KOR","South Korea",16,19
+"558",1952,"Summer","LIB","Lebanon",8,9
+"559",1952,"Summer","LIE","Liechtenstein",1,2
+"560",1952,"Summer","LUX","Luxembourg",32,44
+"561",1952,"Summer","MEX","Mexico",35,64
+"562",1952,"Summer","MON","Monaco",6,8
+"563",1952,"Summer","MYA","Myanmar",5,5
+"564",1952,"Summer","NED","Netherlands",57,104
+"565",1952,"Summer","NGR","Nigeria",5,9
+"566",1952,"Summer","NOR","Norway",72,102
+"567",1952,"Summer","NZL","New Zealand",14,14
+"568",1952,"Summer","PAK","Pakistan",25,38
+"569",1952,"Summer","PAN","Panama",1,1
+"570",1952,"Summer","PHI","Philippines",14,25
+"571",1952,"Summer","POL","Poland",74,125
+"572",1952,"Summer","POR","Portugal",45,71
+"573",1952,"Summer","PUR","Puerto Rico",19,21
+"574",1952,"Summer","ROU","Romania",67,114
+"575",1952,"Summer","RSA","South Africa",59,64
+"576",1952,"Summer","SAA","Germany",32,36
+"577",1952,"Summer","SRI","Sri Lanka",7,5
+"578",1952,"Summer","SUI","Switzerland",96,157
+"579",1952,"Summer","SWE","Sweden",124,206
+"580",1952,"Summer","TCH","Czech Republic",70,99
+"581",1952,"Summer","THA","Thailand",7,8
+"582",1952,"Summer","TTO","Trinidad",2,2
+"583",1952,"Summer","TUR","Turkey",31,51
+"584",1952,"Summer","URS","Russia",141,295
+"585",1952,"Summer","URU","Uruguay",16,32
+"586",1952,"Summer","USA","USA",133,286
+"587",1952,"Summer","VEN","Venezuela",37,38
+"588",1952,"Summer","VNM","Vietnam",7,8
+"589",1952,"Summer","YUG","Serbia",48,87
+"590",1952,"Winter","ARG","Argentina",7,12
+"591",1952,"Winter","AUS","Australia",10,9
+"592",1952,"Winter","AUT","Austria",20,39
+"593",1952,"Winter","BEL","Belgium",7,9
+"594",1952,"Winter","BUL","Bulgaria",6,10
+"595",1952,"Winter","CAN","Canada",16,39
+"596",1952,"Winter","CHI","Chile",3,3
+"597",1952,"Winter","DEN","Denmark",1,1
+"598",1952,"Winter","ESP","Spain",3,4
+"599",1952,"Winter","FIN","Finland",16,50
+"600",1952,"Winter","FRA","France",15,26
+"601",1952,"Winter","GBR","UK",12,18
+"602",1952,"Winter","GER","Germany",21,53
+"603",1952,"Winter","GRE","Greece",2,3
+"604",1952,"Winter","HUN","Hungary",14,12
+"605",1952,"Winter","ISL","Iceland",7,11
+"606",1952,"Winter","ITA","Italy",17,33
+"607",1952,"Winter","JPN","Japan",10,13
+"608",1952,"Winter","LIB","Lebanon",3,1
+"609",1952,"Winter","NED","Netherlands",9,11
+"610",1952,"Winter","NOR","Norway",21,73
+"611",1952,"Winter","NZL","New Zealand",5,3
+"612",1952,"Winter","POL","Poland",9,30
+"613",1952,"Winter","POR","Portugal",1,1
+"614",1952,"Winter","ROU","Romania",7,16
+"615",1952,"Winter","SUI","Switzerland",17,55
+"616",1952,"Winter","SWE","Sweden",20,65
+"617",1952,"Winter","TCH","Czech Republic",5,22
+"618",1952,"Winter","USA","USA",20,66
+"619",1952,"Winter","YUG","Serbia",5,6
+"620",1956,"Summer","AFG","Afghanistan",1,12
+"621",1956,"Summer","ARG","Argentina",32,35
+"622",1956,"Summer","AUS","Australia",143,298
+"623",1956,"Summer","AUT","Austria",36,34
+"624",1956,"Summer","BAH","Bahamas",4,4
+"625",1956,"Summer","BEL","Belgium",39,57
+"626",1956,"Summer","BER","Bermuda",1,3
+"627",1956,"Summer","BRA","Brazil",30,47
+"628",1956,"Summer","BUL","Bulgaria",31,47
+"629",1956,"Summer","CAM","Cambodia",1,2
+"630",1956,"Summer","CAN","Canada",84,96
+"631",1956,"Summer","CHI","Chile",22,33
+"632",1956,"Summer","COL","Colombia",23,26
+"633",1956,"Summer","CUB","Cuba",16,16
+"634",1956,"Summer","DEN","Denmark",29,37
+"635",1956,"Summer","EGY","Egypt",2,3
+"636",1956,"Summer","ESP","Spain",4,6
+"637",1956,"Summer","ETH","Ethiopia",10,12
+"638",1956,"Summer","FIJ","Fiji",4,5
+"639",1956,"Summer","FIN","Finland",67,71
+"640",1956,"Summer","FRA","France",101,145
+"641",1956,"Summer","GBR","UK",113,197
+"642",1956,"Summer","GER","Germany",100,167
+"643",1956,"Summer","GRE","Greece",13,13
+"644",1956,"Summer","GUY","Guyana",6,4
+"645",1956,"Summer","HKG","China",3,2
+"646",1956,"Summer","HUN","Hungary",82,111
+"647",1956,"Summer","INA","Indonesia",11,22
+"648",1956,"Summer","IND","India",32,59
+"649",1956,"Summer","IRI","Iran",17,17
+"650",1956,"Summer","IRL","Ireland",17,18
+"651",1956,"Summer","ISL","Iceland",2,2
+"652",1956,"Summer","ISR","Israel",3,3
+"653",1956,"Summer","ITA","Italy",80,135
+"654",1956,"Summer","JAM","Jamaica",6,6
+"655",1956,"Summer","JPN","Japan",72,112
+"656",1956,"Summer","KEN","Kenya",10,25
+"657",1956,"Summer","KOR","South Korea",23,35
+"658",1956,"Summer","LBR","Liberia",6,4
+"659",1956,"Summer","LUX","Luxembourg",22,11
+"660",1956,"Summer","MAL","Malaysia",13,32
+"661",1956,"Summer","MEX","Mexico",20,24
+"662",1956,"Summer","MYA","Myanmar",11,11
+"663",1956,"Summer","NBO","Malaysia",1,2
+"664",1956,"Summer","NED","Netherlands",1,1
+"665",1956,"Summer","NGR","Nigeria",6,10
+"666",1956,"Summer","NOR","Norway",18,22
+"667",1956,"Summer","NZL","New Zealand",28,51
+"668",1956,"Summer","PAK","Pakistan",43,55
+"669",1956,"Summer","PER","Peru",5,8
+"670",1956,"Summer","PHI","Philippines",30,39
+"671",1956,"Summer","POL","Poland",48,64
+"672",1956,"Summer","POR","Portugal",7,12
+"673",1956,"Summer","PUR","Puerto Rico",9,10
+"674",1956,"Summer","ROU","Romania",39,50
+"675",1956,"Summer","RSA","South Africa",50,50
+"676",1956,"Summer","SRI","Sri Lanka",3,3
+"677",1956,"Summer","SUI","Switzerland",6,9
+"678",1956,"Summer","SWE","Sweden",80,97
+"679",1956,"Summer","TCH","Czech Republic",54,63
+"680",1956,"Summer","THA","Thailand",14,35
+"681",1956,"Summer","TPE","Taiwan",13,20
+"682",1956,"Summer","TTO","Trinidad",7,6
+"683",1956,"Summer","TUR","Turkey",20,19
+"684",1956,"Summer","UGA","Uganda",5,3
+"685",1956,"Summer","URS","Russia",141,281
+"686",1956,"Summer","URU","Uruguay",8,21
+"687",1956,"Summer","USA","USA",144,305
+"688",1956,"Summer","VEN","Venezuela",16,22
+"689",1956,"Summer","VNM","Vietnam",4,6
+"690",1956,"Summer","YUG","Serbia",16,35
+"691",1956,"Winter","AUS","Australia",11,8
+"692",1956,"Winter","AUT","Austria",20,60
+"693",1956,"Winter","BEL","Belgium",5,4
+"694",1956,"Winter","BOL","Boliva",2,1
+"695",1956,"Winter","BUL","Bulgaria",7,7
+"696",1956,"Winter","CAN","Canada",19,35
+"697",1956,"Winter","CHI","Chile",3,3
+"698",1956,"Winter","ESP","Spain",6,9
+"699",1956,"Winter","FIN","Finland",16,31
+"700",1956,"Winter","FRA","France",17,32
+"701",1956,"Winter","GBR","UK",19,41
+"702",1956,"Winter","GER","Germany",24,63
+"703",1956,"Winter","GRE","Greece",3,3
+"704",1956,"Winter","HUN","Hungary",1,2
+"705",1956,"Winter","IRI","Iran",3,3
+"706",1956,"Winter","ISL","Iceland",7,7
+"707",1956,"Winter","ITA","Italy",22,65
+"708",1956,"Winter","JPN","Japan",12,10
+"709",1956,"Winter","KOR","South Korea",4,4
+"710",1956,"Winter","LIB","Lebanon",4,3
+"711",1956,"Winter","LIE","Liechtenstein",4,8
+"712",1956,"Winter","NED","Netherlands",5,8
+"713",1956,"Winter","NOR","Norway",20,45
+"714",1956,"Winter","POL","Poland",17,51
+"715",1956,"Winter","ROU","Romania",13,19
+"716",1956,"Winter","SUI","Switzerland",19,59
+"717",1956,"Winter","SWE","Sweden",22,58
+"718",1956,"Winter","TCH","Czech Republic",18,41
+"719",1956,"Winter","TUR","Turkey",3,4
+"720",1956,"Winter","URS","Russia",19,53
+"721",1956,"Winter","USA","USA",21,67
+"722",1956,"Winter","YUG","Serbia",13,17
+"723",1960,"Summer","AFG","Afghanistan",13,12
+"724",1960,"Summer","AHO","Curacao",4,5
+"725",1960,"Summer","ARG","Argentina",54,92
+"726",1960,"Summer","AUS","Australia",122,189
+"727",1960,"Summer","AUT","Austria",81,103
+"728",1960,"Summer","BAH","Bahamas",8,13
+"729",1960,"Summer","BEL","Belgium",64,101
+"730",1960,"Summer","BER","Bermuda",4,9
+"731",1960,"Summer","BRA","Brazil",35,72
+"732",1960,"Summer","BUL","Bulgaria",66,98
+"733",1960,"Summer","CAN","Canada",77,85
+"734",1960,"Summer","CHI","Chile",8,9
+"735",1960,"Summer","COL","Colombia",13,16
+"736",1960,"Summer","CUB","Cuba",15,12
+"737",1960,"Summer","DEN","Denmark",46,100
+"738",1960,"Summer","ESP","Spain",83,144
+"739",1960,"Summer","ETH","Ethiopia",8,10
+"740",1960,"Summer","FIJ","Fiji",3,2
+"741",1960,"Summer","FIN","Finland",92,117
+"742",1960,"Summer","FRA","France",120,238
+"743",1960,"Summer","GBR","UK",130,253
+"744",1960,"Summer","GER","Germany",148,294
+"745",1960,"Summer","GHA","Ghana",12,13
+"746",1960,"Summer","GRE","Greece",38,48
+"747",1960,"Summer","GUY","Guyana",6,5
+"748",1960,"Summer","HAI","Haiti",1,1
+"749",1960,"Summer","HKG","China",3,4
+"750",1960,"Summer","HUN","Hungary",107,184
+"751",1960,"Summer","INA","Indonesia",17,22
+"752",1960,"Summer","IND","India",20,45
+"753",1960,"Summer","IRI","Iran",24,23
+"754",1960,"Summer","IRL","Ireland",39,49
+"755",1960,"Summer","IRQ","Iraq",23,21
+"756",1960,"Summer","ISL","Iceland",11,9
+"757",1960,"Summer","ISR","Israel",28,23
+"758",1960,"Summer","ITA","Italy",138,280
+"759",1960,"Summer","JPN","Japan",96,162
+"760",1960,"Summer","KEN","Kenya",13,27
+"761",1960,"Summer","KOR","South Korea",38,35
+"762",1960,"Summer","LBR","Liberia",5,4
+"763",1960,"Summer","LIB","Lebanon",15,19
+"764",1960,"Summer","LIE","Liechtenstein",6,5
+"765",1960,"Summer","LUX","Luxembourg",48,52
+"766",1960,"Summer","MAL","Malaysia",11,9
+"767",1960,"Summer","MAR","Morocco",45,47
+"768",1960,"Summer","MEX","Mexico",55,69
+"769",1960,"Summer","MLT","Malta",6,10
+"770",1960,"Summer","MON","Monaco",6,11
+"771",1960,"Summer","MYA","Myanmar",9,10
+"772",1960,"Summer","NED","Netherlands",54,110
+"773",1960,"Summer","NGR","Nigeria",12,12
+"774",1960,"Summer","NOR","Norway",39,40
+"775",1960,"Summer","NZL","New Zealand",28,37
+"776",1960,"Summer","PAK","Pakistan",35,44
+"777",1960,"Summer","PAN","Panama",4,6
+"778",1960,"Summer","PER","Peru",8,31
+"779",1960,"Summer","PHI","Philippines",27,40
+"780",1960,"Summer","POL","Poland",108,185
+"781",1960,"Summer","POR","Portugal",52,65
+"782",1960,"Summer","PUR","Puerto Rico",13,27
+"783",1960,"Summer","RHO","Zimbabwe",11,10
+"784",1960,"Summer","ROU","Romania",65,98
+"785",1960,"Summer","RSA","South Africa",46,55
+"786",1960,"Summer","SMR","San Marino",5,9
+"787",1960,"Summer","SRI","Sri Lanka",5,5
+"788",1960,"Summer","SUD","Sudan",10,10
+"789",1960,"Summer","SUI","Switzerland",90,149
+"790",1960,"Summer","SWE","Sweden",100,134
+"791",1960,"Summer","TCH","Czech Republic",75,116
+"792",1960,"Summer","THA","Thailand",16,20
+"793",1960,"Summer","TPE","Taiwan",18,27
+"794",1960,"Summer","TUN","Tunisia",22,42
+"795",1960,"Summer","TUR","Turkey",41,49
+"796",1960,"Summer","UAR","Syria",34,74
+"797",1960,"Summer","UGA","Uganda",11,10
+"798",1960,"Summer","URS","Russia",145,283
+"799",1960,"Summer","URU","Uruguay",15,34
+"800",1960,"Summer","USA","USA",147,292
+"801",1960,"Summer","VEN","Venezuela",26,36
+"802",1960,"Summer","VNM","Vietnam",5,3
+"803",1960,"Summer","WIF","Trinidad",13,13
+"804",1960,"Summer","YUG","Serbia",64,116
+"805",1960,"Summer","ZIM","Zimbabwe",6,4
+"806",1960,"Winter","ARG","Argentina",8,6
+"807",1960,"Winter","AUS","Australia",14,30
+"808",1960,"Winter","AUT","Austria",15,26
+"809",1960,"Winter","BUL","Bulgaria",7,7
+"810",1960,"Winter","CAN","Canada",22,44
+"811",1960,"Winter","CHI","Chile",3,5
+"812",1960,"Winter","DEN","Denmark",3,1
+"813",1960,"Winter","ESP","Spain",6,4
+"814",1960,"Winter","FIN","Finland",18,48
+"815",1960,"Winter","FRA","France",21,26
+"816",1960,"Winter","GBR","UK",16,17
+"817",1960,"Winter","GER","Germany",27,74
+"818",1960,"Winter","HUN","Hungary",4,3
+"819",1960,"Winter","ISL","Iceland",4,4
+"820",1960,"Winter","ITA","Italy",17,28
+"821",1960,"Winter","JPN","Japan",20,41
+"822",1960,"Winter","KOR","South Korea",13,7
+"823",1960,"Winter","LIB","Lebanon",3,2
+"824",1960,"Winter","LIE","Liechtenstein",3,3
+"825",1960,"Winter","NED","Netherlands",5,7
+"826",1960,"Winter","NOR","Norway",17,29
+"827",1960,"Winter","NZL","New Zealand",6,4
+"828",1960,"Winter","POL","Poland",11,13
+"829",1960,"Winter","RSA","South Africa",2,4
+"830",1960,"Winter","SUI","Switzerland",12,21
+"831",1960,"Winter","SWE","Sweden",18,47
+"832",1960,"Winter","TCH","Czech Republic",6,21
+"833",1960,"Winter","TUR","Turkey",3,2
+"834",1960,"Winter","URS","Russia",22,62
+"835",1960,"Winter","USA","USA",25,79
+"836",1964,"Summer","AFG","Afghanistan",8,8
+"837",1964,"Summer","AHO","Curacao",4,4
+"838",1964,"Summer","ALG","Algeria",7,1
+"839",1964,"Summer","ARG","Argentina",78,102
+"840",1964,"Summer","AUS","Australia",133,243
+"841",1964,"Summer","AUT","Austria",54,56
+"842",1964,"Summer","BAH","Bahamas",6,11
+"843",1964,"Summer","BEL","Belgium",36,61
+"844",1964,"Summer","BER","Bermuda",2,4
+"845",1964,"Summer","BOL","Boliva",1,1
+"846",1964,"Summer","BRA","Brazil",17,61
+"847",1964,"Summer","BUL","Bulgaria",56,63
+"848",1964,"Summer","CAM","Cambodia",10,13
+"849",1964,"Summer","CAN","Canada",92,115
+"850",1964,"Summer","CGO","Republic of Congo",2,2
+"851",1964,"Summer","CHA","Chad",2,2
+"852",1964,"Summer","CHI","Chile",13,14
+"853",1964,"Summer","CIV","Ivory Coast",10,9
+"854",1964,"Summer","CMR","Cameroon",2,1
+"855",1964,"Summer","COL","Colombia",19,20
+"856",1964,"Summer","CRC","Costa Rica",1,2
+"857",1964,"Summer","CUB","Cuba",24,27
+"858",1964,"Summer","DEN","Denmark",40,60
+"859",1964,"Summer","DOM","Dominican Republic",1,1
+"860",1964,"Summer","EGY","Egypt",35,73
+"861",1964,"Summer","ESP","Spain",35,51
+"862",1964,"Summer","ETH","Ethiopia",11,12
+"863",1964,"Summer","FIN","Finland",64,89
+"864",1964,"Summer","FRA","France",89,138
+"865",1964,"Summer","GBR","UK",124,204
+"866",1964,"Summer","GER","Germany",159,337
+"867",1964,"Summer","GHA","Ghana",18,33
+"868",1964,"Summer","GRE","Greece",16,18
+"869",1964,"Summer","GUY","Guyana",1,1
+"870",1964,"Summer","HKG","China",24,39
+"871",1964,"Summer","HUN","Hungary",111,182
+"872",1964,"Summer","IND","India",42,53
+"873",1964,"Summer","IRI","Iran",58,62
+"874",1964,"Summer","IRL","Ireland",23,25
+"875",1964,"Summer","IRQ","Iraq",14,13
+"876",1964,"Summer","ISL","Iceland",5,4
+"877",1964,"Summer","ISR","Israel",12,10
+"878",1964,"Summer","ITA","Italy",91,168
+"879",1964,"Summer","JAM","Jamaica",16,21
+"880",1964,"Summer","JPN","Japan",155,328
+"881",1964,"Summer","KEN","Kenya",21,37
+"882",1964,"Summer","KOR","South Korea",93,154
+"883",1964,"Summer","LBR","Liberia",2,1
+"884",1964,"Summer","LIB","Lebanon",3,5
+"885",1964,"Summer","LIE","Liechtenstein",3,2
+"886",1964,"Summer","LUX","Luxembourg",18,12
+"887",1964,"Summer","MAD","Madagascar",4,3
+"888",1964,"Summer","MAR","Morocco",10,20
+"889",1964,"Summer","MAS","Malaysia",48,61
+"890",1964,"Summer","MEX","Mexico",58,94
+"891",1964,"Summer","MGL","Mongolia",29,21
+"892",1964,"Summer","MLI","Mali",2,2
+"893",1964,"Summer","MON","Monaco",1,1
+"894",1964,"Summer","MYA","Myanmar",11,11
+"895",1964,"Summer","NED","Netherlands",57,125
+"896",1964,"Summer","NEP","Nepal",5,6
+"897",1964,"Summer","NGR","Nigeria",12,18
+"898",1964,"Summer","NIG","Niger",1,1
+"899",1964,"Summer","NOR","Norway",23,26
+"900",1964,"Summer","NZL","New Zealand",35,64
+"901",1964,"Summer","PAK","Pakistan",29,41
+"902",1964,"Summer","PAN","Panama",10,10
+"903",1964,"Summer","PER","Peru",19,31
+"904",1964,"Summer","PHI","Philippines",45,47
+"905",1964,"Summer","POL","Poland",87,140
+"906",1964,"Summer","POR","Portugal",20,20
+"907",1964,"Summer","PUR","Puerto Rico",29,32
+"908",1964,"Summer","ROU","Romania",76,138
+"909",1964,"Summer","SEN","Senegal",7,12
+"910",1964,"Summer","SRI","Sri Lanka",6,6
+"911",1964,"Summer","SUI","Switzerland",51,66
+"912",1964,"Summer","SWE","Sweden",72,94
+"913",1964,"Summer","TAN","Tanzania",4,4
+"914",1964,"Summer","TCH","Czech Republic",64,104
+"915",1964,"Summer","THA","Thailand",41,54
+"916",1964,"Summer","TPE","Taiwan",46,40
+"917",1964,"Summer","TTO","Trinidad",10,13
+"918",1964,"Summer","TUN","Tunisia",9,9
+"919",1964,"Summer","TUR","Turkey",24,23
+"920",1964,"Summer","UGA","Uganda",14,13
+"921",1964,"Summer","URS","Russia",154,317
+"922",1964,"Summer","URU","Uruguay",8,23
+"923",1964,"Summer","USA","USA",159,346
+"924",1964,"Summer","VEN","Venezuela",16,16
+"925",1964,"Summer","VNM","Vietnam",14,16
+"926",1964,"Summer","YUG","Serbia",32,75
+"927",1964,"Summer","ZAM","Zambia",13,12
+"928",1964,"Summer","ZIM","Zimbabwe",15,29
+"929",1964,"Winter","ARG","Argentina",8,12
+"930",1964,"Winter","AUS","Australia",6,5
+"931",1964,"Winter","AUT","Austria",29,83
+"932",1964,"Winter","BEL","Belgium",6,8
+"933",1964,"Winter","BUL","Bulgaria",9,7
+"934",1964,"Winter","CAN","Canada",27,55
+"935",1964,"Winter","CHI","Chile",3,5
+"936",1964,"Winter","DEN","Denmark",5,2
+"937",1964,"Winter","ESP","Spain",3,6
+"938",1964,"Winter","FIN","Finland",23,51
+"939",1964,"Winter","FRA","France",18,24
+"940",1964,"Winter","GBR","UK",19,36
+"941",1964,"Winter","GER","Germany",34,96
+"942",1964,"Winter","GRE","Greece",3,3
+"943",1964,"Winter","HUN","Hungary",18,28
+"944",1964,"Winter","IND","India",1,1
+"945",1964,"Winter","IRI","Iran",3,4
+"946",1964,"Winter","ISL","Iceland",4,5
+"947",1964,"Winter","ITA","Italy",25,61
+"948",1964,"Winter","JPN","Japan",22,47
+"949",1964,"Winter","KOR","South Korea",12,7
+"950",1964,"Winter","LIB","Lebanon",3,4
+"951",1964,"Winter","LIE","Liechtenstein",4,6
+"952",1964,"Winter","MGL","Mongolia",11,13
+"953",1964,"Winter","NED","Netherlands",7,6
+"954",1964,"Winter","NOR","Norway",24,58
+"955",1964,"Winter","POL","Poland",24,51
+"956",1964,"Winter","PRK","North Korea",10,13
+"957",1964,"Winter","ROU","Romania",6,27
+"958",1964,"Winter","SUI","Switzerland",27,72
+"959",1964,"Winter","SWE","Sweden",25,57
+"960",1964,"Winter","TCH","Czech Republic",25,46
+"961",1964,"Winter","TUR","Turkey",3,5
+"962",1964,"Winter","URS","Russia",27,69
+"963",1964,"Winter","USA","USA",31,90
+"964",1964,"Winter","YUG","Serbia",12,31
+"965",1968,"Summer","AFG","Afghanistan",5,5
+"966",1968,"Summer","AHO","Curacao",4,5
+"967",1968,"Summer","ALG","Algeria",9,3
+"968",1968,"Summer","ARG","Argentina",60,89
+"969",1968,"Summer","AUS","Australia",105,128
+"970",1968,"Summer","AUT","Austria",37,43
+"971",1968,"Summer","BAH","Bahamas",12,16
+"972",1968,"Summer","BAR","Barbados",10,9
+"973",1968,"Summer","BEL","Belgium",55,82
+"974",1968,"Summer","BER","Bermuda",4,6
+"975",1968,"Summer","BIZ","Belize",6,7
+"976",1968,"Summer","BOL","Boliva",3,4
+"977",1968,"Summer","BRA","Brazil",27,76
+"978",1968,"Summer","BUL","Bulgaria",69,112
+"979",1968,"Summer","CAF","Central African Republic",1,1
+"980",1968,"Summer","CAN","Canada",124,139
+"981",1968,"Summer","CHA","Chad",3,3
+"982",1968,"Summer","CHI","Chile",19,21
+"983",1968,"Summer","CIV","Ivory Coast",7,10
+"984",1968,"Summer","CMR","Cameroon",5,5
+"985",1968,"Summer","COD","Democratic Republic of the Congo",2,5
+"986",1968,"Summer","COL","Colombia",33,43
+"987",1968,"Summer","CRC","Costa Rica",18,18
+"988",1968,"Summer","CUB","Cuba",78,115
+"989",1968,"Summer","DEN","Denmark",53,64
+"990",1968,"Summer","DOM","Dominican Republic",16,18
+"991",1968,"Summer","ECU","Ecuador",21,15
+"992",1968,"Summer","EGY","Egypt",18,30
+"993",1968,"Summer","ESA","El Salvador",48,60
+"994",1968,"Summer","ESP","Spain",50,122
+"995",1968,"Summer","ETH","Ethiopia",13,18
+"996",1968,"Summer","FIJ","Fiji",1,1
+"997",1968,"Summer","FIN","Finland",61,66
+"998",1968,"Summer","FRA","France",107,200
+"999",1968,"Summer","FRG","Germany",154,275
+"1000",1968,"Summer","GBR","UK",133,225
+"1001",1968,"Summer","GDR","Germany",124,226
+"1002",1968,"Summer","GHA","Ghana",18,31
+"1003",1968,"Summer","GRE","Greece",27,44
+"1004",1968,"Summer","GUA","Guatemala",37,48
+"1005",1968,"Summer","GUI","Guinea",1,15
+"1006",1968,"Summer","GUY","Guyana",6,5
+"1007",1968,"Summer","HKG","China",12,11
+"1008",1968,"Summer","HON","Honduras",4,6
+"1009",1968,"Summer","HUN","Hungary",116,167
+"1010",1968,"Summer","INA","Indonesia",5,6
+"1011",1968,"Summer","IND","India",11,25
+"1012",1968,"Summer","IRI","Iran",14,14
+"1013",1968,"Summer","IRL","Ireland",32,31
+"1014",1968,"Summer","IRQ","Iraq",4,3
+"1015",1968,"Summer","ISL","Iceland",15,8
+"1016",1968,"Summer","ISR","Israel",20,29
+"1017",1968,"Summer","ISV","Virgin Islands, US",5,6
+"1018",1968,"Summer","ITA","Italy",103,167
+"1019",1968,"Summer","JAM","Jamaica",21,25
+"1020",1968,"Summer","JPN","Japan",97,171
+"1021",1968,"Summer","KEN","Kenya",22,39
+"1022",1968,"Summer","KOR","South Korea",43,54
+"1023",1968,"Summer","KUW","Kuwait",1,2
+"1024",1968,"Summer","LBA","Libya",1,1
+"1025",1968,"Summer","LIB","Lebanon",13,11
+"1026",1968,"Summer","LIE","Liechtenstein",3,2
+"1027",1968,"Summer","LUX","Luxembourg",7,5
+"1028",1968,"Summer","MAD","Madagascar",6,4
+"1029",1968,"Summer","MAR","Morocco",14,25
+"1030",1968,"Summer","MAS","Malaysia",14,31
+"1031",1968,"Summer","MEX","Mexico",146,275
+"1032",1968,"Summer","MGL","Mongolia",26,16
+"1033",1968,"Summer","MLI","Mali",2,2
+"1034",1968,"Summer","MLT","Malta",1,1
+"1035",1968,"Summer","MON","Monaco",1,2
+"1036",1968,"Summer","MYA","Myanmar",3,4
+"1037",1968,"Summer","NCA","Nicaragua",15,11
+"1038",1968,"Summer","NED","Netherlands",52,107
+"1039",1968,"Summer","NGR","Nigeria",18,36
+"1040",1968,"Summer","NIG","Niger",2,2
+"1041",1968,"Summer","NOR","Norway",36,46
+"1042",1968,"Summer","NZL","New Zealand",26,52
+"1043",1968,"Summer","PAK","Pakistan",3,15
+"1044",1968,"Summer","PAN","Panama",5,16
+"1045",1968,"Summer","PAR","Paraguay",1,1
+"1046",1968,"Summer","PER","Peru",21,28
+"1047",1968,"Summer","PHI","Philippines",53,49
+"1048",1968,"Summer","POL","Poland",112,177
+"1049",1968,"Summer","POR","Portugal",24,20
+"1050",1968,"Summer","PUR","Puerto Rico",54,58
+"1051",1968,"Summer","ROU","Romania",64,82
+"1052",1968,"Summer","SEN","Senegal",9,21
+"1053",1968,"Summer","SLE","Sierra Leone",4,3
+"1054",1968,"Summer","SMR","San Marino",2,4
+"1055",1968,"Summer","SRI","Sri Lanka",3,3
+"1056",1968,"Summer","SUD","Sudan",7,5
+"1057",1968,"Summer","SUI","Switzerland",68,85
+"1058",1968,"Summer","SUR","Suriname",1,1
+"1059",1968,"Summer","SWE","Sweden",95,100
+"1060",1968,"Summer","SYR","Syria",2,2
+"1061",1968,"Summer","TAN","Tanzania",5,4
+"1062",1968,"Summer","TCH","Czech Republic",66,121
+"1063",1968,"Summer","THA","Thailand",18,41
+"1064",1968,"Summer","TPE","Taiwan",57,43
+"1065",1968,"Summer","TTO","Trinidad",14,19
+"1066",1968,"Summer","TUN","Tunisia",7,7
+"1067",1968,"Summer","TUR","Turkey",29,29
+"1068",1968,"Summer","UGA","Uganda",14,11
+"1069",1968,"Summer","URS","Russia",164,312
+"1070",1968,"Summer","URU","Uruguay",31,27
+"1071",1968,"Summer","USA","USA",167,357
+"1072",1968,"Summer","VEN","Venezuela",17,23
+"1073",1968,"Summer","VNM","Vietnam",7,9
+"1074",1968,"Summer","YUG","Serbia",54,69
+"1075",1968,"Summer","ZAM","Zambia",5,7
+"1076",1968,"Winter","ARG","Argentina",5,5
+"1077",1968,"Winter","AUS","Australia",7,3
+"1078",1968,"Winter","AUT","Austria",28,76
+"1079",1968,"Winter","BUL","Bulgaria",8,6
+"1080",1968,"Winter","CAN","Canada",30,70
+"1081",1968,"Winter","CHI","Chile",5,4
+"1082",1968,"Winter","DEN","Denmark",4,3
+"1083",1968,"Winter","ESP","Spain",6,20
+"1084",1968,"Winter","FIN","Finland",24,52
+"1085",1968,"Winter","FRA","France",31,75
+"1086",1968,"Winter","FRG","Germany",35,87
+"1087",1968,"Winter","GBR","UK",20,38
+"1088",1968,"Winter","GDR","Germany",25,57
+"1089",1968,"Winter","GRE","Greece",5,3
+"1090",1968,"Winter","HUN","Hungary",13,10
+"1091",1968,"Winter","IND","India",3,1
+"1092",1968,"Winter","IRI","Iran",3,4
+"1093",1968,"Winter","ISL","Iceland",2,4
+"1094",1968,"Winter","ITA","Italy",24,47
+"1095",1968,"Winter","JPN","Japan",28,61
+"1096",1968,"Winter","KOR","South Korea",11,8
+"1097",1968,"Winter","LIB","Lebanon",2,3
+"1098",1968,"Winter","LIE","Liechtenstein",7,9
+"1099",1968,"Winter","MAR","Morocco",2,5
+"1100",1968,"Winter","MGL","Mongolia",6,7
+"1101",1968,"Winter","NED","Netherlands",8,9
+"1102",1968,"Winter","NOR","Norway",27,65
+"1103",1968,"Winter","NZL","New Zealand",6,6
+"1104",1968,"Winter","POL","Poland",17,31
+"1105",1968,"Winter","ROU","Romania",9,30
+"1106",1968,"Winter","SUI","Switzerland",19,34
+"1107",1968,"Winter","SWE","Sweden",31,68
+"1108",1968,"Winter","TCH","Czech Republic",21,48
+"1109",1968,"Winter","TUR","Turkey",5,11
+"1110",1968,"Winter","URS","Russia",30,74
+"1111",1968,"Winter","USA","USA",32,96
+"1112",1968,"Winter","YUG","Serbia",12,30
+"1113",1972,"Summer","AFG","Afghanistan",8,8
+"1114",1972,"Summer","AHO","Curacao",2,2
+"1115",1972,"Summer","ALB","Albania",3,5
+"1116",1972,"Summer","ALG","Algeria",5,5
+"1117",1972,"Summer","ARG","Argentina",62,92
+"1118",1972,"Summer","AUS","Australia",110,168
+"1119",1972,"Summer","AUT","Austria",68,111
+"1120",1972,"Summer","BAH","Bahamas",13,20
+"1121",1972,"Summer","BAR","Barbados",13,13
+"1122",1972,"Summer","BEL","Belgium",51,88
+"1123",1972,"Summer","BEN","Benin",3,3
+"1124",1972,"Summer","BER","Bermuda",4,9
+"1125",1972,"Summer","BIZ","Belize",2,1
+"1126",1972,"Summer","BOL","Boliva",9,11
+"1127",1972,"Summer","BRA","Brazil",44,81
+"1128",1972,"Summer","BUL","Bulgaria",92,130
+"1129",1972,"Summer","BUR","Burkina Faso",1,1
+"1130",1972,"Summer","CAM","Cambodia",14,9
+"1131",1972,"Summer","CAN","Canada",136,208
+"1132",1972,"Summer","CGO","Republic of Congo",5,6
+"1133",1972,"Summer","CHA","Chad",4,4
+"1134",1972,"Summer","CHI","Chile",9,11
+"1135",1972,"Summer","CIV","Ivory Coast",7,11
+"1136",1972,"Summer","CMR","Cameroon",12,11
+"1137",1972,"Summer","COL","Colombia",39,59
+"1138",1972,"Summer","CRC","Costa Rica",4,3
+"1139",1972,"Summer","CUB","Cuba",69,137
+"1140",1972,"Summer","DEN","Denmark",73,126
+"1141",1972,"Summer","DOM","Dominican Republic",4,5
+"1142",1972,"Summer","ECU","Ecuador",4,2
+"1143",1972,"Summer","EGY","Egypt",16,23
+"1144",1972,"Summer","ESA","El Salvador",12,11
+"1145",1972,"Summer","ESP","Spain",59,123
+"1146",1972,"Summer","ETH","Ethiopia",20,31
+"1147",1972,"Summer","FIJ","Fiji",4,2
+"1148",1972,"Summer","FIN","Finland",75,96
+"1149",1972,"Summer","FRA","France",132,227
+"1150",1972,"Summer","FRG","Germany",183,424
+"1151",1972,"Summer","GAB","Gabon",1,1
+"1152",1972,"Summer","GBR","UK",159,284
+"1153",1972,"Summer","GDR","Germany",161,297
+"1154",1972,"Summer","GHA","Ghana",17,35
+"1155",1972,"Summer","GRE","Greece",46,60
+"1156",1972,"Summer","GUA","Guatemala",10,8
+"1157",1972,"Summer","GUY","Guyana",4,3
+"1158",1972,"Summer","HAI","Haiti",7,7
+"1159",1972,"Summer","HKG","China",13,10
+"1160",1972,"Summer","HUN","Hungary",134,232
+"1161",1972,"Summer","INA","Indonesia",7,6
+"1162",1972,"Summer","IND","India",27,41
+"1163",1972,"Summer","IRI","Iran",33,48
+"1164",1972,"Summer","IRL","Ireland",54,59
+"1165",1972,"Summer","ISL","Iceland",16,25
+"1166",1972,"Summer","ISR","Israel",14,14
+"1167",1972,"Summer","ISV","Virgin Islands, US",9,16
+"1168",1972,"Summer","ITA","Italy",123,224
+"1169",1972,"Summer","JAM","Jamaica",27,33
+"1170",1972,"Summer","JPN","Japan",113,184
+"1171",1972,"Summer","KEN","Kenya",29,57
+"1172",1972,"Summer","KOR","South Korea",24,42
+"1173",1972,"Summer","KSA","Saudi Arabia",11,10
+"1174",1972,"Summer","KUW","Kuwait",4,4
+"1175",1972,"Summer","LBR","Liberia",5,5
+"1176",1972,"Summer","LES","Lesotho",2,1
+"1177",1972,"Summer","LIB","Lebanon",23,19
+"1178",1972,"Summer","LIE","Liechtenstein",11,6
+"1179",1972,"Summer","LUX","Luxembourg",8,11
+"1180",1972,"Summer","MAD","Madagascar",10,11
+"1181",1972,"Summer","MAR","Morocco",19,35
+"1182",1972,"Summer","MAS","Malaysia",20,45
+"1183",1972,"Summer","MAW","Malawi",17,16
+"1184",1972,"Summer","MEX","Mexico",112,174
+"1185",1972,"Summer","MGL","Mongolia",39,39
+"1186",1972,"Summer","MLI","Mali",3,3
+"1187",1972,"Summer","MLT","Malta",2,5
+"1188",1972,"Summer","MON","Monaco",4,5
+"1189",1972,"Summer","MYA","Myanmar",7,18
+"1190",1972,"Summer","NCA","Nicaragua",10,8
+"1191",1972,"Summer","NED","Netherlands",72,119
+"1192",1972,"Summer","NEP","Nepal",1,2
+"1193",1972,"Summer","NGR","Nigeria",24,25
+"1194",1972,"Summer","NIG","Niger",4,4
+"1195",1972,"Summer","NOR","Norway",70,112
+"1196",1972,"Summer","NZL","New Zealand",63,89
+"1197",1972,"Summer","PAK","Pakistan",12,25
+"1198",1972,"Summer","PAN","Panama",8,7
+"1199",1972,"Summer","PAR","Paraguay",3,3
+"1200",1972,"Summer","PER","Peru",25,20
+"1201",1972,"Summer","PHI","Philippines",47,53
+"1202",1972,"Summer","POL","Poland",150,290
+"1203",1972,"Summer","POR","Portugal",28,29
+"1204",1972,"Summer","PRK","North Korea",23,37
+"1205",1972,"Summer","PUR","Puerto Rico",37,53
+"1206",1972,"Summer","ROU","Romania",102,159
+"1207",1972,"Summer","SEN","Senegal",23,38
+"1208",1972,"Summer","SMR","San Marino",4,7
+"1209",1972,"Summer","SOM","Somalia",4,3
+"1210",1972,"Summer","SRI","Sri Lanka",6,4
+"1211",1972,"Summer","SUD","Sudan",15,26
+"1212",1972,"Summer","SUI","Switzerland",116,151
+"1213",1972,"Summer","SUR","Suriname",3,2
+"1214",1972,"Summer","SWE","Sweden",90,131
+"1215",1972,"Summer","SWZ","Swaziland",4,2
+"1216",1972,"Summer","SYR","Syria",4,5
+"1217",1972,"Summer","TAN","Tanzania",16,15
+"1218",1972,"Summer","TCH","Czech Republic",93,181
+"1219",1972,"Summer","THA","Thailand",21,33
+"1220",1972,"Summer","TOG","Togo",5,7
+"1221",1972,"Summer","TPE","Taiwan",41,21
+"1222",1972,"Summer","TTO","Trinidad",16,19
+"1223",1972,"Summer","TUN","Tunisia",11,35
+"1224",1972,"Summer","TUR","Turkey",43,43
+"1225",1972,"Summer","UGA","Uganda",19,33
+"1226",1972,"Summer","URS","Russia",180,371
+"1227",1972,"Summer","URU","Uruguay",12,13
+"1228",1972,"Summer","USA","USA",185,400
+"1229",1972,"Summer","VEN","Venezuela",27,23
+"1230",1972,"Summer","VNM","Vietnam",1,2
+"1231",1972,"Summer","YUG","Serbia",73,126
+"1232",1972,"Summer","ZAM","Zambia",12,11
+"1233",1972,"Winter","ARG","Argentina",3,2
+"1234",1972,"Winter","AUS","Australia",7,4
+"1235",1972,"Winter","AUT","Austria",21,40
+"1236",1972,"Winter","BEL","Belgium",3,1
+"1237",1972,"Winter","BUL","Bulgaria",6,4
+"1238",1972,"Winter","CAN","Canada",28,47
+"1239",1972,"Winter","ESP","Spain",5,3
+"1240",1972,"Winter","FIN","Finland",21,50
+"1241",1972,"Winter","FRA","France",24,40
+"1242",1972,"Winter","FRG","Germany",32,78
+"1243",1972,"Winter","GBR","UK",23,37
+"1244",1972,"Winter","GDR","Germany",22,42
+"1245",1972,"Winter","GRE","Greece",2,3
+"1246",1972,"Winter","HUN","Hungary",1,1
+"1247",1972,"Winter","IRI","Iran",3,4
+"1248",1972,"Winter","ITA","Italy",21,44
+"1249",1972,"Winter","JPN","Japan",35,85
+"1250",1972,"Winter","KOR","South Korea",7,5
+"1251",1972,"Winter","LIB","Lebanon",2,1
+"1252",1972,"Winter","LIE","Liechtenstein",7,4
+"1253",1972,"Winter","MGL","Mongolia",6,4
+"1254",1972,"Winter","NED","Netherlands",9,11
+"1255",1972,"Winter","NOR","Norway",29,67
+"1256",1972,"Winter","NZL","New Zealand",3,2
+"1257",1972,"Winter","PHI","Philippines",2,2
+"1258",1972,"Winter","POL","Poland",17,47
+"1259",1972,"Winter","PRK","North Korea",4,6
+"1260",1972,"Winter","ROU","Romania",8,13
+"1261",1972,"Winter","SUI","Switzerland",16,52
+"1262",1972,"Winter","SWE","Sweden",30,58
+"1263",1972,"Winter","TCH","Czech Republic",14,41
+"1264",1972,"Winter","TPE","Taiwan",3,5
+"1265",1972,"Winter","URS","Russia",33,76
+"1266",1972,"Winter","USA","USA",35,103
+"1267",1972,"Winter","YUG","Serbia",6,26
+"1268",1976,"Summer","AHO","Curacao",4,4
+"1269",1976,"Summer","AND","Andorra",2,3
+"1270",1976,"Summer","ANT","Antigua",11,10
+"1271",1976,"Summer","ARG","Argentina",50,69
+"1272",1976,"Summer","AUS","Australia",115,180
+"1273",1976,"Summer","AUT","Austria",44,60
+"1274",1976,"Summer","BAH","Bahamas",13,11
+"1275",1976,"Summer","BAR","Barbados",11,11
+"1276",1976,"Summer","BEL","Belgium",80,101
+"1277",1976,"Summer","BER","Bermuda",12,16
+"1278",1976,"Summer","BIZ","Belize",4,4
+"1279",1976,"Summer","BOL","Boliva",5,4
+"1280",1976,"Summer","BRA","Brazil",47,79
+"1281",1976,"Summer","BUL","Bulgaria",108,158
+"1282",1976,"Summer","CAN","Canada",173,385
+"1283",1976,"Summer","CAY","Cayman Islands",1,2
+"1284",1976,"Summer","CHI","Chile",8,7
+"1285",1976,"Summer","CIV","Ivory Coast",8,8
+"1286",1976,"Summer","CMR","Cameroon",1,4
+"1287",1976,"Summer","COL","Colombia",30,35
+"1288",1976,"Summer","CRC","Costa Rica",9,5
+"1289",1976,"Summer","CUB","Cuba",76,156
+"1290",1976,"Summer","DEN","Denmark",40,66
+"1291",1976,"Summer","DOM","Dominican Republic",10,10
+"1292",1976,"Summer","ECU","Ecuador",8,5
+"1293",1976,"Summer","EGY","Egypt",7,26
+"1294",1976,"Summer","ESP","Spain",68,113
+"1295",1976,"Summer","FIJ","Fiji",5,2
+"1296",1976,"Summer","FIN","Finland",63,83
+"1297",1976,"Summer","FRA","France",128,206
+"1298",1976,"Summer","FRG","Germany",163,290
+"1299",1976,"Summer","GBR","UK",148,242
+"1300",1976,"Summer","GDR","Germany",139,267
+"1301",1976,"Summer","GRE","Greece",34,36
+"1302",1976,"Summer","GUA","Guatemala",8,28
+"1303",1976,"Summer","HAI","Haiti",14,13
+"1304",1976,"Summer","HKG","China",27,25
+"1305",1976,"Summer","HON","Honduras",2,3
+"1306",1976,"Summer","HUN","Hungary",109,178
+"1307",1976,"Summer","INA","Indonesia",11,7
+"1308",1976,"Summer","IND","India",10,26
+"1309",1976,"Summer","IRI","Iran",50,84
+"1310",1976,"Summer","IRL","Ireland",34,44
+"1311",1976,"Summer","ISL","Iceland",22,13
+"1312",1976,"Summer","ISR","Israel",19,26
+"1313",1976,"Summer","ISV","Virgin Islands, US",21,21
+"1314",1976,"Summer","ITA","Italy",122,210
+"1315",1976,"Summer","JAM","Jamaica",18,20
+"1316",1976,"Summer","JPN","Japan",119,213
+"1317",1976,"Summer","KOR","South Korea",27,50
+"1318",1976,"Summer","KSA","Saudi Arabia",13,14
+"1319",1976,"Summer","KUW","Kuwait",13,15
+"1320",1976,"Summer","LIB","Lebanon",4,3
+"1321",1976,"Summer","LIE","Liechtenstein",9,6
+"1322",1976,"Summer","LUX","Luxembourg",7,8
+"1323",1976,"Summer","MAR","Morocco",9,9
+"1324",1976,"Summer","MAS","Malaysia",9,23
+"1325",1976,"Summer","MEX","Mexico",54,97
+"1326",1976,"Summer","MGL","Mongolia",29,32
+"1327",1976,"Summer","MON","Monaco",6,8
+"1328",1976,"Summer","NCA","Nicaragua",19,15
+"1329",1976,"Summer","NED","Netherlands",58,108
+"1330",1976,"Summer","NEP","Nepal",1,1
+"1331",1976,"Summer","NOR","Norway",44,66
+"1332",1976,"Summer","NZL","New Zealand",52,80
+"1333",1976,"Summer","PAK","Pakistan",9,24
+"1334",1976,"Summer","PAN","Panama",13,8
+"1335",1976,"Summer","PAR","Paraguay",6,4
+"1336",1976,"Summer","PER","Peru",3,13
+"1337",1976,"Summer","PHI","Philippines",21,14
+"1338",1976,"Summer","PNG","Papua New Guinea",8,6
+"1339",1976,"Summer","POL","Poland",116,207
+"1340",1976,"Summer","POR","Portugal",27,19
+"1341",1976,"Summer","PRK","North Korea",21,38
+"1342",1976,"Summer","PUR","Puerto Rico",74,80
+"1343",1976,"Summer","ROU","Romania",92,157
+"1344",1976,"Summer","SEN","Senegal",27,21
+"1345",1976,"Summer","SMR","San Marino",7,10
+"1346",1976,"Summer","SUI","Switzerland",41,50
+"1347",1976,"Summer","SUR","Suriname",4,3
+"1348",1976,"Summer","SWE","Sweden",90,116
+"1349",1976,"Summer","TCH","Czech Republic",79,163
+"1350",1976,"Summer","THA","Thailand",33,42
+"1351",1976,"Summer","TTO","Trinidad",10,13
+"1352",1976,"Summer","TUN","Tunisia",5,15
+"1353",1976,"Summer","TUR","Turkey",27,27
+"1354",1976,"Summer","URS","Russia",189,410
+"1355",1976,"Summer","URU","Uruguay",9,9
+"1356",1976,"Summer","USA","USA",189,396
+"1357",1976,"Summer","VEN","Venezuela",35,32
+"1358",1976,"Summer","YUG","Serbia",52,88
+"1359",1976,"Winter","AND","Andorra",3,5
+"1360",1976,"Winter","ARG","Argentina",5,8
+"1361",1976,"Winter","AUS","Australia",13,8
+"1362",1976,"Winter","AUT","Austria",32,77
+"1363",1976,"Winter","BEL","Belgium",8,4
+"1364",1976,"Winter","BUL","Bulgaria",9,29
+"1365",1976,"Winter","CAN","Canada",33,59
+"1366",1976,"Winter","CHI","Chile",3,5
+"1367",1976,"Winter","ESP","Spain",3,4
+"1368",1976,"Winter","FIN","Finland",26,47
+"1369",1976,"Winter","FRA","France",20,35
+"1370",1976,"Winter","FRG","Germany",31,71
+"1371",1976,"Winter","GBR","UK",22,42
+"1372",1976,"Winter","GDR","Germany",28,59
+"1373",1976,"Winter","GRE","Greece",5,4
+"1374",1976,"Winter","HUN","Hungary",2,3
+"1375",1976,"Winter","IRI","Iran",3,4
+"1376",1976,"Winter","ISL","Iceland",7,8
+"1377",1976,"Winter","ITA","Italy",27,58
+"1378",1976,"Winter","JPN","Japan",29,58
+"1379",1976,"Winter","KOR","South Korea",9,3
+"1380",1976,"Winter","LIB","Lebanon",1,1
+"1381",1976,"Winter","LIE","Liechtenstein",10,9
+"1382",1976,"Winter","NED","Netherlands",10,7
+"1383",1976,"Winter","NOR","Norway",29,41
+"1384",1976,"Winter","NZL","New Zealand",6,5
+"1385",1976,"Winter","POL","Poland",25,56
+"1386",1976,"Winter","ROU","Romania",8,32
+"1387",1976,"Winter","SMR","San Marino",2,2
+"1388",1976,"Winter","SUI","Switzerland",22,59
+"1389",1976,"Winter","SWE","Sweden",27,39
+"1390",1976,"Winter","TCH","Czech Republic",27,58
+"1391",1976,"Winter","TPE","Taiwan",6,6
+"1392",1976,"Winter","TUR","Turkey",6,9
+"1393",1976,"Winter","URS","Russia",35,79
+"1394",1976,"Winter","USA","USA",37,106
+"1395",1976,"Winter","YUG","Serbia",11,28
+"1396",1980,"Summer","AFG","Afghanistan",11,11
+"1397",1980,"Summer","ALG","Algeria",28,54
+"1398",1980,"Summer","AND","Andorra",1,2
+"1399",1980,"Summer","ANG","Angola",14,11
+"1400",1980,"Summer","AUS","Australia",92,120
+"1401",1980,"Summer","AUT","Austria",51,83
+"1402",1980,"Summer","BEL","Belgium",51,59
+"1403",1980,"Summer","BEN","Benin",17,16
+"1404",1980,"Summer","BOT","Botswana",8,7
+"1405",1980,"Summer","BRA","Brazil",72,106
+"1406",1980,"Summer","BUL","Bulgaria",151,271
+"1407",1980,"Summer","CGO","Republic of Congo",8,23
+"1408",1980,"Summer","CMR","Cameroon",23,25
+"1409",1980,"Summer","COL","Colombia",7,23
+"1410",1980,"Summer","CRC","Costa Rica",18,29
+"1411",1980,"Summer","CUB","Cuba",92,208
+"1412",1980,"Summer","CYP","Cyprus",13,14
+"1413",1980,"Summer","DEN","Denmark",30,58
+"1414",1980,"Summer","DOM","Dominican Republic",7,6
+"1415",1980,"Summer","ECU","Ecuador",13,12
+"1416",1980,"Summer","ESP","Spain",75,155
+"1417",1980,"Summer","ETH","Ethiopia",26,41
+"1418",1980,"Summer","FIN","Finland",71,105
+"1419",1980,"Summer","FRA","France",85,121
+"1420",1980,"Summer","GBR","UK",145,219
+"1421",1980,"Summer","GDR","Germany",167,346
+"1422",1980,"Summer","GRE","Greece",31,41
+"1423",1980,"Summer","GUA","Guatemala",7,10
+"1424",1980,"Summer","GUI","Guinea",10,9
+"1425",1980,"Summer","GUY","Guyana",10,8
+"1426",1980,"Summer","HUN","Hungary",151,263
+"1427",1980,"Summer","IND","India",30,72
+"1428",1980,"Summer","IRL","Ireland",38,47
+"1429",1980,"Summer","IRQ","Iraq",26,43
+"1430",1980,"Summer","ISL","Iceland",11,9
+"1431",1980,"Summer","ITA","Italy",88,159
+"1432",1980,"Summer","JAM","Jamaica",15,18
+"1433",1980,"Summer","JOR","Jordan",3,4
+"1434",1980,"Summer","KUW","Kuwait",26,56
+"1435",1980,"Summer","LAO","Laos",16,19
+"1436",1980,"Summer","LBA","Libya",20,29
+"1437",1980,"Summer","LES","Lesotho",6,5
+"1438",1980,"Summer","LIB","Lebanon",16,15
+"1439",1980,"Summer","LUX","Luxembourg",4,3
+"1440",1980,"Summer","MAD","Madagascar",18,11
+"1441",1980,"Summer","MEX","Mexico",43,45
+"1442",1980,"Summer","MGL","Mongolia",41,43
+"1443",1980,"Summer","MLI","Mali",7,7
+"1444",1980,"Summer","MLT","Malta",5,8
+"1445",1980,"Summer","MOZ","Mozambique",16,14
+"1446",1980,"Summer","MYA","Myanmar",2,2
+"1447",1980,"Summer","NCA","Nicaragua",6,5
+"1448",1980,"Summer","NED","Netherlands",56,75
+"1449",1980,"Summer","NEP","Nepal",9,10
+"1450",1980,"Summer","NGR","Nigeria",22,44
+"1451",1980,"Summer","NZL","New Zealand",5,4
+"1452",1980,"Summer","PER","Peru",26,28
+"1453",1980,"Summer","POL","Poland",162,306
+"1454",1980,"Summer","POR","Portugal",17,11
+"1455",1980,"Summer","PRK","North Korea",40,47
+"1456",1980,"Summer","PUR","Puerto Rico",3,3
+"1457",1980,"Summer","ROU","Romania",135,228
+"1458",1980,"Summer","SEN","Senegal",22,32
+"1459",1980,"Summer","SEY","Seychelles",15,11
+"1460",1980,"Summer","SLE","Sierra Leone",16,14
+"1461",1980,"Summer","SMR","San Marino",10,16
+"1462",1980,"Summer","SRI","Sri Lanka",1,4
+"1463",1980,"Summer","SUI","Switzerland",45,73
+"1464",1980,"Summer","SWE","Sweden",102,145
+"1465",1980,"Summer","SYR","Syria",55,67
+"1466",1980,"Summer","TAN","Tanzania",22,41
+"1467",1980,"Summer","TCH","Czech Republic",114,209
+"1468",1980,"Summer","TTO","Trinidad",5,9
+"1469",1980,"Summer","UGA","Uganda",12,13
+"1470",1980,"Summer","URS","Russia",202,489
+"1471",1980,"Summer","VEN","Venezuela",20,37
+"1472",1980,"Summer","VIE","Vietnam",31,30
+"1473",1980,"Summer","YUG","Serbia",69,164
+"1474",1980,"Summer","ZAM","Zambia",25,37
+"1475",1980,"Summer","ZIM","Zimbabwe",30,42
+"1476",1980,"Winter","AND","Andorra",3,3
+"1477",1980,"Winter","ARG","Argentina",8,13
+"1478",1980,"Winter","AUS","Australia",13,9
+"1479",1980,"Winter","AUT","Austria",18,43
+"1480",1980,"Winter","BEL","Belgium",3,2
+"1481",1980,"Winter","BOL","Boliva",3,3
+"1482",1980,"Winter","BUL","Bulgaria",6,8
+"1483",1980,"Winter","CAN","Canada",26,59
+"1484",1980,"Winter","CHN","China",19,24
+"1485",1980,"Winter","CRC","Costa Rica",3,1
+"1486",1980,"Winter","CYP","Cyprus",4,3
+"1487",1980,"Winter","ESP","Spain",8,8
+"1488",1980,"Winter","FIN","Finland",24,52
+"1489",1980,"Winter","FRA","France",16,22
+"1490",1980,"Winter","FRG","Germany",34,80
+"1491",1980,"Winter","GBR","UK",28,48
+"1492",1980,"Winter","GDR","Germany",29,53
+"1493",1980,"Winter","GRE","Greece",2,3
+"1494",1980,"Winter","HUN","Hungary",1,2
+"1495",1980,"Winter","ISL","Iceland",6,6
+"1496",1980,"Winter","ITA","Italy",28,46
+"1497",1980,"Winter","JPN","Japan",27,50
+"1498",1980,"Winter","KOR","South Korea",15,10
+"1499",1980,"Winter","LIB","Lebanon",5,3
+"1500",1980,"Winter","LIE","Liechtenstein",8,7
+"1501",1980,"Winter","MGL","Mongolia",7,3
+"1502",1980,"Winter","NED","Netherlands",10,29
+"1503",1980,"Winter","NOR","Norway",28,63
+"1504",1980,"Winter","NZL","New Zealand",6,5
+"1505",1980,"Winter","POL","Poland",13,30
+"1506",1980,"Winter","ROU","Romania",9,35
+"1507",1980,"Winter","SUI","Switzerland",23,44
+"1508",1980,"Winter","SWE","Sweden",32,61
+"1509",1980,"Winter","TCH","Czech Republic",23,41
+"1510",1980,"Winter","URS","Russia",35,86
+"1511",1980,"Winter","USA","USA",38,101
+"1512",1980,"Winter","YUG","Serbia",11,15
+"1513",1984,"Summer","AHO","Curacao",10,8
+"1514",1984,"Summer","ALG","Algeria",17,33
+"1515",1984,"Summer","AND","Andorra",1,2
+"1516",1984,"Summer","ANT","Antigua",17,14
+"1517",1984,"Summer","ARG","Argentina",70,81
+"1518",1984,"Summer","AUS","Australia",137,242
+"1519",1984,"Summer","AUT","Austria",72,102
+"1520",1984,"Summer","BAH","Bahamas",23,22
+"1521",1984,"Summer","BAN","Bangladesh",2,1
+"1522",1984,"Summer","BAR","Barbados",16,16
+"1523",1984,"Summer","BEL","Belgium",48,63
+"1524",1984,"Summer","BEN","Benin",3,3
+"1525",1984,"Summer","BER","Bermuda",10,12
+"1526",1984,"Summer","BHU","Bhutan",2,6
+"1527",1984,"Summer","BIZ","Belize",7,11
+"1528",1984,"Summer","BOL","Boliva",11,11
+"1529",1984,"Summer","BOT","Botswana",6,7
+"1530",1984,"Summer","BRA","Brazil",82,147
+"1531",1984,"Summer","BRN","Bahrain",8,10
+"1532",1984,"Summer","CAF","Central African Republic",3,3
+"1533",1984,"Summer","CAN","Canada",193,408
+"1534",1984,"Summer","CAY","Cayman Islands",7,8
+"1535",1984,"Summer","CGO","Republic of Congo",10,9
+"1536",1984,"Summer","CHA","Chad",3,3
+"1537",1984,"Summer","CHI","Chile",25,52
+"1538",1984,"Summer","CHN","China",105,215
+"1539",1984,"Summer","CIV","Ivory Coast",14,15
+"1540",1984,"Summer","CMR","Cameroon",32,46
+"1541",1984,"Summer","COD","Democratic Republic of the Congo",9,8
+"1542",1984,"Summer","COL","Colombia",34,39
+"1543",1984,"Summer","CRC","Costa Rica",16,28
+"1544",1984,"Summer","CYP","Cyprus",9,10
+"1545",1984,"Summer","DEN","Denmark",33,60
+"1546",1984,"Summer","DJI","Djibouti",1,3
+"1547",1984,"Summer","DOM","Dominican Republic",20,19
+"1548",1984,"Summer","ECU","Ecuador",14,11
+"1549",1984,"Summer","EGY","Egypt",74,114
+"1550",1984,"Summer","ESA","El Salvador",15,10
+"1551",1984,"Summer","ESP","Spain",104,179
+"1552",1984,"Summer","FIJ","Fiji",22,14
+"1553",1984,"Summer","FIN","Finland",76,86
+"1554",1984,"Summer","FRA","France",139,238
+"1555",1984,"Summer","FRG","Germany",194,390
+"1556",1984,"Summer","GAB","Gabon",4,4
+"1557",1984,"Summer","GAM","Gambia",9,10
+"1558",1984,"Summer","GBR","UK",190,337
+"1559",1984,"Summer","GEQ","Equatorial Guinea",5,4
+"1560",1984,"Summer","GHA","Ghana",17,21
+"1561",1984,"Summer","GRE","Greece",49,63
+"1562",1984,"Summer","GRN","Grenada",6,6
+"1563",1984,"Summer","GUA","Guatemala",40,24
+"1564",1984,"Summer","GUI","Guinea",1,1
+"1565",1984,"Summer","GUY","Guyana",12,10
+"1566",1984,"Summer","HAI","Haiti",2,3
+"1567",1984,"Summer","HKG","China",47,47
+"1568",1984,"Summer","HON","Honduras",20,10
+"1569",1984,"Summer","INA","Indonesia",16,16
+"1570",1984,"Summer","IND","India",30,48
+"1571",1984,"Summer","IRL","Ireland",35,42
+"1572",1984,"Summer","IRQ","Iraq",11,23
+"1573",1984,"Summer","ISL","Iceland",17,30
+"1574",1984,"Summer","ISR","Israel",46,32
+"1575",1984,"Summer","ISV","Virgin Islands, US",31,29
+"1576",1984,"Summer","ITA","Italy",151,268
+"1577",1984,"Summer","IVB","Virgin Islands, British",7,9
+"1578",1984,"Summer","JAM","Jamaica",35,45
+"1579",1984,"Summer","JOR","Jordan",12,13
+"1580",1984,"Summer","JPN","Japan",147,226
+"1581",1984,"Summer","KEN","Kenya",33,61
+"1582",1984,"Summer","KOR","South Korea",96,175
+"1583",1984,"Summer","KSA","Saudi Arabia",11,37
+"1584",1984,"Summer","KUW","Kuwait",17,23
+"1585",1984,"Summer","LBR","Liberia",7,7
+"1586",1984,"Summer","LES","Lesotho",4,4
+"1587",1984,"Summer","LIB","Lebanon",20,22
+"1588",1984,"Summer","LIE","Liechtenstein",7,7
+"1589",1984,"Summer","LUX","Luxembourg",4,5
+"1590",1984,"Summer","MAD","Madagascar",5,5
+"1591",1984,"Summer","MAR","Morocco",18,34
+"1592",1984,"Summer","MAS","Malaysia",12,21
+"1593",1984,"Summer","MAW","Malawi",16,15
+"1594",1984,"Summer","MEX","Mexico",87,99
+"1595",1984,"Summer","MLI","Mali",5,4
+"1596",1984,"Summer","MLT","Malta",6,7
+"1597",1984,"Summer","MON","Monaco",7,8
+"1598",1984,"Summer","MOZ","Mozambique",11,9
+"1599",1984,"Summer","MRI","Mauritius",7,4
+"1600",1984,"Summer","MTN","Mauritania",2,2
+"1601",1984,"Summer","MYA","Myanmar",1,1
+"1602",1984,"Summer","NCA","Nicaragua",5,5
+"1603",1984,"Summer","NED","Netherlands",74,136
+"1604",1984,"Summer","NEP","Nepal",8,10
+"1605",1984,"Summer","NGR","Nigeria",24,32
+"1606",1984,"Summer","NIG","Niger",4,4
+"1607",1984,"Summer","NOR","Norway",76,103
+"1608",1984,"Summer","NZL","New Zealand",76,130
+"1609",1984,"Summer","OMA","Oman",14,16
+"1610",1984,"Summer","PAK","Pakistan",15,31
+"1611",1984,"Summer","PAN","Panama",10,8
+"1612",1984,"Summer","PAR","Paraguay",15,14
+"1613",1984,"Summer","PER","Peru",29,35
+"1614",1984,"Summer","PHI","Philippines",28,19
+"1615",1984,"Summer","PNG","Papua New Guinea",12,7
+"1616",1984,"Summer","POR","Portugal",32,38
+"1617",1984,"Summer","PUR","Puerto Rico",45,51
+"1618",1984,"Summer","QAT","Qatar",8,24
+"1619",1984,"Summer","ROU","Romania",86,124
+"1620",1984,"Summer","RWA","Rwanda",6,3
+"1621",1984,"Summer","SAM","Samoa",9,8
+"1622",1984,"Summer","SEN","Senegal",21,24
+"1623",1984,"Summer","SEY","Seychelles",15,9
+"1624",1984,"Summer","SLE","Sierra Leone",6,7
+"1625",1984,"Summer","SMR","San Marino",26,19
+"1626",1984,"Summer","SOL","Solomon Islands",3,3
+"1627",1984,"Summer","SOM","Somalia",6,7
+"1628",1984,"Summer","SRI","Sri Lanka",5,4
+"1629",1984,"Summer","SUD","Sudan",9,7
+"1630",1984,"Summer","SUI","Switzerland",91,129
+"1631",1984,"Summer","SUR","Suriname",7,5
+"1632",1984,"Summer","SWE","Sweden",138,174
+"1633",1984,"Summer","SWZ","Swaziland",11,8
+"1634",1984,"Summer","SYR","Syria",9,9
+"1635",1984,"Summer","TAN","Tanzania",14,18
+"1636",1984,"Summer","TGA","Tonga",7,7
+"1637",1984,"Summer","THA","Thailand",25,35
+"1638",1984,"Summer","TOG","Togo",6,6
+"1639",1984,"Summer","TPE","Taiwan",40,38
+"1640",1984,"Summer","TTO","Trinidad",14,16
+"1641",1984,"Summer","TUN","Tunisia",17,23
+"1642",1984,"Summer","TUR","Turkey",49,46
+"1643",1984,"Summer","UAE","United Arab Emirates",8,7
+"1644",1984,"Summer","UGA","Uganda",24,26
+"1645",1984,"Summer","URU","Uruguay",11,18
+"1646",1984,"Summer","USA","USA",217,522
+"1647",1984,"Summer","VEN","Venezuela",29,26
+"1648",1984,"Summer","YAR","Yemen",3,2
+"1649",1984,"Summer","YUG","Serbia",53,139
+"1650",1984,"Summer","ZAM","Zambia",18,16
+"1651",1984,"Summer","ZIM","Zimbabwe",18,15
+"1652",1984,"Winter","AND","Andorra",3,2
+"1653",1984,"Winter","ARG","Argentina",12,18
+"1654",1984,"Winter","AUS","Australia",15,10
+"1655",1984,"Winter","AUT","Austria",27,65
+"1656",1984,"Winter","BEL","Belgium",6,4
+"1657",1984,"Winter","BOL","Boliva",3,3
+"1658",1984,"Winter","BUL","Bulgaria",11,16
+"1659",1984,"Winter","CAN","Canada",30,67
+"1660",1984,"Winter","CHI","Chile",3,4
+"1661",1984,"Winter","CHN","China",26,37
+"1662",1984,"Winter","CRC","Costa Rica",6,3
+"1663",1984,"Winter","CYP","Cyprus",4,5
+"1664",1984,"Winter","EGY","Egypt",3,1
+"1665",1984,"Winter","ESP","Spain",11,12
+"1666",1984,"Winter","FIN","Finland",20,45
+"1667",1984,"Winter","FRA","France",24,32
+"1668",1984,"Winter","FRG","Germany",37,84
+"1669",1984,"Winter","GBR","UK",26,50
+"1670",1984,"Winter","GDR","Germany",31,56
+"1671",1984,"Winter","GRE","Greece",4,6
+"1672",1984,"Winter","HUN","Hungary",8,9
+"1673",1984,"Winter","ISL","Iceland",6,5
+"1674",1984,"Winter","ITA","Italy",33,74
+"1675",1984,"Winter","IVB","Virgin Islands, British",2,1
+"1676",1984,"Winter","JPN","Japan",29,39
+"1677",1984,"Winter","KOR","South Korea",18,15
+"1678",1984,"Winter","LIB","Lebanon",2,4
+"1679",1984,"Winter","LIE","Liechtenstein",8,10
+"1680",1984,"Winter","MAR","Morocco",2,4
+"1681",1984,"Winter","MEX","Mexico",3,1
+"1682",1984,"Winter","MGL","Mongolia",3,4
+"1683",1984,"Winter","MON","Monaco",2,1
+"1684",1984,"Winter","NED","Netherlands",10,13
+"1685",1984,"Winter","NOR","Norway",28,58
+"1686",1984,"Winter","NZL","New Zealand",5,6
+"1687",1984,"Winter","POL","Poland",13,30
+"1688",1984,"Winter","PRK","North Korea",8,6
+"1689",1984,"Winter","PUR","Puerto Rico",1,1
+"1690",1984,"Winter","ROU","Romania",19,19
+"1691",1984,"Winter","SEN","Senegal",2,1
+"1692",1984,"Winter","SMR","San Marino",4,3
+"1693",1984,"Winter","SUI","Switzerland",25,42
+"1694",1984,"Winter","SWE","Sweden",29,60
+"1695",1984,"Winter","TCH","Czech Republic",22,50
+"1696",1984,"Winter","TPE","Taiwan",9,12
+"1697",1984,"Winter","TUR","Turkey",3,7
+"1698",1984,"Winter","URS","Russia",38,99
+"1699",1984,"Winter","USA","USA",39,107
+"1700",1984,"Winter","YUG","Serbia",34,72
+"1701",1988,"Summer","AFG","Afghanistan",5,5
+"1702",1988,"Summer","AHO","Curacao",4,3
+"1703",1988,"Summer","ALG","Algeria",29,42
+"1704",1988,"Summer","AND","Andorra",3,3
+"1705",1988,"Summer","ANG","Angola",27,24
+"1706",1988,"Summer","ANT","Antigua",19,15
+"1707",1988,"Summer","ARG","Argentina",53,118
+"1708",1988,"Summer","ARU","Aruba",10,8
+"1709",1988,"Summer","ASA","American Samoa",6,6
+"1710",1988,"Summer","AUS","Australia",145,252
+"1711",1988,"Summer","AUT","Austria",62,73
+"1712",1988,"Summer","BAH","Bahamas",15,16
+"1713",1988,"Summer","BAN","Bangladesh",8,6
+"1714",1988,"Summer","BAR","Barbados",20,17
+"1715",1988,"Summer","BEL","Belgium",65,59
+"1716",1988,"Summer","BEN","Benin",7,7
+"1717",1988,"Summer","BER","Bermuda",12,12
+"1718",1988,"Summer","BHU","Bhutan",2,3
+"1719",1988,"Summer","BIZ","Belize",7,10
+"1720",1988,"Summer","BOL","Boliva",12,7
+"1721",1988,"Summer","BOT","Botswana",8,8
+"1722",1988,"Summer","BRA","Brazil",106,160
+"1723",1988,"Summer","BRN","Bahrain",7,7
+"1724",1988,"Summer","BUL","Bulgaria",120,172
+"1725",1988,"Summer","BUR","Burkina Faso",7,6
+"1726",1988,"Summer","CAF","Central African Republic",4,15
+"1727",1988,"Summer","CAN","Canada",193,328
+"1728",1988,"Summer","CAY","Cayman Islands",7,8
+"1729",1988,"Summer","CGO","Republic of Congo",7,7
+"1730",1988,"Summer","CHA","Chad",6,6
+"1731",1988,"Summer","CHI","Chile",14,17
+"1732",1988,"Summer","CHN","China",150,273
+"1733",1988,"Summer","CIV","Ivory Coast",10,28
+"1734",1988,"Summer","CMR","Cameroon",21,15
+"1735",1988,"Summer","COD","Democratic Republic of the Congo",15,15
+"1736",1988,"Summer","COK","Cook Islands",8,7
+"1737",1988,"Summer","COL","Colombia",34,40
+"1738",1988,"Summer","CRC","Costa Rica",18,16
+"1739",1988,"Summer","CYP","Cyprus",10,9
+"1740",1988,"Summer","DEN","Denmark",73,78
+"1741",1988,"Summer","DJI","Djibouti",5,6
+"1742",1988,"Summer","DOM","Dominican Republic",15,16
+"1743",1988,"Summer","ECU","Ecuador",15,13
+"1744",1988,"Summer","EGY","Egypt",36,49
+"1745",1988,"Summer","ESA","El Salvador",7,6
+"1746",1988,"Summer","ESP","Spain",130,229
+"1747",1988,"Summer","FIJ","Fiji",31,23
+"1748",1988,"Summer","FIN","Finland",66,78
+"1749",1988,"Summer","FRA","France",167,266
+"1750",1988,"Summer","FRG","Germany",194,347
+"1751",1988,"Summer","GAB","Gabon",2,2
+"1752",1988,"Summer","GAM","Gambia",6,6
+"1753",1988,"Summer","GBR","UK",191,345
+"1754",1988,"Summer","GDR","Germany",157,259
+"1755",1988,"Summer","GEQ","Equatorial Guinea",7,6
+"1756",1988,"Summer","GHA","Ghana",13,16
+"1757",1988,"Summer","GRE","Greece",43,56
+"1758",1988,"Summer","GRN","Grenada",7,6
+"1759",1988,"Summer","GUA","Guatemala",16,28
+"1760",1988,"Summer","GUI","Guinea",7,6
+"1761",1988,"Summer","GUM","Guam",22,19
+"1762",1988,"Summer","GUY","Guyana",8,8
+"1763",1988,"Summer","HAI","Haiti",5,4
+"1764",1988,"Summer","HKG","China",49,48
+"1765",1988,"Summer","HON","Honduras",15,8
+"1766",1988,"Summer","HUN","Hungary",135,188
+"1767",1988,"Summer","INA","Indonesia",32,29
+"1768",1988,"Summer","IND","India",27,46
+"1769",1988,"Summer","IRI","Iran",21,23
+"1770",1988,"Summer","IRL","Ireland",47,61
+"1771",1988,"Summer","IRQ","Iraq",13,27
+"1772",1988,"Summer","ISL","Iceland",25,32
+"1773",1988,"Summer","ISR","Israel",20,18
+"1774",1988,"Summer","ISV","Virgin Islands, US",27,22
+"1775",1988,"Summer","ITA","Italy",140,253
+"1776",1988,"Summer","IVB","Virgin Islands, British",4,3
+"1777",1988,"Summer","JAM","Jamaica",22,35
+"1778",1988,"Summer","JOR","Jordan",9,7
+"1779",1988,"Summer","JPN","Japan",166,255
+"1780",1988,"Summer","KEN","Kenya",50,74
+"1781",1988,"Summer","KOR","South Korea",218,401
+"1782",1988,"Summer","KSA","Saudi Arabia",12,9
+"1783",1988,"Summer","KUW","Kuwait",24,25
+"1784",1988,"Summer","LAO","Laos",3,3
+"1785",1988,"Summer","LBA","Libya",5,6
+"1786",1988,"Summer","LBR","Liberia",10,8
+"1787",1988,"Summer","LES","Lesotho",5,6
+"1788",1988,"Summer","LIB","Lebanon",28,21
+"1789",1988,"Summer","LIE","Liechtenstein",15,12
+"1790",1988,"Summer","LUX","Luxembourg",11,8
+"1791",1988,"Summer","MAR","Morocco",25,27
+"1792",1988,"Summer","MAS","Malaysia",15,9
+"1793",1988,"Summer","MAW","Malawi",16,16
+"1794",1988,"Summer","MDV","Maldives",5,7
+"1795",1988,"Summer","MEX","Mexico",82,83
+"1796",1988,"Summer","MGL","Mongolia",28,28
+"1797",1988,"Summer","MLI","Mali",8,6
+"1798",1988,"Summer","MLT","Malta",6,6
+"1799",1988,"Summer","MON","Monaco",9,9
+"1800",1988,"Summer","MOZ","Mozambique",12,8
+"1801",1988,"Summer","MRI","Mauritius",9,8
+"1802",1988,"Summer","MTN","Mauritania",7,6
+"1803",1988,"Summer","MYA","Myanmar",3,2
+"1804",1988,"Summer","NED","Netherlands",86,147
+"1805",1988,"Summer","NEP","Nepal",17,16
+"1806",1988,"Summer","NGR","Nigeria",44,69
+"1807",1988,"Summer","NIG","Niger",4,6
+"1808",1988,"Summer","NOR","Norway",42,69
+"1809",1988,"Summer","NZL","New Zealand",58,83
+"1810",1988,"Summer","OMA","Oman",9,8
+"1811",1988,"Summer","PAK","Pakistan",15,30
+"1812",1988,"Summer","PAN","Panama",9,6
+"1813",1988,"Summer","PAR","Paraguay",11,10
+"1814",1988,"Summer","PER","Peru",15,21
+"1815",1988,"Summer","PHI","Philippines",40,31
+"1816",1988,"Summer","PNG","Papua New Guinea",15,11
+"1817",1988,"Summer","POL","Poland",105,143
+"1818",1988,"Summer","POR","Portugal",59,65
+"1819",1988,"Summer","PUR","Puerto Rico",44,47
+"1820",1988,"Summer","QAT","Qatar",10,10
+"1821",1988,"Summer","ROU","Romania",59,68
+"1822",1988,"Summer","RWA","Rwanda",7,6
+"1823",1988,"Summer","SAM","Samoa",11,11
+"1824",1988,"Summer","SEN","Senegal",23,23
+"1825",1988,"Summer","SLE","Sierra Leone",14,12
+"1826",1988,"Summer","SMR","San Marino",12,11
+"1827",1988,"Summer","SOL","Solomon Islands",5,4
+"1828",1988,"Summer","SOM","Somalia",4,5
+"1829",1988,"Summer","SRI","Sri Lanka",9,6
+"1830",1988,"Summer","SUD","Sudan",8,8
+"1831",1988,"Summer","SUI","Switzerland",83,99
+"1832",1988,"Summer","SUR","Suriname",10,6
+"1833",1988,"Summer","SWE","Sweden",113,185
+"1834",1988,"Summer","SWZ","Swaziland",11,11
+"1835",1988,"Summer","SYR","Syria",13,13
+"1836",1988,"Summer","TAN","Tanzania",9,10
+"1837",1988,"Summer","TCH","Czech Republic",97,163
+"1838",1988,"Summer","TGA","Tonga",7,5
+"1839",1988,"Summer","THA","Thailand",12,14
+"1840",1988,"Summer","TOG","Togo",6,6
+"1841",1988,"Summer","TPE","Taiwan",84,61
+"1842",1988,"Summer","TTO","Trinidad",9,6
+"1843",1988,"Summer","TUN","Tunisia",14,41
+"1844",1988,"Summer","TUR","Turkey",40,41
+"1845",1988,"Summer","UAE","United Arab Emirates",15,12
+"1846",1988,"Summer","UGA","Uganda",22,24
+"1847",1988,"Summer","URS","Russia",221,481
+"1848",1988,"Summer","URU","Uruguay",14,15
+"1849",1988,"Summer","USA","USA",230,527
+"1850",1988,"Summer","VAN","Vanuatu",6,4
+"1851",1988,"Summer","VEN","Venezuela",15,17
+"1852",1988,"Summer","VIE","Vietnam",12,9
+"1853",1988,"Summer","VIN","Saint Vincent",6,6
+"1854",1988,"Summer","YAR","Yemen",8,8
+"1855",1988,"Summer","YMD","Yemen",5,5
+"1856",1988,"Summer","YUG","Serbia",72,155
+"1857",1988,"Summer","ZAM","Zambia",11,29
+"1858",1988,"Summer","ZIM","Zimbabwe",38,29
+"1859",1988,"Winter","AHO","Curacao",2,2
+"1860",1988,"Winter","AND","Andorra",6,4
+"1861",1988,"Winter","ARG","Argentina",16,15
+"1862",1988,"Winter","AUS","Australia",20,19
+"1863",1988,"Winter","AUT","Austria",40,81
+"1864",1988,"Winter","BEL","Belgium",1,1
+"1865",1988,"Winter","BOL","Boliva",2,6
+"1866",1988,"Winter","BUL","Bulgaria",17,27
+"1867",1988,"Winter","CAN","Canada",45,112
+"1868",1988,"Winter","CHI","Chile",5,5
+"1869",1988,"Winter","CHN","China",13,13
+"1870",1988,"Winter","CRC","Costa Rica",4,2
+"1871",1988,"Winter","CYP","Cyprus",5,3
+"1872",1988,"Winter","DEN","Denmark",1,1
+"1873",1988,"Winter","ESP","Spain",16,12
+"1874",1988,"Winter","FIJ","Fiji",1,1
+"1875",1988,"Winter","FIN","Finland",22,53
+"1876",1988,"Winter","FRA","France",35,68
+"1877",1988,"Winter","FRG","Germany",44,90
+"1878",1988,"Winter","GBR","UK",35,48
+"1879",1988,"Winter","GDR","Germany",32,53
+"1880",1988,"Winter","GRE","Greece",9,6
+"1881",1988,"Winter","GUA","Guatemala",8,6
+"1882",1988,"Winter","GUM","Guam",1,1
+"1883",1988,"Winter","HUN","Hungary",6,5
+"1884",1988,"Winter","IND","India",2,3
+"1885",1988,"Winter","ISL","Iceland",6,3
+"1886",1988,"Winter","ISV","Virgin Islands, US",4,6
+"1887",1988,"Winter","ITA","Italy",35,58
+"1888",1988,"Winter","JAM","Jamaica",2,4
+"1889",1988,"Winter","JPN","Japan",40,48
+"1890",1988,"Winter","KOR","South Korea",22,22
+"1891",1988,"Winter","LIB","Lebanon",3,4
+"1892",1988,"Winter","LIE","Liechtenstein",14,13
+"1893",1988,"Winter","LUX","Luxembourg",3,1
+"1894",1988,"Winter","MAR","Morocco",2,3
+"1895",1988,"Winter","MEX","Mexico",11,11
+"1896",1988,"Winter","MGL","Mongolia",6,3
+"1897",1988,"Winter","MON","Monaco",3,3
+"1898",1988,"Winter","NED","Netherlands",10,11
+"1899",1988,"Winter","NOR","Norway",32,63
+"1900",1988,"Winter","NZL","New Zealand",10,9
+"1901",1988,"Winter","PHI","Philippines",1,1
+"1902",1988,"Winter","POL","Poland",16,32
+"1903",1988,"Winter","POR","Portugal",2,5
+"1904",1988,"Winter","PRK","North Korea",10,6
+"1905",1988,"Winter","PUR","Puerto Rico",8,9
+"1906",1988,"Winter","ROU","Romania",12,11
+"1907",1988,"Winter","SMR","San Marino",5,5
+"1908",1988,"Winter","SUI","Switzerland",28,70
+"1909",1988,"Winter","SWE","Sweden",34,67
+"1910",1988,"Winter","TCH","Czech Republic",36,59
+"1911",1988,"Winter","TPE","Taiwan",9,13
+"1912",1988,"Winter","TUR","Turkey",5,8
+"1913",1988,"Winter","URS","Russia",40,101
+"1914",1988,"Winter","USA","USA",46,117
+"1915",1988,"Winter","YUG","Serbia",22,22
+"1916",1992,"Summer","AHO","Curacao",4,4
+"1917",1992,"Summer","ALB","Albania",8,7
+"1918",1992,"Summer","ALG","Algeria",27,35
+"1919",1992,"Summer","AND","Andorra",5,8
+"1920",1992,"Summer","ANG","Angola",21,28
+"1921",1992,"Summer","ANT","Antigua",15,13
+"1922",1992,"Summer","ARG","Argentina",68,84
+"1923",1992,"Summer","ARU","Aruba",4,5
+"1924",1992,"Summer","ASA","American Samoa",3,3
+"1925",1992,"Summer","AUS","Australia",153,279
+"1926",1992,"Summer","AUT","Austria",68,102
+"1927",1992,"Summer","BAH","Bahamas",13,14
+"1928",1992,"Summer","BAN","Bangladesh",6,6
+"1929",1992,"Summer","BAR","Barbados",17,17
+"1930",1992,"Summer","BEL","Belgium",70,68
+"1931",1992,"Summer","BEN","Benin",6,6
+"1932",1992,"Summer","BER","Bermuda",20,20
+"1933",1992,"Summer","BHU","Bhutan",4,6
+"1934",1992,"Summer","BIH","Bosnia and Herzegovina",13,10
+"1935",1992,"Summer","BIZ","Belize",10,10
+"1936",1992,"Summer","BOL","Boliva",18,13
+"1937",1992,"Summer","BOT","Botswana",6,6
+"1938",1992,"Summer","BRA","Brazil",107,182
+"1939",1992,"Summer","BRN","Bahrain",10,10
+"1940",1992,"Summer","BUL","Bulgaria",116,138
+"1941",1992,"Summer","BUR","Burkina Faso",4,4
+"1942",1992,"Summer","CAF","Central African Republic",16,15
+"1943",1992,"Summer","CAN","Canada",199,295
+"1944",1992,"Summer","CAY","Cayman Islands",7,10
+"1945",1992,"Summer","CGO","Republic of Congo",7,7
+"1946",1992,"Summer","CHA","Chad",7,6
+"1947",1992,"Summer","CHI","Chile",12,12
+"1948",1992,"Summer","CHN","China",144,244
+"1949",1992,"Summer","CIV","Ivory Coast",11,13
+"1950",1992,"Summer","CMR","Cameroon",9,8
+"1951",1992,"Summer","COD","Democratic Republic of the Congo",14,17
+"1952",1992,"Summer","COK","Cook Islands",2,2
+"1953",1992,"Summer","COL","Colombia",31,49
+"1954",1992,"Summer","CRC","Costa Rica",18,16
+"1955",1992,"Summer","CRO","Croatia",23,39
+"1956",1992,"Summer","CUB","Cuba",90,176
+"1957",1992,"Summer","CYP","Cyprus",17,17
+"1958",1992,"Summer","DEN","Denmark",67,110
+"1959",1992,"Summer","DJI","Djibouti",7,8
+"1960",1992,"Summer","DOM","Dominican Republic",13,32
+"1961",1992,"Summer","ECU","Ecuador",15,13
+"1962",1992,"Summer","EGY","Egypt",32,75
+"1963",1992,"Summer","ESA","El Salvador",6,4
+"1964",1992,"Summer","ESP","Spain",195,422
+"1965",1992,"Summer","EST","Estonia",35,37
+"1966",1992,"Summer","ETH","Ethiopia",11,20
+"1967",1992,"Summer","EUN","Russia",234,475
+"1968",1992,"Summer","FIJ","Fiji",32,18
+"1969",1992,"Summer","FIN","Finland",85,88
+"1970",1992,"Summer","FRA","France",196,339
+"1971",1992,"Summer","GAB","Gabon",5,5
+"1972",1992,"Summer","GAM","Gambia",5,5
+"1973",1992,"Summer","GBR","UK",203,371
+"1974",1992,"Summer","GEQ","Equatorial Guinea",8,7
+"1975",1992,"Summer","GER","Germany",237,463
+"1976",1992,"Summer","GHA","Ghana",13,34
+"1977",1992,"Summer","GRE","Greece",53,70
+"1978",1992,"Summer","GRN","Grenada",5,4
+"1979",1992,"Summer","GUA","Guatemala",27,14
+"1980",1992,"Summer","GUI","Guinea",11,8
+"1981",1992,"Summer","GUM","Guam",27,22
+"1982",1992,"Summer","GUY","Guyana",7,6
+"1983",1992,"Summer","HAI","Haiti",8,7
+"1984",1992,"Summer","HKG","China",39,38
+"1985",1992,"Summer","HON","Honduras",25,10
+"1986",1992,"Summer","HUN","Hungary",156,217
+"1987",1992,"Summer","INA","Indonesia",31,42
+"1988",1992,"Summer","IND","India",36,52
+"1989",1992,"Summer","IOA","Individual Olympic Athletes",54,58
+"1990",1992,"Summer","IRI","Iran",36,36
+"1991",1992,"Summer","IRL","Ireland",47,58
+"1992",1992,"Summer","IRQ","Iraq",8,8
+"1993",1992,"Summer","ISL","Iceland",15,27
+"1994",1992,"Summer","ISR","Israel",42,30
+"1995",1992,"Summer","ISV","Virgin Islands, US",29,25
+"1996",1992,"Summer","ITA","Italy",169,304
+"1997",1992,"Summer","IVB","Virgin Islands, British",2,4
+"1998",1992,"Summer","JAM","Jamaica",23,36
+"1999",1992,"Summer","JOR","Jordan",5,4
+"2000",1992,"Summer","JPN","Japan",166,256
+"2001",1992,"Summer","KEN","Kenya",29,49
+"2002",1992,"Summer","KOR","South Korea",134,226
+"2003",1992,"Summer","KSA","Saudi Arabia",13,9
+"2004",1992,"Summer","KUW","Kuwait",18,32
+"2005",1992,"Summer","LAO","Laos",7,6
+"2006",1992,"Summer","LAT","Latvia",31,34
+"2007",1992,"Summer","LBA","Libya",5,5
+"2008",1992,"Summer","LES","Lesotho",8,6
+"2009",1992,"Summer","LIB","Lebanon",15,12
+"2010",1992,"Summer","LIE","Liechtenstein",8,7
+"2011",1992,"Summer","LTU","Lithuania",31,47
+"2012",1992,"Summer","LUX","Luxembourg",8,6
+"2013",1992,"Summer","MAD","Madagascar",15,13
+"2014",1992,"Summer","MAR","Morocco",24,44
+"2015",1992,"Summer","MAS","Malaysia",11,26
+"2016",1992,"Summer","MAW","Malawi",4,4
+"2017",1992,"Summer","MDV","Maldives",8,7
+"2018",1992,"Summer","MEX","Mexico",71,102
+"2019",1992,"Summer","MGL","Mongolia",31,33
+"2020",1992,"Summer","MLI","Mali",6,5
+"2021",1992,"Summer","MLT","Malta",8,6
+"2022",1992,"Summer","MON","Monaco",4,2
+"2023",1992,"Summer","MOZ","Mozambique",7,6
+"2024",1992,"Summer","MRI","Mauritius",17,13
+"2025",1992,"Summer","MTN","Mauritania",6,6
+"2026",1992,"Summer","MYA","Myanmar",5,4
+"2027",1992,"Summer","NAM","Namibia",9,6
+"2028",1992,"Summer","NCA","Nicaragua",9,8
+"2029",1992,"Summer","NED","Netherlands",105,201
+"2030",1992,"Summer","NEP","Nepal",2,2
+"2031",1992,"Summer","NGR","Nigeria",34,55
+"2032",1992,"Summer","NIG","Niger",3,3
+"2033",1992,"Summer","NOR","Norway",64,83
+"2034",1992,"Summer","NZL","New Zealand",87,134
+"2035",1992,"Summer","OMA","Oman",5,5
+"2036",1992,"Summer","PAK","Pakistan",12,27
+"2037",1992,"Summer","PAN","Panama",7,5
+"2038",1992,"Summer","PAR","Paraguay",12,27
+"2039",1992,"Summer","PER","Peru",18,16
+"2040",1992,"Summer","PHI","Philippines",29,26
+"2041",1992,"Summer","PNG","Papua New Guinea",16,13
+"2042",1992,"Summer","POL","Poland",136,201
+"2043",1992,"Summer","POR","Portugal",71,90
+"2044",1992,"Summer","PRK","North Korea",53,64
+"2045",1992,"Summer","PUR","Puerto Rico",57,71
+"2046",1992,"Summer","QAT","Qatar",11,28
+"2047",1992,"Summer","ROU","Romania",128,173
+"2048",1992,"Summer","RSA","South Africa",87,93
+"2049",1992,"Summer","RWA","Rwanda",8,10
+"2050",1992,"Summer","SAM","Samoa",5,5
+"2051",1992,"Summer","SEN","Senegal",20,20
+"2052",1992,"Summer","SEY","Seychelles",18,11
+"2053",1992,"Summer","SLE","Sierra Leone",12,11
+"2054",1992,"Summer","SLO","Slovenia",34,35
+"2055",1992,"Summer","SMR","San Marino",15,17
+"2056",1992,"Summer","SOL","Solomon Islands",1,1
+"2057",1992,"Summer","SRI","Sri Lanka",16,11
+"2058",1992,"Summer","SUD","Sudan",7,6
+"2059",1992,"Summer","SUI","Switzerland",80,102
+"2060",1992,"Summer","SUR","Suriname",7,6
+"2061",1992,"Summer","SWE","Sweden",121,187
+"2062",1992,"Summer","SWZ","Swaziland",10,6
+"2063",1992,"Summer","SYR","Syria",9,8
+"2064",1992,"Summer","TAN","Tanzania",7,9
+"2065",1992,"Summer","TCH","Czech Republic",121,208
+"2066",1992,"Summer","TGA","Tonga",5,5
+"2067",1992,"Summer","THA","Thailand",47,46
+"2068",1992,"Summer","TOG","Togo",5,6
+"2069",1992,"Summer","TPE","Taiwan",15,31
+"2070",1992,"Summer","TTO","Trinidad",7,7
+"2071",1992,"Summer","TUN","Tunisia",13,13
+"2072",1992,"Summer","TUR","Turkey",43,41
+"2073",1992,"Summer","UAE","United Arab Emirates",19,13
+"2074",1992,"Summer","UGA","Uganda",9,8
+"2075",1992,"Summer","URU","Uruguay",15,16
+"2076",1992,"Summer","USA","USA",248,545
+"2077",1992,"Summer","VAN","Vanuatu",8,6
+"2078",1992,"Summer","VEN","Venezuela",16,26
+"2079",1992,"Summer","VIE","Vietnam",10,7
+"2080",1992,"Summer","VIN","Saint Vincent",5,6
+"2081",1992,"Summer","YEM","Yemen",8,8
+"2082",1992,"Summer","ZAM","Zambia",11,9
+"2083",1992,"Summer","ZIM","Zimbabwe",22,19
+"2084",1992,"Winter","AHO","Curacao",1,2
+"2085",1992,"Winter","ALG","Algeria",5,4
+"2086",1992,"Winter","AND","Andorra",6,5
+"2087",1992,"Winter","ARG","Argentina",21,20
+"2088",1992,"Winter","AUS","Australia",24,22
+"2089",1992,"Winter","AUT","Austria",38,58
+"2090",1992,"Winter","BEL","Belgium",3,5
+"2091",1992,"Winter","BER","Bermuda",1,1
+"2092",1992,"Winter","BOL","Boliva",2,5
+"2093",1992,"Winter","BRA","Brazil",7,7
+"2094",1992,"Winter","BUL","Bulgaria",27,30
+"2095",1992,"Winter","CAN","Canada",51,108
+"2096",1992,"Winter","CHI","Chile",4,5
+"2097",1992,"Winter","CHN","China",32,32
+"2098",1992,"Winter","CRC","Costa Rica",2,4
+"2099",1992,"Winter","CRO","Croatia",8,4
+"2100",1992,"Winter","CYP","Cyprus",5,4
+"2101",1992,"Winter","DEN","Denmark",10,6
+"2102",1992,"Winter","ESP","Spain",15,17
+"2103",1992,"Winter","EST","Estonia",18,19
+"2104",1992,"Winter","EUN","Russia",52,129
+"2105",1992,"Winter","FIN","Finland",30,62
+"2106",1992,"Winter","FRA","France",49,109
+"2107",1992,"Winter","GBR","UK",30,49
+"2108",1992,"Winter","GER","Germany",51,111
+"2109",1992,"Winter","GRE","Greece",12,8
+"2110",1992,"Winter","HON","Honduras",3,1
+"2111",1992,"Winter","HUN","Hungary",29,24
+"2112",1992,"Winter","IND","India",2,2
+"2113",1992,"Winter","IRL","Ireland",1,4
+"2114",1992,"Winter","ISL","Iceland",9,5
+"2115",1992,"Winter","ISV","Virgin Islands, US",9,12
+"2116",1992,"Winter","ITA","Italy",49,107
+"2117",1992,"Winter","JAM","Jamaica",2,5
+"2118",1992,"Winter","JPN","Japan",50,60
+"2119",1992,"Winter","KOR","South Korea",23,23
+"2120",1992,"Winter","LAT","Latvia",15,23
+"2121",1992,"Winter","LIB","Lebanon",3,4
+"2122",1992,"Winter","LIE","Liechtenstein",10,7
+"2123",1992,"Winter","LTU","Lithuania",12,6
+"2124",1992,"Winter","LUX","Luxembourg",5,1
+"2125",1992,"Winter","MAR","Morocco",8,12
+"2126",1992,"Winter","MEX","Mexico",15,20
+"2127",1992,"Winter","MGL","Mongolia",8,4
+"2128",1992,"Winter","MON","Monaco",2,5
+"2129",1992,"Winter","NED","Netherlands",13,19
+"2130",1992,"Winter","NOR","Norway",45,79
+"2131",1992,"Winter","NZL","New Zealand",6,6
+"2132",1992,"Winter","PHI","Philippines",2,1
+"2133",1992,"Winter","POL","Poland",35,53
+"2134",1992,"Winter","PRK","North Korea",21,20
+"2135",1992,"Winter","PUR","Puerto Rico",2,6
+"2136",1992,"Winter","ROU","Romania",37,23
+"2137",1992,"Winter","SEN","Senegal",5,2
+"2138",1992,"Winter","SLO","Slovenia",21,27
+"2139",1992,"Winter","SMR","San Marino",5,3
+"2140",1992,"Winter","SUI","Switzerland",31,74
+"2141",1992,"Winter","SWE","Sweden",39,73
+"2142",1992,"Winter","SWZ","Swaziland",3,1
+"2143",1992,"Winter","TCH","Czech Republic",44,74
+"2144",1992,"Winter","TPE","Taiwan",6,8
+"2145",1992,"Winter","TUR","Turkey",5,8
+"2146",1992,"Winter","USA","USA",56,148
+"2147",1992,"Winter","YUG","Serbia",22,25
+"2148",1994,"Winter","AND","Andorra",7,6
+"2149",1994,"Winter","ARG","Argentina",11,10
+"2150",1994,"Winter","ARM","Armenia",1,2
+"2151",1994,"Winter","ASA","American Samoa",1,2
+"2152",1994,"Winter","AUS","Australia",26,25
+"2153",1994,"Winter","AUT","Austria",38,80
+"2154",1994,"Winter","BEL","Belgium",6,5
+"2155",1994,"Winter","BER","Bermuda",1,1
+"2156",1994,"Winter","BIH","Bosnia and Herzegovina",8,10
+"2157",1994,"Winter","BLR","Belarus",29,33
+"2158",1994,"Winter","BRA","Brazil",1,1
+"2159",1994,"Winter","BUL","Bulgaria",22,17
+"2160",1994,"Winter","CAN","Canada",47,95
+"2161",1994,"Winter","CHI","Chile",3,3
+"2162",1994,"Winter","CHN","China",17,24
+"2163",1994,"Winter","CRO","Croatia",7,3
+"2164",1994,"Winter","CYP","Cyprus",1,1
+"2165",1994,"Winter","CZE","Czech Republic",27,63
+"2166",1994,"Winter","DEN","Denmark",6,4
+"2167",1994,"Winter","ESP","Spain",14,13
+"2168",1994,"Winter","EST","Estonia",21,26
+"2169",1994,"Winter","FIJ","Fiji",1,1
+"2170",1994,"Winter","FIN","Finland",31,61
+"2171",1994,"Winter","FRA","France",45,98
+"2172",1994,"Winter","GBR","UK",27,32
+"2173",1994,"Winter","GEO","Georgia",6,5
+"2174",1994,"Winter","GER","Germany",48,112
+"2175",1994,"Winter","GRE","Greece",9,9
+"2176",1994,"Winter","HUN","Hungary",18,16
+"2177",1994,"Winter","ISL","Iceland",9,5
+"2178",1994,"Winter","ISR","Israel",1,1
+"2179",1994,"Winter","ISV","Virgin Islands, US",4,8
+"2180",1994,"Winter","ITA","Italy",53,104
+"2181",1994,"Winter","JAM","Jamaica",2,4
+"2182",1994,"Winter","JPN","Japan",49,59
+"2183",1994,"Winter","KAZ","Kazakhstan",32,29
+"2184",1994,"Winter","KGZ","Kyrgyzstan",2,1
+"2185",1994,"Winter","KOR","South Korea",19,21
+"2186",1994,"Winter","LAT","Latvia",20,27
+"2187",1994,"Winter","LIE","Liechtenstein",11,10
+"2188",1994,"Winter","LTU","Lithuania",12,6
+"2189",1994,"Winter","LUX","Luxembourg",5,1
+"2190",1994,"Winter","MDA","Moldova",4,2
+"2191",1994,"Winter","MEX","Mexico",1,1
+"2192",1994,"Winter","MGL","Mongolia",2,1
+"2193",1994,"Winter","MON","Monaco",3,5
+"2194",1994,"Winter","NED","Netherlands",17,21
+"2195",1994,"Winter","NOR","Norway",48,87
+"2196",1994,"Winter","NZL","New Zealand",8,7
+"2197",1994,"Winter","POL","Poland",26,28
+"2198",1994,"Winter","POR","Portugal",4,1
+"2199",1994,"Winter","PUR","Puerto Rico",2,5
+"2200",1994,"Winter","ROU","Romania",26,23
+"2201",1994,"Winter","RSA","South Africa",3,2
+"2202",1994,"Winter","RUS","Russia",56,113
+"2203",1994,"Winter","SEN","Senegal",1,1
+"2204",1994,"Winter","SLO","Slovenia",18,22
+"2205",1994,"Winter","SMR","San Marino",2,3
+"2206",1994,"Winter","SUI","Switzerland",35,59
+"2207",1994,"Winter","SVK","Slovakia",22,42
+"2208",1994,"Winter","SWE","Sweden",45,84
+"2209",1994,"Winter","TPE","Taiwan",1,2
+"2210",1994,"Winter","TTO","Trinidad",1,2
+"2211",1994,"Winter","TUR","Turkey",1,1
+"2212",1994,"Winter","UKR","Ukraine",32,37
+"2213",1994,"Winter","USA","USA",59,148
+"2214",1994,"Winter","UZB","Uzbekistan",4,7
+"2215",1996,"Summer","AFG","Afghanistan",2,2
+"2216",1996,"Summer","AHO","Curacao",7,6
+"2217",1996,"Summer","ALB","Albania",7,7
+"2218",1996,"Summer","ALG","Algeria",29,45
+"2219",1996,"Summer","AND","Andorra",7,8
+"2220",1996,"Summer","ANG","Angola",8,28
+"2221",1996,"Summer","ANT","Antigua",9,13
+"2222",1996,"Summer","ARG","Argentina",102,179
+"2223",1996,"Summer","ARM","Armenia",36,32
+"2224",1996,"Summer","ARU","Aruba",3,3
+"2225",1996,"Summer","ASA","American Samoa",6,7
+"2226",1996,"Summer","AUS","Australia",211,417
+"2227",1996,"Summer","AUT","Austria",53,72
+"2228",1996,"Summer","AZE","Azerbaijan",23,23
+"2229",1996,"Summer","BAH","Bahamas",17,26
+"2230",1996,"Summer","BAN","Bangladesh",4,4
+"2231",1996,"Summer","BAR","Barbados",21,13
+"2232",1996,"Summer","BDI","Burundi",6,7
+"2233",1996,"Summer","BEL","Belgium",55,61
+"2234",1996,"Summer","BEN","Benin",4,5
+"2235",1996,"Summer","BER","Bermuda",9,9
+"2236",1996,"Summer","BHU","Bhutan",2,2
+"2237",1996,"Summer","BIH","Bosnia and Herzegovina",12,9
+"2238",1996,"Summer","BIZ","Belize",5,5
+"2239",1996,"Summer","BLR","Belarus",115,157
+"2240",1996,"Summer","BOL","Boliva",9,8
+"2241",1996,"Summer","BOT","Botswana",4,7
+"2242",1996,"Summer","BRA","Brazil",93,221
+"2243",1996,"Summer","BRN","Bahrain",3,5
+"2244",1996,"Summer","BRU","Brunei",1,1
+"2245",1996,"Summer","BUL","Bulgaria",89,110
+"2246",1996,"Summer","BUR","Burkina Faso",5,5
+"2247",1996,"Summer","CAF","Central African Republic",5,5
+"2248",1996,"Summer","CAM","Cambodia",5,5
+"2249",1996,"Summer","CAN","Canada",189,303
+"2250",1996,"Summer","CAY","Cayman Islands",7,9
+"2251",1996,"Summer","CGO","Republic of Congo",5,5
+"2252",1996,"Summer","CHA","Chad",4,4
+"2253",1996,"Summer","CHI","Chile",18,21
+"2254",1996,"Summer","CHN","China",155,294
+"2255",1996,"Summer","CIV","Ivory Coast",8,11
+"2256",1996,"Summer","CMR","Cameroon",13,15
+"2257",1996,"Summer","COD","Democratic Republic of the Congo",2,14
+"2258",1996,"Summer","COK","Cook Islands",3,3
+"2259",1996,"Summer","COL","Colombia",44,48
+"2260",1996,"Summer","COM","Comoros",4,4
+"2261",1996,"Summer","CPV","Cape Verde",3,3
+"2262",1996,"Summer","CRC","Costa Rica",13,11
+"2263",1996,"Summer","CRO","Croatia",57,84
+"2264",1996,"Summer","CUB","Cuba",84,164
+"2265",1996,"Summer","CYP","Cyprus",16,17
+"2266",1996,"Summer","CZE","Czech Republic",110,115
+"2267",1996,"Summer","DEN","Denmark",66,119
+"2268",1996,"Summer","DJI","Djibouti",4,5
+"2269",1996,"Summer","DMA","Dominica",6,6
+"2270",1996,"Summer","DOM","Dominican Republic",16,16
+"2271",1996,"Summer","ECU","Ecuador",18,19
+"2272",1996,"Summer","EGY","Egypt",17,29
+"2273",1996,"Summer","ESA","El Salvador",10,8
+"2274",1996,"Summer","ESP","Spain",157,289
+"2275",1996,"Summer","EST","Estonia",36,43
+"2276",1996,"Summer","ETH","Ethiopia",10,18
+"2277",1996,"Summer","FIJ","Fiji",14,17
+"2278",1996,"Summer","FIN","Finland",74,76
+"2279",1996,"Summer","FRA","France",183,299
+"2280",1996,"Summer","GAB","Gabon",6,7
+"2281",1996,"Summer","GAM","Gambia",6,9
+"2282",1996,"Summer","GBR","UK",175,300
+"2283",1996,"Summer","GBS","Guinea-Bissau",3,3
+"2284",1996,"Summer","GEO","Georgia",39,34
+"2285",1996,"Summer","GEQ","Equatorial Guinea",5,5
+"2286",1996,"Summer","GER","Germany",234,466
+"2287",1996,"Summer","GHA","Ghana",15,35
+"2288",1996,"Summer","GRE","Greece",94,121
+"2289",1996,"Summer","GRN","Grenada",2,5
+"2290",1996,"Summer","GUA","Guatemala",20,26
+"2291",1996,"Summer","GUI","Guinea",5,5
+"2292",1996,"Summer","GUM","Guam",9,8
+"2293",1996,"Summer","GUY","Guyana",6,7
+"2294",1996,"Summer","HAI","Haiti",7,7
+"2295",1996,"Summer","HKG","China",25,23
+"2296",1996,"Summer","HON","Honduras",7,7
+"2297",1996,"Summer","HUN","Hungary",145,213
+"2298",1996,"Summer","INA","Indonesia",23,40
+"2299",1996,"Summer","IND","India",31,49
+"2300",1996,"Summer","IRI","Iran",18,18
+"2301",1996,"Summer","IRL","Ireland",70,78
+"2302",1996,"Summer","IRQ","Iraq",3,3
+"2303",1996,"Summer","ISL","Iceland",15,9
+"2304",1996,"Summer","ISR","Israel",26,25
+"2305",1996,"Summer","ISV","Virgin Islands, US",11,12
+"2306",1996,"Summer","ITA","Italy",172,340
+"2307",1996,"Summer","IVB","Virgin Islands, British",5,7
+"2308",1996,"Summer","JAM","Jamaica",29,46
+"2309",1996,"Summer","JOR","Jordan",5,5
+"2310",1996,"Summer","JPN","Japan",168,306
+"2311",1996,"Summer","KAZ","Kazakhstan",99,96
+"2312",1996,"Summer","KEN","Kenya",27,52
+"2313",1996,"Summer","KGZ","Kyrgyzstan",39,33
+"2314",1996,"Summer","KOR","South Korea",160,303
+"2315",1996,"Summer","KSA","Saudi Arabia",13,29
+"2316",1996,"Summer","KUW","Kuwait",16,25
+"2317",1996,"Summer","LAO","Laos",2,5
+"2318",1996,"Summer","LAT","Latvia",47,47
+"2319",1996,"Summer","LBA","Libya",5,5
+"2320",1996,"Summer","LBR","Liberia",3,5
+"2321",1996,"Summer","LCA","Saint Lucia",5,6
+"2322",1996,"Summer","LES","Lesotho",5,9
+"2323",1996,"Summer","LIB","Lebanon",1,1
+"2324",1996,"Summer","LIE","Liechtenstein",2,2
+"2325",1996,"Summer","LTU","Lithuania",49,61
+"2326",1996,"Summer","LUX","Luxembourg",7,6
+"2327",1996,"Summer","MAD","Madagascar",10,11
+"2328",1996,"Summer","MAR","Morocco",28,34
+"2329",1996,"Summer","MAS","Malaysia",21,35
+"2330",1996,"Summer","MAW","Malawi",2,2
+"2331",1996,"Summer","MDA","Moldova",41,40
+"2332",1996,"Summer","MDV","Maldives",6,6
+"2333",1996,"Summer","MEX","Mexico",57,98
+"2334",1996,"Summer","MGL","Mongolia",16,16
+"2335",1996,"Summer","MKD","Macedonia",16,11
+"2336",1996,"Summer","MLI","Mali",4,3
+"2337",1996,"Summer","MLT","Malta",10,7
+"2338",1996,"Summer","MON","Monaco",4,3
+"2339",1996,"Summer","MOZ","Mozambique",3,3
+"2340",1996,"Summer","MRI","Mauritius",23,26
+"2341",1996,"Summer","MTN","Mauritania",4,4
+"2342",1996,"Summer","MYA","Myanmar",3,3
+"2343",1996,"Summer","NAM","Namibia",10,8
+"2344",1996,"Summer","NCA","Nicaragua",9,26
+"2345",1996,"Summer","NED","Netherlands",94,239
+"2346",1996,"Summer","NEP","Nepal",6,6
+"2347",1996,"Summer","NGR","Nigeria",38,65
+"2348",1996,"Summer","NIG","Niger",3,3
+"2349",1996,"Summer","NOR","Norway",65,97
+"2350",1996,"Summer","NRU","Nauru",3,3
+"2351",1996,"Summer","NZL","New Zealand",81,95
+"2352",1996,"Summer","OMA","Oman",5,4
+"2353",1996,"Summer","PAK","Pakistan",9,24
+"2354",1996,"Summer","PAN","Panama",9,7
+"2355",1996,"Summer","PAR","Paraguay",7,7
+"2356",1996,"Summer","PER","Peru",22,29
+"2357",1996,"Summer","PHI","Philippines",18,12
+"2358",1996,"Summer","PLE","Palestine",1,1
+"2359",1996,"Summer","PNG","Papua New Guinea",11,11
+"2360",1996,"Summer","POL","Poland",126,165
+"2361",1996,"Summer","POR","Portugal",79,107
+"2362",1996,"Summer","PRK","North Korea",25,24
+"2363",1996,"Summer","PUR","Puerto Rico",60,69
+"2364",1996,"Summer","QAT","Qatar",10,12
+"2365",1996,"Summer","ROU","Romania",122,165
+"2366",1996,"Summer","RSA","South Africa",62,84
+"2367",1996,"Summer","RUS","Russia",212,390
+"2368",1996,"Summer","RWA","Rwanda",4,4
+"2369",1996,"Summer","SAM","Samoa",5,5
+"2370",1996,"Summer","SCG","Serbia",35,68
+"2371",1996,"Summer","SEN","Senegal",8,11
+"2372",1996,"Summer","SEY","Seychelles",9,9
+"2373",1996,"Summer","SKN","Saint Kitts",5,10
+"2374",1996,"Summer","SLE","Sierra Leone",10,14
+"2375",1996,"Summer","SLO","Slovenia",34,37
+"2376",1996,"Summer","SMR","San Marino",7,7
+"2377",1996,"Summer","SOL","Solomon Islands",4,4
+"2378",1996,"Summer","SOM","Somalia",4,4
+"2379",1996,"Summer","SRI","Sri Lanka",9,9
+"2380",1996,"Summer","STP","Sao Tome and Principe",2,2
+"2381",1996,"Summer","SUD","Sudan",4,4
+"2382",1996,"Summer","SUI","Switzerland",83,115
+"2383",1996,"Summer","SUR","Suriname",11,7
+"2384",1996,"Summer","SVK","Slovakia",69,71
+"2385",1996,"Summer","SWE","Sweden",109,177
+"2386",1996,"Summer","SWZ","Swaziland",5,6
+"2387",1996,"Summer","SYR","Syria",8,7
+"2388",1996,"Summer","TAN","Tanzania",5,7
+"2389",1996,"Summer","TGA","Tonga",5,5
+"2390",1996,"Summer","THA","Thailand",42,37
+"2391",1996,"Summer","TJK","Tajikistan",8,8
+"2392",1996,"Summer","TKM","Turkmenistan",7,7
+"2393",1996,"Summer","TOG","Togo",4,5
+"2394",1996,"Summer","TPE","Taiwan",63,74
+"2395",1996,"Summer","TTO","Trinidad",14,12
+"2396",1996,"Summer","TUN","Tunisia",24,51
+"2397",1996,"Summer","TUR","Turkey",55,53
+"2398",1996,"Summer","UAE","United Arab Emirates",4,4
+"2399",1996,"Summer","UGA","Uganda",9,10
+"2400",1996,"Summer","UKR","Ukraine",148,231
+"2401",1996,"Summer","URU","Uruguay",14,14
+"2402",1996,"Summer","USA","USA",263,648
+"2403",1996,"Summer","UZB","Uzbekistan",70,71
+"2404",1996,"Summer","VAN","Vanuatu",4,4
+"2405",1996,"Summer","VEN","Venezuela",36,39
+"2406",1996,"Summer","VIE","Vietnam",6,6
+"2407",1996,"Summer","VIN","Saint Vincent",6,8
+"2408",1996,"Summer","YEM","Yemen",4,4
+"2409",1996,"Summer","ZAM","Zambia",8,8
+"2410",1996,"Summer","ZIM","Zimbabwe",15,13
+"2411",1998,"Winter","AND","Andorra",5,3
+"2412",1998,"Winter","ARG","Argentina",6,2
+"2413",1998,"Winter","ARM","Armenia",5,7
+"2414",1998,"Winter","AUS","Australia",22,23
+"2415",1998,"Winter","AUT","Austria",48,96
+"2416",1998,"Winter","AZE","Azerbaijan",3,4
+"2417",1998,"Winter","BEL","Belgium",3,1
+"2418",1998,"Winter","BER","Bermuda",1,1
+"2419",1998,"Winter","BIH","Bosnia and Herzegovina",8,8
+"2420",1998,"Winter","BLR","Belarus",29,59
+"2421",1998,"Winter","BRA","Brazil",1,1
+"2422",1998,"Winter","BUL","Bulgaria",22,19
+"2423",1998,"Winter","CAN","Canada",55,144
+"2424",1998,"Winter","CHI","Chile",3,3
+"2425",1998,"Winter","CHN","China",29,57
+"2426",1998,"Winter","CRO","Croatia",10,6
+"2427",1998,"Winter","CYP","Cyprus",1,1
+"2428",1998,"Winter","CZE","Czech Republic",36,61
+"2429",1998,"Winter","DEN","Denmark",14,12
+"2430",1998,"Winter","ESP","Spain",8,12
+"2431",1998,"Winter","EST","Estonia",17,20
+"2432",1998,"Winter","FIN","Finland",34,85
+"2433",1998,"Winter","FRA","France",47,106
+"2434",1998,"Winter","GBR","UK",19,34
+"2435",1998,"Winter","GEO","Georgia",6,4
+"2436",1998,"Winter","GER","Germany",58,125
+"2437",1998,"Winter","GRE","Greece",11,13
+"2438",1998,"Winter","HUN","Hungary",18,17
+"2439",1998,"Winter","IND","India",1,1
+"2440",1998,"Winter","IRI","Iran",1,1
+"2441",1998,"Winter","IRL","Ireland",4,6
+"2442",1998,"Winter","ISL","Iceland",5,7
+"2443",1998,"Winter","ISR","Israel",2,3
+"2444",1998,"Winter","ISV","Virgin Islands, US",3,7
+"2445",1998,"Winter","ITA","Italy",54,113
+"2446",1998,"Winter","JAM","Jamaica",2,6
+"2447",1998,"Winter","JPN","Japan",65,156
+"2448",1998,"Winter","KAZ","Kazakhstan",34,60
+"2449",1998,"Winter","KEN","Kenya",1,1
+"2450",1998,"Winter","KGZ","Kyrgyzstan",2,1
+"2451",1998,"Winter","KOR","South Korea",28,37
+"2452",1998,"Winter","LAT","Latvia",23,29
+"2453",1998,"Winter","LIE","Liechtenstein",12,8
+"2454",1998,"Winter","LTU","Lithuania",13,7
+"2455",1998,"Winter","LUX","Luxembourg",1,1
+"2456",1998,"Winter","MDA","Moldova",4,2
+"2457",1998,"Winter","MGL","Mongolia",3,3
+"2458",1998,"Winter","MKD","Macedonia",3,3
+"2459",1998,"Winter","MON","Monaco",2,4
+"2460",1998,"Winter","NED","Netherlands",16,22
+"2461",1998,"Winter","NOR","Norway",48,75
+"2462",1998,"Winter","NZL","New Zealand",8,8
+"2463",1998,"Winter","POL","Poland",35,39
+"2464",1998,"Winter","POR","Portugal",2,2
+"2465",1998,"Winter","PRK","North Korea",7,8
+"2466",1998,"Winter","PUR","Puerto Rico",3,6
+"2467",1998,"Winter","ROU","Romania",22,16
+"2468",1998,"Winter","RSA","South Africa",3,2
+"2469",1998,"Winter","RUS","Russia",52,122
+"2470",1998,"Winter","SCG","Serbia",2,2
+"2471",1998,"Winter","SLO","Slovenia",25,34
+"2472",1998,"Winter","SUI","Switzerland",39,69
+"2473",1998,"Winter","SVK","Slovakia",20,37
+"2474",1998,"Winter","SWE","Sweden",42,99
+"2475",1998,"Winter","TPE","Taiwan",5,7
+"2476",1998,"Winter","TTO","Trinidad",1,2
+"2477",1998,"Winter","TUR","Turkey",1,1
+"2478",1998,"Winter","UKR","Ukraine",41,56
+"2479",1998,"Winter","URU","Uruguay",1,1
+"2480",1998,"Winter","USA","USA",68,186
+"2481",1998,"Winter","UZB","Uzbekistan",4,4
+"2482",1998,"Winter","VEN","Venezuela",1,1
+"2483",2000,"Summer","AHO","Curacao",8,7
+"2484",2000,"Summer","ALB","Albania",5,4
+"2485",2000,"Summer","ALG","Algeria",42,47
+"2486",2000,"Summer","AND","Andorra",5,5
+"2487",2000,"Summer","ANG","Angola",7,30
+"2488",2000,"Summer","ANT","Antigua",4,3
+"2489",2000,"Summer","ARG","Argentina",98,143
+"2490",2000,"Summer","ARM","Armenia",26,25
+"2491",2000,"Summer","ARU","Aruba",5,5
+"2492",2000,"Summer","ASA","American Samoa",4,4
+"2493",2000,"Summer","AUS","Australia",270,617
+"2494",2000,"Summer","AUT","Austria",68,92
+"2495",2000,"Summer","AZE","Azerbaijan",32,31
+"2496",2000,"Summer","BAH","Bahamas",18,25
+"2497",2000,"Summer","BAN","Bangladesh",6,5
+"2498",2000,"Summer","BAR","Barbados",21,18
+"2499",2000,"Summer","BDI","Burundi",5,6
+"2500",2000,"Summer","BEL","Belgium",64,68
+"2501",2000,"Summer","BEN","Benin",4,4
+"2502",2000,"Summer","BER","Bermuda",6,6
+"2503",2000,"Summer","BHU","Bhutan",2,2
+"2504",2000,"Summer","BIH","Bosnia and Herzegovina",10,9
+"2505",2000,"Summer","BIZ","Belize",2,2
+"2506",2000,"Summer","BLR","Belarus",109,139
+"2507",2000,"Summer","BOL","Boliva",5,5
+"2508",2000,"Summer","BOT","Botswana",5,7
+"2509",2000,"Summer","BRA","Brazil",96,198
+"2510",2000,"Summer","BRN","Bahrain",4,4
+"2511",2000,"Summer","BRU","Brunei",2,2
+"2512",2000,"Summer","BUL","Bulgaria",85,91
+"2513",2000,"Summer","BUR","Burkina Faso",4,4
+"2514",2000,"Summer","CAF","Central African Republic",3,3
+"2515",2000,"Summer","CAM","Cambodia",4,4
+"2516",2000,"Summer","CAN","Canada",175,294
+"2517",2000,"Summer","CAY","Cayman Islands",4,3
+"2518",2000,"Summer","CGO","Republic of Congo",5,5
+"2519",2000,"Summer","CHA","Chad",3,2
+"2520",2000,"Summer","CHI","Chile",28,50
+"2521",2000,"Summer","CHN","China",163,271
+"2522",2000,"Summer","CIV","Ivory Coast",12,14
+"2523",2000,"Summer","CMR","Cameroon",14,34
+"2524",2000,"Summer","COD","Democratic Republic of the Congo",3,2
+"2525",2000,"Summer","COK","Cook Islands",2,2
+"2526",2000,"Summer","COL","Colombia",45,44
+"2527",2000,"Summer","COM","Comoros",2,2
+"2528",2000,"Summer","CPV","Cape Verde",2,2
+"2529",2000,"Summer","CRC","Costa Rica",9,7
+"2530",2000,"Summer","CRO","Croatia",53,88
+"2531",2000,"Summer","CUB","Cuba",135,229
+"2532",2000,"Summer","CYP","Cyprus",20,22
+"2533",2000,"Summer","CZE","Czech Republic",96,119
+"2534",2000,"Summer","DEN","Denmark",55,97
+"2535",2000,"Summer","DJI","Djibouti",2,2
+"2536",2000,"Summer","DMA","Dominica",4,4
+"2537",2000,"Summer","DOM","Dominican Republic",13,13
+"2538",2000,"Summer","ECU","Ecuador",11,10
+"2539",2000,"Summer","EGY","Egypt",64,89
+"2540",2000,"Summer","ERI","Eritrea",3,3
+"2541",2000,"Summer","ESA","El Salvador",10,8
+"2542",2000,"Summer","ESP","Spain",165,321
+"2543",2000,"Summer","EST","Estonia",29,33
+"2544",2000,"Summer","ETH","Ethiopia",11,26
+"2545",2000,"Summer","FIJ","Fiji",9,7
+"2546",2000,"Summer","FIN","Finland",64,70
+"2547",2000,"Summer","FRA","France",196,336
+"2548",2000,"Summer","FSM","Micronesia",5,5
+"2549",2000,"Summer","GAB","Gabon",6,5
+"2550",2000,"Summer","GAM","Gambia",2,2
+"2551",2000,"Summer","GBR","UK",179,310
+"2552",2000,"Summer","GBS","Guinea-Bissau",3,3
+"2553",2000,"Summer","GEO","Georgia",41,36
+"2554",2000,"Summer","GEQ","Equatorial Guinea",4,4
+"2555",2000,"Summer","GER","Germany",234,422
+"2556",2000,"Summer","GHA","Ghana",13,22
+"2557",2000,"Summer","GRE","Greece",114,140
+"2558",2000,"Summer","GRN","Grenada",3,3
+"2559",2000,"Summer","GUA","Guatemala",14,15
+"2560",2000,"Summer","GUI","Guinea",6,6
+"2561",2000,"Summer","GUM","Guam",7,7
+"2562",2000,"Summer","GUY","Guyana",4,4
+"2563",2000,"Summer","HAI","Haiti",5,5
+"2564",2000,"Summer","HKG","China",34,31
+"2565",2000,"Summer","HON","Honduras",4,20
+"2566",2000,"Summer","HUN","Hungary",137,178
+"2567",2000,"Summer","INA","Indonesia",32,47
+"2568",2000,"Summer","IND","India",38,65
+"2569",2000,"Summer","IOA","Individual Olympic Athletes",4,4
+"2570",2000,"Summer","IRI","Iran",33,33
+"2571",2000,"Summer","IRL","Ireland",52,64
+"2572",2000,"Summer","IRQ","Iraq",4,4
+"2573",2000,"Summer","ISL","Iceland",28,18
+"2574",2000,"Summer","ISR","Israel",43,39
+"2575",2000,"Summer","ISV","Virgin Islands, US",12,9
+"2576",2000,"Summer","ITA","Italy",175,361
+"2577",2000,"Summer","IVB","Virgin Islands, British",1,1
+"2578",2000,"Summer","JAM","Jamaica",28,48
+"2579",2000,"Summer","JOR","Jordan",8,8
+"2580",2000,"Summer","JPN","Japan",156,266
+"2581",2000,"Summer","KAZ","Kazakhstan",104,130
+"2582",2000,"Summer","KEN","Kenya",24,56
+"2583",2000,"Summer","KGZ","Kyrgyzstan",59,48
+"2584",2000,"Summer","KOR","South Korea",144,281
+"2585",2000,"Summer","KSA","Saudi Arabia",14,18
+"2586",2000,"Summer","KUW","Kuwait",10,29
+"2587",2000,"Summer","LAO","Laos",3,3
+"2588",2000,"Summer","LAT","Latvia",47,45
+"2589",2000,"Summer","LBA","Libya",3,3
+"2590",2000,"Summer","LBR","Liberia",7,8
+"2591",2000,"Summer","LCA","Saint Lucia",5,5
+"2592",2000,"Summer","LES","Lesotho",6,6
+"2593",2000,"Summer","LIB","Lebanon",6,6
+"2594",2000,"Summer","LIE","Liechtenstein",2,2
+"2595",2000,"Summer","LTU","Lithuania",50,61
+"2596",2000,"Summer","LUX","Luxembourg",8,7
+"2597",2000,"Summer","MAD","Madagascar",10,11
+"2598",2000,"Summer","MAR","Morocco",28,55
+"2599",2000,"Summer","MAS","Malaysia",32,40
+"2600",2000,"Summer","MAW","Malawi",2,2
+"2601",2000,"Summer","MDA","Moldova",34,34
+"2602",2000,"Summer","MDV","Maldives",4,4
+"2603",2000,"Summer","MEX","Mexico",67,78
+"2604",2000,"Summer","MGL","Mongolia",21,20
+"2605",2000,"Summer","MKD","Macedonia",15,10
+"2606",2000,"Summer","MLI","Mali",5,5
+"2607",2000,"Summer","MLT","Malta",7,7
+"2608",2000,"Summer","MON","Monaco",4,4
+"2609",2000,"Summer","MOZ","Mozambique",4,4
+"2610",2000,"Summer","MRI","Mauritius",20,20
+"2611",2000,"Summer","MTN","Mauritania",2,2
+"2612",2000,"Summer","MYA","Myanmar",7,7
+"2613",2000,"Summer","NAM","Namibia",16,11
+"2614",2000,"Summer","NCA","Nicaragua",6,6
+"2615",2000,"Summer","NED","Netherlands",95,231
+"2616",2000,"Summer","NEP","Nepal",5,5
+"2617",2000,"Summer","NGR","Nigeria",37,83
+"2618",2000,"Summer","NIG","Niger",4,4
+"2619",2000,"Summer","NOR","Norway",54,93
+"2620",2000,"Summer","NRU","Nauru",2,2
+"2621",2000,"Summer","NZL","New Zealand",95,147
+"2622",2000,"Summer","OMA","Oman",5,6
+"2623",2000,"Summer","PAK","Pakistan",11,27
+"2624",2000,"Summer","PAN","Panama",7,6
+"2625",2000,"Summer","PAR","Paraguay",5,5
+"2626",2000,"Summer","PER","Peru",12,21
+"2627",2000,"Summer","PHI","Philippines",22,20
+"2628",2000,"Summer","PLE","Palestine",2,2
+"2629",2000,"Summer","PLW","Palau",5,5
+"2630",2000,"Summer","PNG","Papua New Guinea",5,5
+"2631",2000,"Summer","POL","Poland",133,187
+"2632",2000,"Summer","POR","Portugal",50,61
+"2633",2000,"Summer","PRK","North Korea",34,31
+"2634",2000,"Summer","PUR","Puerto Rico",31,29
+"2635",2000,"Summer","QAT","Qatar",14,17
+"2636",2000,"Summer","ROU","Romania",116,145
+"2637",2000,"Summer","RSA","South Africa",68,127
+"2638",2000,"Summer","RUS","Russia",238,435
+"2639",2000,"Summer","RWA","Rwanda",5,5
+"2640",2000,"Summer","SAM","Samoa",5,5
+"2641",2000,"Summer","SCG","Serbia",50,109
+"2642",2000,"Summer","SEN","Senegal",15,26
+"2643",2000,"Summer","SEY","Seychelles",9,9
+"2644",2000,"Summer","SKN","Saint Kitts",4,2
+"2645",2000,"Summer","SLE","Sierra Leone",3,3
+"2646",2000,"Summer","SLO","Slovenia",53,74
+"2647",2000,"Summer","SMR","San Marino",4,4
+"2648",2000,"Summer","SOL","Solomon Islands",2,2
+"2649",2000,"Summer","SOM","Somalia",2,2
+"2650",2000,"Summer","SRI","Sri Lanka",16,18
+"2651",2000,"Summer","STP","Sao Tome and Principe",2,2
+"2652",2000,"Summer","SUD","Sudan",3,3
+"2653",2000,"Summer","SUI","Switzerland",82,102
+"2654",2000,"Summer","SUR","Suriname",5,4
+"2655",2000,"Summer","SVK","Slovakia",63,108
+"2656",2000,"Summer","SWE","Sweden",92,150
+"2657",2000,"Summer","SWZ","Swaziland",6,6
+"2658",2000,"Summer","SYR","Syria",7,8
+"2659",2000,"Summer","TAN","Tanzania",2,4
+"2660",2000,"Summer","TGA","Tonga",3,3
+"2661",2000,"Summer","THA","Thailand",51,52
+"2662",2000,"Summer","TJK","Tajikistan",4,4
+"2663",2000,"Summer","TKM","Turkmenistan",8,8
+"2664",2000,"Summer","TOG","Togo",3,3
+"2665",2000,"Summer","TPE","Taiwan",59,55
+"2666",2000,"Summer","TTO","Trinidad",18,19
+"2667",2000,"Summer","TUN","Tunisia",34,47
+"2668",2000,"Summer","TUR","Turkey",58,57
+"2669",2000,"Summer","UAE","United Arab Emirates",5,4
+"2670",2000,"Summer","UGA","Uganda",13,13
+"2671",2000,"Summer","UKR","Ukraine",185,230
+"2672",2000,"Summer","URU","Uruguay",16,15
+"2673",2000,"Summer","USA","USA",265,586
+"2674",2000,"Summer","UZB","Uzbekistan",69,70
+"2675",2000,"Summer","VAN","Vanuatu",3,3
+"2676",2000,"Summer","VEN","Venezuela",49,50
+"2677",2000,"Summer","VIE","Vietnam",7,7
+"2678",2000,"Summer","VIN","Saint Vincent",4,4
+"2679",2000,"Summer","YEM","Yemen",2,2
+"2680",2000,"Summer","ZAM","Zambia",8,8
+"2681",2000,"Summer","ZIM","Zimbabwe",19,16
+"2682",2002,"Winter","AND","Andorra",4,3
+"2683",2002,"Winter","ARG","Argentina",17,11
+"2684",2002,"Winter","ARM","Armenia",15,9
+"2685",2002,"Winter","AUS","Australia",20,25
+"2686",2002,"Winter","AUT","Austria",40,90
+"2687",2002,"Winter","AZE","Azerbaijan",3,4
+"2688",2002,"Winter","BEL","Belgium",7,6
+"2689",2002,"Winter","BER","Bermuda",1,1
+"2690",2002,"Winter","BIH","Bosnia and Herzegovina",3,2
+"2691",2002,"Winter","BLR","Belarus",38,64
+"2692",2002,"Winter","BRA","Brazil",6,10
+"2693",2002,"Winter","BUL","Bulgaria",27,23
+"2694",2002,"Winter","CAN","Canada",64,150
+"2695",2002,"Winter","CHI","Chile",8,6
+"2696",2002,"Winter","CHN","China",38,66
+"2697",2002,"Winter","CMR","Cameroon",2,1
+"2698",2002,"Winter","CRC","Costa Rica",2,1
+"2699",2002,"Winter","CRO","Croatia",18,13
+"2700",2002,"Winter","CYP","Cyprus",2,1
+"2701",2002,"Winter","CZE","Czech Republic",50,76
+"2702",2002,"Winter","DEN","Denmark",3,11
+"2703",2002,"Winter","ESP","Spain",7,7
+"2704",2002,"Winter","EST","Estonia",20,17
+"2705",2002,"Winter","FIJ","Fiji",2,1
+"2706",2002,"Winter","FIN","Finland",41,98
+"2707",2002,"Winter","FRA","France",54,114
+"2708",2002,"Winter","GBR","UK",31,49
+"2709",2002,"Winter","GEO","Georgia",6,4
+"2710",2002,"Winter","GER","Germany",69,157
+"2711",2002,"Winter","GRE","Greece",16,10
+"2712",2002,"Winter","HKG","China",3,2
+"2713",2002,"Winter","HUN","Hungary",30,25
+"2714",2002,"Winter","IND","India",1,1
+"2715",2002,"Winter","IRI","Iran",2,2
+"2716",2002,"Winter","IRL","Ireland",8,6
+"2717",2002,"Winter","ISL","Iceland",7,6
+"2718",2002,"Winter","ISR","Israel",4,5
+"2719",2002,"Winter","ISV","Virgin Islands, US",3,8
+"2720",2002,"Winter","ITA","Italy",66,109
+"2721",2002,"Winter","JAM","Jamaica",1,2
+"2722",2002,"Winter","JPN","Japan",66,103
+"2723",2002,"Winter","KAZ","Kazakhstan",32,50
+"2724",2002,"Winter","KEN","Kenya",2,1
+"2725",2002,"Winter","KGZ","Kyrgyzstan",4,2
+"2726",2002,"Winter","KOR","South Korea",39,46
+"2727",2002,"Winter","LAT","Latvia",21,47
+"2728",2002,"Winter","LIB","Lebanon",3,2
+"2729",2002,"Winter","LIE","Liechtenstein",9,8
+"2730",2002,"Winter","LTU","Lithuania",12,8
+"2731",2002,"Winter","MDA","Moldova",9,5
+"2732",2002,"Winter","MEX","Mexico",2,3
+"2733",2002,"Winter","MGL","Mongolia",4,4
+"2734",2002,"Winter","MKD","Macedonia",4,2
+"2735",2002,"Winter","MON","Monaco",2,5
+"2736",2002,"Winter","NED","Netherlands",17,27
+"2737",2002,"Winter","NEP","Nepal",2,1
+"2738",2002,"Winter","NOR","Norway",49,77
+"2739",2002,"Winter","NZL","New Zealand",10,10
+"2740",2002,"Winter","POL","Poland",27,27
+"2741",2002,"Winter","ROU","Romania",26,21
+"2742",2002,"Winter","RSA","South Africa",4,1
+"2743",2002,"Winter","RUS","Russia",62,151
+"2744",2002,"Winter","SCG","Serbia",5,6
+"2745",2002,"Winter","SLO","Slovenia",33,40
+"2746",2002,"Winter","SMR","San Marino",1,1
+"2747",2002,"Winter","SUI","Switzerland",52,110
+"2748",2002,"Winter","SVK","Slovakia",34,49
+"2749",2002,"Winter","SWE","Sweden",47,102
+"2750",2002,"Winter","THA","Thailand",2,1
+"2751",2002,"Winter","TJK","Tajikistan",2,1
+"2752",2002,"Winter","TPE","Taiwan",2,6
+"2753",2002,"Winter","TTO","Trinidad",1,3
+"2754",2002,"Winter","TUR","Turkey",5,3
+"2755",2002,"Winter","UKR","Ukraine",47,68
+"2756",2002,"Winter","USA","USA",78,202
+"2757",2002,"Winter","UZB","Uzbekistan",5,6
+"2758",2002,"Winter","VEN","Venezuela",2,4
+"2759",2004,"Summer","AFG","Afghanistan",5,5
+"2760",2004,"Summer","AHO","Curacao",3,3
+"2761",2004,"Summer","ALB","Albania",7,7
+"2762",2004,"Summer","ALG","Algeria",57,61
+"2763",2004,"Summer","AND","Andorra",6,6
+"2764",2004,"Summer","ANG","Angola",5,30
+"2765",2004,"Summer","ANT","Antigua",5,5
+"2766",2004,"Summer","ARG","Argentina",86,152
+"2767",2004,"Summer","ARM","Armenia",19,18
+"2768",2004,"Summer","ARU","Aruba",4,4
+"2769",2004,"Summer","ASA","American Samoa",3,3
+"2770",2004,"Summer","AUS","Australia",219,470
+"2771",2004,"Summer","AUT","Austria",56,74
+"2772",2004,"Summer","AZE","Azerbaijan",36,36
+"2773",2004,"Summer","BAH","Bahamas",18,22
+"2774",2004,"Summer","BAN","Bangladesh",4,4
+"2775",2004,"Summer","BAR","Barbados",15,10
+"2776",2004,"Summer","BDI","Burundi",5,7
+"2777",2004,"Summer","BEL","Belgium",41,50
+"2778",2004,"Summer","BEN","Benin",4,4
+"2779",2004,"Summer","BER","Bermuda",7,10
+"2780",2004,"Summer","BHU","Bhutan",2,2
+"2781",2004,"Summer","BIH","Bosnia and Herzegovina",11,9
+"2782",2004,"Summer","BIZ","Belize",2,2
+"2783",2004,"Summer","BLR","Belarus",121,151
+"2784",2004,"Summer","BOL","Boliva",11,7
+"2785",2004,"Summer","BOT","Botswana",8,11
+"2786",2004,"Summer","BRA","Brazil",133,243
+"2787",2004,"Summer","BRN","Bahrain",10,10
+"2788",2004,"Summer","BRU","Brunei",1,1
+"2789",2004,"Summer","BUL","Bulgaria",94,95
+"2790",2004,"Summer","BUR","Burkina Faso",5,5
+"2791",2004,"Summer","CAF","Central African Republic",4,4
+"2792",2004,"Summer","CAM","Cambodia",4,4
+"2793",2004,"Summer","CAN","Canada",151,262
+"2794",2004,"Summer","CAY","Cayman Islands",8,5
+"2795",2004,"Summer","CGO","Republic of Congo",5,5
+"2796",2004,"Summer","CHA","Chad",1,1
+"2797",2004,"Summer","CHI","Chile",25,22
+"2798",2004,"Summer","CHN","China",204,383
+"2799",2004,"Summer","CIV","Ivory Coast",5,5
+"2800",2004,"Summer","CMR","Cameroon",15,17
+"2801",2004,"Summer","COD","Democratic Republic of the Congo",4,4
+"2802",2004,"Summer","COK","Cook Islands",3,3
+"2803",2004,"Summer","COL","Colombia",59,53
+"2804",2004,"Summer","COM","Comoros",3,3
+"2805",2004,"Summer","CPV","Cape Verde",3,3
+"2806",2004,"Summer","CRC","Costa Rica",8,20
+"2807",2004,"Summer","CRO","Croatia",57,81
+"2808",2004,"Summer","CUB","Cuba",108,151
+"2809",2004,"Summer","CYP","Cyprus",20,20
+"2810",2004,"Summer","CZE","Czech Republic",104,142
+"2811",2004,"Summer","DEN","Denmark",59,92
+"2812",2004,"Summer","DMA","Dominica",2,2
+"2813",2004,"Summer","DOM","Dominican Republic",22,33
+"2814",2004,"Summer","ECU","Ecuador",15,16
+"2815",2004,"Summer","EGY","Egypt",48,97
+"2816",2004,"Summer","ERI","Eritrea",3,4
+"2817",2004,"Summer","ESA","El Salvador",9,7
+"2818",2004,"Summer","ESP","Spain",155,316
+"2819",2004,"Summer","EST","Estonia",34,42
+"2820",2004,"Summer","ETH","Ethiopia",12,26
+"2821",2004,"Summer","FIJ","Fiji",9,8
+"2822",2004,"Summer","FIN","Finland",53,53
+"2823",2004,"Summer","FRA","France",193,308
+"2824",2004,"Summer","FSM","Micronesia",5,5
+"2825",2004,"Summer","GAB","Gabon",5,5
+"2826",2004,"Summer","GAM","Gambia",3,2
+"2827",2004,"Summer","GBR","UK",162,264
+"2828",2004,"Summer","GBS","Guinea-Bissau",3,3
+"2829",2004,"Summer","GEO","Georgia",38,32
+"2830",2004,"Summer","GEQ","Equatorial Guinea",2,2
+"2831",2004,"Summer","GER","Germany",228,441
+"2832",2004,"Summer","GHA","Ghana",9,26
+"2833",2004,"Summer","GRE","Greece",215,426
+"2834",2004,"Summer","GRN","Grenada",5,5
+"2835",2004,"Summer","GUA","Guatemala",17,18
+"2836",2004,"Summer","GUI","Guinea",4,3
+"2837",2004,"Summer","GUM","Guam",4,4
+"2838",2004,"Summer","GUY","Guyana",4,4
+"2839",2004,"Summer","HAI","Haiti",8,8
+"2840",2004,"Summer","HKG","China",29,32
+"2841",2004,"Summer","HON","Honduras",5,5
+"2842",2004,"Summer","HUN","Hungary",138,209
+"2843",2004,"Summer","INA","Indonesia",27,38
+"2844",2004,"Summer","IND","India",43,73
+"2845",2004,"Summer","IRI","Iran",35,37
+"2846",2004,"Summer","IRL","Ireland",31,46
+"2847",2004,"Summer","IRQ","Iraq",8,24
+"2848",2004,"Summer","ISL","Iceland",20,26
+"2849",2004,"Summer","ISR","Israel",41,36
+"2850",2004,"Summer","ISV","Virgin Islands, US",9,6
+"2851",2004,"Summer","ITA","Italy",175,364
+"2852",2004,"Summer","IVB","Virgin Islands, British",1,1
+"2853",2004,"Summer","JAM","Jamaica",27,47
+"2854",2004,"Summer","JOR","Jordan",8,8
+"2855",2004,"Summer","JPN","Japan",169,306
+"2856",2004,"Summer","KAZ","Kazakhstan",95,114
+"2857",2004,"Summer","KEN","Kenya",16,46
+"2858",2004,"Summer","KGZ","Kyrgyzstan",32,29
+"2859",2004,"Summer","KIR","Kiribati",3,3
+"2860",2004,"Summer","KOR","South Korea",149,264
+"2861",2004,"Summer","KSA","Saudi Arabia",12,16
+"2862",2004,"Summer","KUW","Kuwait",9,11
+"2863",2004,"Summer","LAO","Laos",5,5
+"2864",2004,"Summer","LAT","Latvia",37,32
+"2865",2004,"Summer","LBA","Libya",8,8
+"2866",2004,"Summer","LBR","Liberia",2,2
+"2867",2004,"Summer","LCA","Saint Lucia",2,2
+"2868",2004,"Summer","LES","Lesotho",3,3
+"2869",2004,"Summer","LIB","Lebanon",5,5
+"2870",2004,"Summer","LIE","Liechtenstein",1,1
+"2871",2004,"Summer","LTU","Lithuania",44,59
+"2872",2004,"Summer","LUX","Luxembourg",10,10
+"2873",2004,"Summer","MAD","Madagascar",8,8
+"2874",2004,"Summer","MAR","Morocco",28,55
+"2875",2004,"Summer","MAS","Malaysia",31,26
+"2876",2004,"Summer","MAW","Malawi",4,4
+"2877",2004,"Summer","MDA","Moldova",31,33
+"2878",2004,"Summer","MDV","Maldives",4,4
+"2879",2004,"Summer","MEX","Mexico",68,109
+"2880",2004,"Summer","MGL","Mongolia",21,20
+"2881",2004,"Summer","MKD","Macedonia",14,10
+"2882",2004,"Summer","MLI","Mali",6,21
+"2883",2004,"Summer","MLT","Malta",7,7
+"2884",2004,"Summer","MON","Monaco",3,3
+"2885",2004,"Summer","MOZ","Mozambique",4,4
+"2886",2004,"Summer","MRI","Mauritius",9,9
+"2887",2004,"Summer","MTN","Mauritania",2,2
+"2888",2004,"Summer","MYA","Myanmar",2,2
+"2889",2004,"Summer","NAM","Namibia",9,8
+"2890",2004,"Summer","NCA","Nicaragua",6,5
+"2891",2004,"Summer","NED","Netherlands",99,210
+"2892",2004,"Summer","NEP","Nepal",6,6
+"2893",2004,"Summer","NGR","Nigeria",31,70
+"2894",2004,"Summer","NIG","Niger",4,4
+"2895",2004,"Summer","NOR","Norway",35,52
+"2896",2004,"Summer","NRU","Nauru",3,3
+"2897",2004,"Summer","NZL","New Zealand",84,148
+"2898",2004,"Summer","OMA","Oman",2,2
+"2899",2004,"Summer","PAK","Pakistan",11,26
+"2900",2004,"Summer","PAN","Panama",5,4
+"2901",2004,"Summer","PAR","Paraguay",6,22
+"2902",2004,"Summer","PER","Peru",14,12
+"2903",2004,"Summer","PHI","Philippines",21,16
+"2904",2004,"Summer","PLE","Palestine",3,3
+"2905",2004,"Summer","PLW","Palau",4,4
+"2906",2004,"Summer","PNG","Papua New Guinea",6,4
+"2907",2004,"Summer","POL","Poland",124,194
+"2908",2004,"Summer","POR","Portugal",63,81
+"2909",2004,"Summer","PRK","North Korea",34,36
+"2910",2004,"Summer","PUR","Puerto Rico",38,43
+"2911",2004,"Summer","QAT","Qatar",14,15
+"2912",2004,"Summer","ROU","Romania",88,108
+"2913",2004,"Summer","RSA","South Africa",68,106
+"2914",2004,"Summer","RUS","Russia",235,446
+"2915",2004,"Summer","RWA","Rwanda",5,5
+"2916",2004,"Summer","SAM","Samoa",3,3
+"2917",2004,"Summer","SCG","Serbia",39,85
+"2918",2004,"Summer","SEN","Senegal",17,15
+"2919",2004,"Summer","SEY","Seychelles",10,9
+"2920",2004,"Summer","SKN","Saint Kitts",2,2
+"2921",2004,"Summer","SLE","Sierra Leone",2,2
+"2922",2004,"Summer","SLO","Slovenia",66,79
+"2923",2004,"Summer","SMR","San Marino",5,5
+"2924",2004,"Summer","SOL","Solomon Islands",2,2
+"2925",2004,"Summer","SOM","Somalia",2,2
+"2926",2004,"Summer","SRI","Sri Lanka",8,7
+"2927",2004,"Summer","STP","Sao Tome and Principe",2,2
+"2928",2004,"Summer","SUD","Sudan",4,4
+"2929",2004,"Summer","SUI","Switzerland",83,98
+"2930",2004,"Summer","SUR","Suriname",4,4
+"2931",2004,"Summer","SVK","Slovakia",59,64
+"2932",2004,"Summer","SWE","Sweden",79,115
+"2933",2004,"Summer","SWZ","Swaziland",3,3
+"2934",2004,"Summer","SYR","Syria",6,6
+"2935",2004,"Summer","TAN","Tanzania",6,8
+"2936",2004,"Summer","TGA","Tonga",5,5
+"2937",2004,"Summer","THA","Thailand",46,42
+"2938",2004,"Summer","TJK","Tajikistan",9,9
+"2939",2004,"Summer","TKM","Turkmenistan",10,9
+"2940",2004,"Summer","TLS","Timor-Leste",2,2
+"2941",2004,"Summer","TOG","Togo",3,3
+"2942",2004,"Summer","TPE","Taiwan",52,88
+"2943",2004,"Summer","TTO","Trinidad",18,19
+"2944",2004,"Summer","TUN","Tunisia",37,54
+"2945",2004,"Summer","TUR","Turkey",65,64
+"2946",2004,"Summer","UAE","United Arab Emirates",5,4
+"2947",2004,"Summer","UGA","Uganda",10,11
+"2948",2004,"Summer","UKR","Ukraine",175,239
+"2949",2004,"Summer","URU","Uruguay",16,15
+"2950",2004,"Summer","USA","USA",254,533
+"2951",2004,"Summer","UZB","Uzbekistan",71,69
+"2952",2004,"Summer","VAN","Vanuatu",2,2
+"2953",2004,"Summer","VEN","Venezuela",51,48
+"2954",2004,"Summer","VIE","Vietnam",10,11
+"2955",2004,"Summer","VIN","Saint Vincent",3,3
+"2956",2004,"Summer","YEM","Yemen",3,3
+"2957",2004,"Summer","ZAM","Zambia",6,6
+"2958",2004,"Summer","ZIM","Zimbabwe",11,12
+"2959",2006,"Winter","ALB","Albania",3,1
+"2960",2006,"Winter","ALG","Algeria",3,2
+"2961",2006,"Winter","AND","Andorra",7,3
+"2962",2006,"Winter","ARG","Argentina",13,9
+"2963",2006,"Winter","ARM","Armenia",5,5
+"2964",2006,"Winter","AUS","Australia",31,40
+"2965",2006,"Winter","AUT","Austria",42,73
+"2966",2006,"Winter","AZE","Azerbaijan",1,2
+"2967",2006,"Winter","BEL","Belgium",6,4
+"2968",2006,"Winter","BER","Bermuda",1,1
+"2969",2006,"Winter","BIH","Bosnia and Herzegovina",9,6
+"2970",2006,"Winter","BLR","Belarus",27,28
+"2971",2006,"Winter","BRA","Brazil",9,9
+"2972",2006,"Winter","BUL","Bulgaria",25,21
+"2973",2006,"Winter","CAN","Canada",78,191
+"2974",2006,"Winter","CHI","Chile",10,9
+"2975",2006,"Winter","CHN","China",51,73
+"2976",2006,"Winter","CRC","Costa Rica",1,1
+"2977",2006,"Winter","CRO","Croatia",20,23
+"2978",2006,"Winter","CYP","Cyprus",2,1
+"2979",2006,"Winter","CZE","Czech Republic",53,83
+"2980",2006,"Winter","DEN","Denmark",1,4
+"2981",2006,"Winter","ESP","Spain",15,16
+"2982",2006,"Winter","EST","Estonia",28,26
+"2983",2006,"Winter","ETH","Ethiopia",1,1
+"2984",2006,"Winter","FIN","Finland",36,90
+"2985",2006,"Winter","FRA","France",55,82
+"2986",2006,"Winter","GBR","UK",30,39
+"2987",2006,"Winter","GEO","Georgia",4,3
+"2988",2006,"Winter","GER","Germany",70,155
+"2989",2006,"Winter","GRE","Greece",8,5
+"2990",2006,"Winter","HKG","China",3,1
+"2991",2006,"Winter","HUN","Hungary",22,19
+"2992",2006,"Winter","IND","India",5,4
+"2993",2006,"Winter","IRI","Iran",3,2
+"2994",2006,"Winter","IRL","Ireland",5,4
+"2995",2006,"Winter","ISL","Iceland",8,5
+"2996",2006,"Winter","ISR","Israel",3,5
+"2997",2006,"Winter","ITA","Italy",79,179
+"2998",2006,"Winter","JPN","Japan",70,110
+"2999",2006,"Winter","KAZ","Kazakhstan",33,55
+"3000",2006,"Winter","KEN","Kenya",1,1
+"3001",2006,"Winter","KGZ","Kyrgyzstan",2,1
+"3002",2006,"Winter","KOR","South Korea",37,40
+"3003",2006,"Winter","LAT","Latvia",25,57
+"3004",2006,"Winter","LIB","Lebanon",7,3
+"3005",2006,"Winter","LIE","Liechtenstein",9,5
+"3006",2006,"Winter","LTU","Lithuania",13,7
+"3007",2006,"Winter","LUX","Luxembourg",1,1
+"3008",2006,"Winter","MAD","Madagascar",2,1
+"3009",2006,"Winter","MDA","Moldova",8,6
+"3010",2006,"Winter","MGL","Mongolia",2,2
+"3011",2006,"Winter","MKD","Macedonia",5,3
+"3012",2006,"Winter","MON","Monaco",9,4
+"3013",2006,"Winter","NED","Netherlands",23,33
+"3014",2006,"Winter","NEP","Nepal",1,1
+"3015",2006,"Winter","NOR","Norway",47,67
+"3016",2006,"Winter","NZL","New Zealand",10,15
+"3017",2006,"Winter","POL","Poland",47,45
+"3018",2006,"Winter","POR","Portugal",1,1
+"3019",2006,"Winter","PRK","North Korea",5,6
+"3020",2006,"Winter","ROU","Romania",30,25
+"3021",2006,"Winter","RSA","South Africa",9,3
+"3022",2006,"Winter","RUS","Russia",75,174
+"3023",2006,"Winter","SCG","Serbia",10,6
+"3024",2006,"Winter","SEN","Senegal",3,1
+"3025",2006,"Winter","SLO","Slovenia",38,36
+"3026",2006,"Winter","SMR","San Marino",1,1
+"3027",2006,"Winter","SUI","Switzerland",50,125
+"3028",2006,"Winter","SVK","Slovakia",39,58
+"3029",2006,"Winter","SWE","Sweden",49,106
+"3030",2006,"Winter","THA","Thailand",1,1
+"3031",2006,"Winter","TJK","Tajikistan",3,1
+"3032",2006,"Winter","TPE","Taiwan",1,1
+"3033",2006,"Winter","TUR","Turkey",14,6
+"3034",2006,"Winter","UKR","Ukraine",42,52
+"3035",2006,"Winter","USA","USA",83,204
+"3036",2006,"Winter","UZB","Uzbekistan",3,4
+"3037",2006,"Winter","VEN","Venezuela",1,1
+"3038",2008,"Summer","AFG","Afghanistan",4,4
+"3039",2008,"Summer","AHO","Curacao",4,3
+"3040",2008,"Summer","ALB","Albania",12,11
+"3041",2008,"Summer","ALG","Algeria",44,56
+"3042",2008,"Summer","AND","Andorra",5,5
+"3043",2008,"Summer","ANG","Angola",8,32
+"3044",2008,"Summer","ANT","Antigua",5,5
+"3045",2008,"Summer","ARG","Argentina",71,132
+"3046",2008,"Summer","ARM","Armenia",24,25
+"3047",2008,"Summer","ARU","Aruba",2,2
+"3048",2008,"Summer","ASA","American Samoa",4,4
+"3049",2008,"Summer","AUS","Australia",219,432
+"3050",2008,"Summer","AUT","Austria",62,70
+"3051",2008,"Summer","AZE","Azerbaijan",37,44
+"3052",2008,"Summer","BAH","Bahamas",22,25
+"3053",2008,"Summer","BAN","Bangladesh",5,5
+"3054",2008,"Summer","BAR","Barbados",10,8
+"3055",2008,"Summer","BDI","Burundi",3,3
+"3056",2008,"Summer","BEL","Belgium",55,94
+"3057",2008,"Summer","BEN","Benin",5,5
+"3058",2008,"Summer","BER","Bermuda",6,6
+"3059",2008,"Summer","BHU","Bhutan",2,2
+"3060",2008,"Summer","BIH","Bosnia and Herzegovina",7,5
+"3061",2008,"Summer","BIZ","Belize",4,4
+"3062",2008,"Summer","BLR","Belarus",122,177
+"3063",2008,"Summer","BOL","Boliva",7,7
+"3064",2008,"Summer","BOT","Botswana",11,11
+"3065",2008,"Summer","BRA","Brazil",145,268
+"3066",2008,"Summer","BRN","Bahrain",11,14
+"3067",2008,"Summer","BUL","Bulgaria",60,70
+"3068",2008,"Summer","BUR","Burkina Faso",6,6
+"3069",2008,"Summer","CAF","Central African Republic",3,3
+"3070",2008,"Summer","CAM","Cambodia",4,4
+"3071",2008,"Summer","CAN","Canada",185,332
+"3072",2008,"Summer","CAY","Cayman Islands",6,4
+"3073",2008,"Summer","CGO","Republic of Congo",5,5
+"3074",2008,"Summer","CHA","Chad",2,2
+"3075",2008,"Summer","CHI","Chile",26,26
+"3076",2008,"Summer","CHN","China",257,599
+"3077",2008,"Summer","CIV","Ivory Coast",7,21
+"3078",2008,"Summer","CMR","Cameroon",16,32
+"3079",2008,"Summer","COD","Democratic Republic of the Congo",5,5
+"3080",2008,"Summer","COK","Cook Islands",4,4
+"3081",2008,"Summer","COL","Colombia",74,67
+"3082",2008,"Summer","COM","Comoros",3,3
+"3083",2008,"Summer","CPV","Cape Verde",2,2
+"3084",2008,"Summer","CRC","Costa Rica",8,8
+"3085",2008,"Summer","CRO","Croatia",66,99
+"3086",2008,"Summer","CUB","Cuba",102,158
+"3087",2008,"Summer","CYP","Cyprus",17,17
+"3088",2008,"Summer","CZE","Czech Republic",105,134
+"3089",2008,"Summer","DEN","Denmark",62,84
+"3090",2008,"Summer","DJI","Djibouti",2,2
+"3091",2008,"Summer","DMA","Dominica",2,2
+"3092",2008,"Summer","DOM","Dominican Republic",21,24
+"3093",2008,"Summer","ECU","Ecuador",23,25
+"3094",2008,"Summer","EGY","Egypt",68,100
+"3095",2008,"Summer","ERI","Eritrea",6,10
+"3096",2008,"Summer","ESA","El Salvador",14,11
+"3097",2008,"Summer","ESP","Spain",147,283
+"3098",2008,"Summer","EST","Estonia",42,47
+"3099",2008,"Summer","ETH","Ethiopia",10,27
+"3100",2008,"Summer","FIJ","Fiji",6,6
+"3101",2008,"Summer","FIN","Finland",55,57
+"3102",2008,"Summer","FRA","France",205,309
+"3103",2008,"Summer","FSM","Micronesia",5,5
+"3104",2008,"Summer","GAB","Gabon",4,4
+"3105",2008,"Summer","GAM","Gambia",3,3
+"3106",2008,"Summer","GBR","UK",185,304
+"3107",2008,"Summer","GBS","Guinea-Bissau",3,3
+"3108",2008,"Summer","GEO","Georgia",35,35
+"3109",2008,"Summer","GEQ","Equatorial Guinea",3,3
+"3110",2008,"Summer","GER","Germany",207,420
+"3111",2008,"Summer","GHA","Ghana",9,9
+"3112",2008,"Summer","GRE","Greece",105,152
+"3113",2008,"Summer","GRN","Grenada",8,9
+"3114",2008,"Summer","GUA","Guatemala",12,12
+"3115",2008,"Summer","GUI","Guinea",5,5
+"3116",2008,"Summer","GUM","Guam",7,6
+"3117",2008,"Summer","GUY","Guyana",4,4
+"3118",2008,"Summer","HAI","Haiti",7,7
+"3119",2008,"Summer","HKG","China",33,34
+"3120",2008,"Summer","HON","Honduras",8,25
+"3121",2008,"Summer","HUN","Hungary",126,171
+"3122",2008,"Summer","INA","Indonesia",17,24
+"3123",2008,"Summer","IND","India",48,53
+"3124",2008,"Summer","IRI","Iran",40,54
+"3125",2008,"Summer","IRL","Ireland",43,55
+"3126",2008,"Summer","IRQ","Iraq",3,4
+"3127",2008,"Summer","ISL","Iceland",18,27
+"3128",2008,"Summer","ISR","Israel",47,43
+"3129",2008,"Summer","ISV","Virgin Islands, US",8,7
+"3130",2008,"Summer","ITA","Italy",190,333
+"3131",2008,"Summer","IVB","Virgin Islands, British",2,2
+"3132",2008,"Summer","JAM","Jamaica",29,50
+"3133",2008,"Summer","JOR","Jordan",7,7
+"3134",2008,"Summer","JPN","Japan",176,332
+"3135",2008,"Summer","KAZ","Kazakhstan",106,130
+"3136",2008,"Summer","KEN","Kenya",24,46
+"3137",2008,"Summer","KGZ","Kyrgyzstan",22,20
+"3138",2008,"Summer","KIR","Kiribati",2,2
+"3139",2008,"Summer","KOR","South Korea",142,265
+"3140",2008,"Summer","KSA","Saudi Arabia",11,14
+"3141",2008,"Summer","KUW","Kuwait",7,8
+"3142",2008,"Summer","LAO","Laos",4,4
+"3143",2008,"Summer","LAT","Latvia",33,47
+"3144",2008,"Summer","LBA","Libya",6,6
+"3145",2008,"Summer","LBR","Liberia",4,3
+"3146",2008,"Summer","LCA","Saint Lucia",4,4
+"3147",2008,"Summer","LES","Lesotho",3,5
+"3148",2008,"Summer","LIB","Lebanon",6,6
+"3149",2008,"Summer","LIE","Liechtenstein",2,2
+"3150",2008,"Summer","LTU","Lithuania",54,71
+"3151",2008,"Summer","LUX","Luxembourg",17,13
+"3152",2008,"Summer","MAD","Madagascar",6,6
+"3153",2008,"Summer","MAR","Morocco",35,47
+"3154",2008,"Summer","MAS","Malaysia",29,32
+"3155",2008,"Summer","MAW","Malawi",4,4
+"3156",2008,"Summer","MDA","Moldova",28,29
+"3157",2008,"Summer","MDV","Maldives",4,4
+"3158",2008,"Summer","MEX","Mexico",73,83
+"3159",2008,"Summer","MGL","Mongolia",29,28
+"3160",2008,"Summer","MHL","Marshall Islands",5,5
+"3161",2008,"Summer","MKD","Macedonia",7,7
+"3162",2008,"Summer","MLI","Mali",6,17
+"3163",2008,"Summer","MLT","Malta",6,6
+"3164",2008,"Summer","MNE","Montenegro",8,19
+"3165",2008,"Summer","MON","Monaco",5,5
+"3166",2008,"Summer","MOZ","Mozambique",4,4
+"3167",2008,"Summer","MRI","Mauritius",11,11
+"3168",2008,"Summer","MTN","Mauritania",2,2
+"3169",2008,"Summer","MYA","Myanmar",7,6
+"3170",2008,"Summer","NAM","Namibia",10,10
+"3171",2008,"Summer","NCA","Nicaragua",7,6
+"3172",2008,"Summer","NED","Netherlands",98,237
+"3173",2008,"Summer","NEP","Nepal",8,8
+"3174",2008,"Summer","NGR","Nigeria",36,74
+"3175",2008,"Summer","NIG","Niger",4,4
+"3176",2008,"Summer","NOR","Norway",49,84
+"3177",2008,"Summer","NRU","Nauru",1,1
+"3178",2008,"Summer","NZL","New Zealand",78,178
+"3179",2008,"Summer","OMA","Oman",4,4
+"3180",2008,"Summer","PAK","Pakistan",7,21
+"3181",2008,"Summer","PAN","Panama",5,5
+"3182",2008,"Summer","PAR","Paraguay",7,7
+"3183",2008,"Summer","PER","Peru",13,13
+"3184",2008,"Summer","PHI","Philippines",17,15
+"3185",2008,"Summer","PLE","Palestine",4,4
+"3186",2008,"Summer","PLW","Palau",5,5
+"3187",2008,"Summer","PNG","Papua New Guinea",9,7
+"3188",2008,"Summer","POL","Poland",165,257
+"3189",2008,"Summer","POR","Portugal",65,77
+"3190",2008,"Summer","PRK","North Korea",38,58
+"3191",2008,"Summer","PUR","Puerto Rico",31,22
+"3192",2008,"Summer","QAT","Qatar",14,20
+"3193",2008,"Summer","ROU","Romania",80,101
+"3194",2008,"Summer","RSA","South Africa",89,134
+"3195",2008,"Summer","RUS","Russia",242,454
+"3196",2008,"Summer","RWA","Rwanda",4,4
+"3197",2008,"Summer","SAM","Samoa",7,6
+"3198",2008,"Summer","SEN","Senegal",16,15
+"3199",2008,"Summer","SEY","Seychelles",9,9
+"3200",2008,"Summer","SKN","Saint Kitts",5,4
+"3201",2008,"Summer","SLE","Sierra Leone",3,3
+"3202",2008,"Summer","SLO","Slovenia",60,61
+"3203",2008,"Summer","SMR","San Marino",4,4
+"3204",2008,"Summer","SOL","Solomon Islands",3,3
+"3205",2008,"Summer","SOM","Somalia",2,2
+"3206",2008,"Summer","SRB","Serbia",42,87
+"3207",2008,"Summer","SRI","Sri Lanka",9,8
+"3208",2008,"Summer","STP","Sao Tome and Principe",4,3
+"3209",2008,"Summer","SUD","Sudan",8,9
+"3210",2008,"Summer","SUI","Switzerland",75,83
+"3211",2008,"Summer","SUR","Suriname",4,4
+"3212",2008,"Summer","SVK","Slovakia",54,57
+"3213",2008,"Summer","SWE","Sweden",81,123
+"3214",2008,"Summer","SWZ","Swaziland",4,4
+"3215",2008,"Summer","SYR","Syria",7,7
+"3216",2008,"Summer","TAN","Tanzania",6,9
+"3217",2008,"Summer","TGA","Tonga",3,3
+"3218",2008,"Summer","THA","Thailand",43,47
+"3219",2008,"Summer","TJK","Tajikistan",16,15
+"3220",2008,"Summer","TKM","Turkmenistan",9,10
+"3221",2008,"Summer","TLS","Timor-Leste",1,1
+"3222",2008,"Summer","TOG","Togo",4,4
+"3223",2008,"Summer","TPE","Taiwan",41,79
+"3224",2008,"Summer","TTO","Trinidad",19,28
+"3225",2008,"Summer","TUN","Tunisia",28,26
+"3226",2008,"Summer","TUR","Turkey",67,67
+"3227",2008,"Summer","TUV",NA,3,3
+"3228",2008,"Summer","UAE","United Arab Emirates",9,8
+"3229",2008,"Summer","UGA","Uganda",10,11
+"3230",2008,"Summer","UKR","Ukraine",177,243
+"3231",2008,"Summer","URU","Uruguay",12,12
+"3232",2008,"Summer","USA","USA",258,588
+"3233",2008,"Summer","UZB","Uzbekistan",67,56
+"3234",2008,"Summer","VAN","Vanuatu",3,3
+"3235",2008,"Summer","VEN","Venezuela",83,108
+"3236",2008,"Summer","VIE","Vietnam",18,13
+"3237",2008,"Summer","VIN","Saint Vincent",2,2
+"3238",2008,"Summer","YEM","Yemen",8,5
+"3239",2008,"Summer","ZAM","Zambia",8,8
+"3240",2008,"Summer","ZIM","Zimbabwe",15,13
+"3241",2010,"Winter","ALB","Albania",2,1
+"3242",2010,"Winter","ALG","Algeria",1,1
+"3243",2010,"Winter","AND","Andorra",15,6
+"3244",2010,"Winter","ARG","Argentina",11,7
+"3245",2010,"Winter","ARM","Armenia",6,4
+"3246",2010,"Winter","AUS","Australia",32,40
+"3247",2010,"Winter","AUT","Austria",43,75
+"3248",2010,"Winter","AZE","Azerbaijan",4,2
+"3249",2010,"Winter","BEL","Belgium",8,8
+"3250",2010,"Winter","BER","Bermuda",1,1
+"3251",2010,"Winter","BIH","Bosnia and Herzegovina",8,5
+"3252",2010,"Winter","BLR","Belarus",28,47
+"3253",2010,"Winter","BRA","Brazil",7,5
+"3254",2010,"Winter","BUL","Bulgaria",26,19
+"3255",2010,"Winter","CAN","Canada",83,201
+"3256",2010,"Winter","CAY","Cayman Islands",1,1
+"3257",2010,"Winter","CHI","Chile",8,3
+"3258",2010,"Winter","CHN","China",44,86
+"3259",2010,"Winter","COL","Colombia",2,1
+"3260",2010,"Winter","CRO","Croatia",15,19
+"3261",2010,"Winter","CYP","Cyprus",4,2
+"3262",2010,"Winter","CZE","Czech Republic",59,90
+"3263",2010,"Winter","DEN","Denmark",16,17
+"3264",2010,"Winter","ESP","Spain",23,18
+"3265",2010,"Winter","EST","Estonia",26,30
+"3266",2010,"Winter","ETH","Ethiopia",1,1
+"3267",2010,"Winter","FIN","Finland",41,91
+"3268",2010,"Winter","FRA","France",63,104
+"3269",2010,"Winter","GBR","UK",43,52
+"3270",2010,"Winter","GEO","Georgia",6,6
+"3271",2010,"Winter","GER","Germany",77,149
+"3272",2010,"Winter","GHA","Ghana",1,1
+"3273",2010,"Winter","GRE","Greece",10,7
+"3274",2010,"Winter","HKG","China",3,1
+"3275",2010,"Winter","HUN","Hungary",20,15
+"3276",2010,"Winter","IND","India",3,3
+"3277",2010,"Winter","IRI","Iran",5,4
+"3278",2010,"Winter","IRL","Ireland",6,6
+"3279",2010,"Winter","ISL","Iceland",5,4
+"3280",2010,"Winter","ISR","Israel",3,3
+"3281",2010,"Winter","ITA","Italy",69,109
+"3282",2010,"Winter","JAM","Jamaica",1,1
+"3283",2010,"Winter","JPN","Japan",61,91
+"3284",2010,"Winter","KAZ","Kazakhstan",44,37
+"3285",2010,"Winter","KGZ","Kyrgyzstan",3,2
+"3286",2010,"Winter","KOR","South Korea",38,45
+"3287",2010,"Winter","LAT","Latvia",29,53
+"3288",2010,"Winter","LIB","Lebanon",5,3
+"3289",2010,"Winter","LIE","Liechtenstein",4,4
+"3290",2010,"Winter","LTU","Lithuania",10,6
+"3291",2010,"Winter","MAR","Morocco",2,1
+"3292",2010,"Winter","MDA","Moldova",10,7
+"3293",2010,"Winter","MEX","Mexico",2,1
+"3294",2010,"Winter","MGL","Mongolia",2,2
+"3295",2010,"Winter","MKD","Macedonia",4,3
+"3296",2010,"Winter","MNE","Montenegro",2,1
+"3297",2010,"Winter","MON","Monaco",5,3
+"3298",2010,"Winter","NED","Netherlands",22,32
+"3299",2010,"Winter","NEP","Nepal",1,1
+"3300",2010,"Winter","NOR","Norway",55,95
+"3301",2010,"Winter","NZL","New Zealand",17,16
+"3302",2010,"Winter","PAK","Pakistan",1,1
+"3303",2010,"Winter","PER","Peru",5,3
+"3304",2010,"Winter","POL","Poland",50,46
+"3305",2010,"Winter","POR","Portugal",1,1
+"3306",2010,"Winter","PRK","North Korea",3,2
+"3307",2010,"Winter","ROU","Romania",26,28
+"3308",2010,"Winter","RSA","South Africa",2,2
+"3309",2010,"Winter","RUS","Russia",77,175
+"3310",2010,"Winter","SEN","Senegal",2,1
+"3311",2010,"Winter","SLO","Slovenia",41,47
+"3312",2010,"Winter","SMR","San Marino",1,1
+"3313",2010,"Winter","SRB","Serbia",8,10
+"3314",2010,"Winter","SUI","Switzerland",56,134
+"3315",2010,"Winter","SVK","Slovakia",34,68
+"3316",2010,"Winter","SWE","Sweden",44,101
+"3317",2010,"Winter","TJK","Tajikistan",4,1
+"3318",2010,"Winter","TPE","Taiwan",1,1
+"3319",2010,"Winter","TUR","Turkey",9,5
+"3320",2010,"Winter","UKR","Ukraine",36,45
+"3321",2010,"Winter","USA","USA",84,212
+"3322",2010,"Winter","UZB","Uzbekistan",5,3
+"3323",2012,"Summer","AFG","Afghanistan",6,6
+"3324",2012,"Summer","ALB","Albania",9,9
+"3325",2012,"Summer","ALG","Algeria",29,38
+"3326",2012,"Summer","AND","Andorra",6,6
+"3327",2012,"Summer","ANG","Angola",10,33
+"3328",2012,"Summer","ANT","Antigua",4,4
+"3329",2012,"Summer","ARG","Argentina",66,137
+"3330",2012,"Summer","ARM","Armenia",30,24
+"3331",2012,"Summer","ARU","Aruba",4,4
+"3332",2012,"Summer","ASA","American Samoa",4,4
+"3333",2012,"Summer","AUS","Australia",208,405
+"3334",2012,"Summer","AUT","Austria",69,70
+"3335",2012,"Summer","AZE","Azerbaijan",57,52
+"3336",2012,"Summer","BAH","Bahamas",16,21
+"3337",2012,"Summer","BAN","Bangladesh",7,5
+"3338",2012,"Summer","BAR","Barbados",6,6
+"3339",2012,"Summer","BDI","Burundi",6,6
+"3340",2012,"Summer","BEL","Belgium",71,111
+"3341",2012,"Summer","BEN","Benin",5,5
+"3342",2012,"Summer","BER","Bermuda",7,8
+"3343",2012,"Summer","BHU","Bhutan",2,2
+"3344",2012,"Summer","BIH","Bosnia and Herzegovina",8,6
+"3345",2012,"Summer","BIZ","Belize",3,3
+"3346",2012,"Summer","BLR","Belarus",110,160
+"3347",2012,"Summer","BOL","Boliva",5,5
+"3348",2012,"Summer","BOT","Botswana",4,4
+"3349",2012,"Summer","BRA","Brazil",138,248
+"3350",2012,"Summer","BRN","Bahrain",11,12
+"3351",2012,"Summer","BRU","Brunei",3,3
+"3352",2012,"Summer","BUL","Bulgaria",56,63
+"3353",2012,"Summer","BUR","Burkina Faso",5,5
+"3354",2012,"Summer","CAF","Central African Republic",6,6
+"3355",2012,"Summer","CAM","Cambodia",6,6
+"3356",2012,"Summer","CAN","Canada",179,273
+"3357",2012,"Summer","CAY","Cayman Islands",5,4
+"3358",2012,"Summer","CGO","Republic of Congo",6,7
+"3359",2012,"Summer","CHA","Chad",2,2
+"3360",2012,"Summer","CHI","Chile",36,35
+"3361",2012,"Summer","CHN","China",206,375
+"3362",2012,"Summer","CIV","Ivory Coast",10,9
+"3363",2012,"Summer","CMR","Cameroon",16,32
+"3364",2012,"Summer","COD","Democratic Republic of the Congo",4,4
+"3365",2012,"Summer","COK","Cook Islands",9,8
+"3366",2012,"Summer","COL","Colombia",81,101
+"3367",2012,"Summer","COM","Comoros",3,3
+"3368",2012,"Summer","CPV","Cape Verde",3,3
+"3369",2012,"Summer","CRC","Costa Rica",11,11
+"3370",2012,"Summer","CRO","Croatia",53,107
+"3371",2012,"Summer","CUB","Cuba",86,109
+"3372",2012,"Summer","CYP","Cyprus",12,13
+"3373",2012,"Summer","CZE","Czech Republic",99,133
+"3374",2012,"Summer","DEN","Denmark",69,114
+"3375",2012,"Summer","DJI","Djibouti",4,4
+"3376",2012,"Summer","DMA","Dominica",2,2
+"3377",2012,"Summer","DOM","Dominican Republic",21,33
+"3378",2012,"Summer","ECU","Ecuador",34,36
+"3379",2012,"Summer","EGY","Egypt",87,109
+"3380",2012,"Summer","ERI","Eritrea",7,12
+"3381",2012,"Summer","ESA","El Salvador",11,10
+"3382",2012,"Summer","ESP","Spain",135,278
+"3383",2012,"Summer","EST","Estonia",30,32
+"3384",2012,"Summer","ETH","Ethiopia",14,33
+"3385",2012,"Summer","FIJ","Fiji",9,9
+"3386",2012,"Summer","FIN","Finland",61,56
+"3387",2012,"Summer","FRA","France",188,324
+"3388",2012,"Summer","FSM","Micronesia",6,6
+"3389",2012,"Summer","GAB","Gabon",7,21
+"3390",2012,"Summer","GAM","Gambia",2,2
+"3391",2012,"Summer","GBR","UK",249,530
+"3392",2012,"Summer","GBS","Guinea-Bissau",4,4
+"3393",2012,"Summer","GEO","Georgia",35,34
+"3394",2012,"Summer","GEQ","Equatorial Guinea",2,2
+"3395",2012,"Summer","GER","Germany",213,383
+"3396",2012,"Summer","GHA","Ghana",7,7
+"3397",2012,"Summer","GRE","Greece",76,102
+"3398",2012,"Summer","GRN","Grenada",8,8
+"3399",2012,"Summer","GUA","Guatemala",21,19
+"3400",2012,"Summer","GUI","Guinea",4,4
+"3401",2012,"Summer","GUM","Guam",8,8
+"3402",2012,"Summer","GUY","Guyana",6,6
+"3403",2012,"Summer","HAI","Haiti",5,5
+"3404",2012,"Summer","HKG","China",44,41
+"3405",2012,"Summer","HON","Honduras",10,25
+"3406",2012,"Summer","HUN","Hungary",111,152
+"3407",2012,"Summer","INA","Indonesia",16,22
+"3408",2012,"Summer","IND","India",55,81
+"3409",2012,"Summer","IOA","Individual Olympic Athletes",4,4
+"3410",2012,"Summer","IRI","Iran",51,52
+"3411",2012,"Summer","IRL","Ireland",54,64
+"3412",2012,"Summer","IRQ","Iraq",8,8
+"3413",2012,"Summer","ISL","Iceland",20,27
+"3414",2012,"Summer","ISR","Israel",41,37
+"3415",2012,"Summer","ISV","Virgin Islands, US",7,7
+"3416",2012,"Summer","ITA","Italy",169,281
+"3417",2012,"Summer","IVB","Virgin Islands, British",2,2
+"3418",2012,"Summer","JAM","Jamaica",25,45
+"3419",2012,"Summer","JOR","Jordan",9,9
+"3420",2012,"Summer","JPN","Japan",178,291
+"3421",2012,"Summer","KAZ","Kazakhstan",106,113
+"3422",2012,"Summer","KEN","Kenya",23,47
+"3423",2012,"Summer","KGZ","Kyrgyzstan",15,14
+"3424",2012,"Summer","KIR","Kiribati",3,3
+"3425",2012,"Summer","KOR","South Korea",140,250
+"3426",2012,"Summer","KSA","Saudi Arabia",14,18
+"3427",2012,"Summer","KUW","Kuwait",11,10
+"3428",2012,"Summer","LAO","Laos",3,3
+"3429",2012,"Summer","LAT","Latvia",38,45
+"3430",2012,"Summer","LBA","Libya",4,4
+"3431",2012,"Summer","LBR","Liberia",3,3
+"3432",2012,"Summer","LCA","Saint Lucia",4,4
+"3433",2012,"Summer","LES","Lesotho",4,4
+"3434",2012,"Summer","LIB","Lebanon",10,10
+"3435",2012,"Summer","LIE","Liechtenstein",4,3
+"3436",2012,"Summer","LTU","Lithuania",54,62
+"3437",2012,"Summer","LUX","Luxembourg",11,9
+"3438",2012,"Summer","MAD","Madagascar",7,7
+"3439",2012,"Summer","MAR","Morocco",40,63
+"3440",2012,"Summer","MAS","Malaysia",25,29
+"3441",2012,"Summer","MAW","Malawi",3,3
+"3442",2012,"Summer","MDA","Moldova",19,20
+"3443",2012,"Summer","MDV","Maldives",5,5
+"3444",2012,"Summer","MEX","Mexico",75,99
+"3445",2012,"Summer","MGL","Mongolia",32,29
+"3446",2012,"Summer","MHL","Marshall Islands",4,4
+"3447",2012,"Summer","MKD","Macedonia",4,4
+"3448",2012,"Summer","MLI","Mali",6,6
+"3449",2012,"Summer","MLT","Malta",5,5
+"3450",2012,"Summer","MNE","Montenegro",9,33
+"3451",2012,"Summer","MON","Monaco",6,6
+"3452",2012,"Summer","MOZ","Mozambique",6,6
+"3453",2012,"Summer","MRI","Mauritius",10,11
+"3454",2012,"Summer","MTN","Mauritania",2,2
+"3455",2012,"Summer","MYA","Myanmar",6,6
+"3456",2012,"Summer","NAM","Namibia",8,9
+"3457",2012,"Summer","NCA","Nicaragua",6,6
+"3458",2012,"Summer","NED","Netherlands",95,173
+"3459",2012,"Summer","NEP","Nepal",5,5
+"3460",2012,"Summer","NGR","Nigeria",31,49
+"3461",2012,"Summer","NIG","Niger",6,6
+"3462",2012,"Summer","NOR","Norway",46,61
+"3463",2012,"Summer","NRU","Nauru",2,2
+"3464",2012,"Summer","NZL","New Zealand",87,178
+"3465",2012,"Summer","OMA","Oman",3,3
+"3466",2012,"Summer","PAK","Pakistan",6,21
+"3467",2012,"Summer","PAN","Panama",8,8
+"3468",2012,"Summer","PAR","Paraguay",10,8
+"3469",2012,"Summer","PER","Peru",14,16
+"3470",2012,"Summer","PHI","Philippines",11,11
+"3471",2012,"Summer","PLE","Palestine",5,5
+"3472",2012,"Summer","PLW","Palau",5,5
+"3473",2012,"Summer","PNG","Papua New Guinea",8,8
+"3474",2012,"Summer","POL","Poland",148,210
+"3475",2012,"Summer","POR","Portugal",75,76
+"3476",2012,"Summer","PRK","North Korea",27,52
+"3477",2012,"Summer","PUR","Puerto Rico",25,25
+"3478",2012,"Summer","QAT","Qatar",13,12
+"3479",2012,"Summer","ROU","Romania",75,105
+"3480",2012,"Summer","RSA","South Africa",65,124
+"3481",2012,"Summer","RUS","Russia",238,429
+"3482",2012,"Summer","RWA","Rwanda",7,7
+"3483",2012,"Summer","SAM","Samoa",9,8
+"3484",2012,"Summer","SEN","Senegal",16,31
+"3485",2012,"Summer","SEY","Seychelles",6,6
+"3486",2012,"Summer","SKN","Saint Kitts",3,4
+"3487",2012,"Summer","SLE","Sierra Leone",2,2
+"3488",2012,"Summer","SLO","Slovenia",68,65
+"3489",2012,"Summer","SMR","San Marino",4,4
+"3490",2012,"Summer","SOL","Solomon Islands",4,4
+"3491",2012,"Summer","SOM","Somalia",2,2
+"3492",2012,"Summer","SRB","Serbia",55,116
+"3493",2012,"Summer","SRI","Sri Lanka",8,7
+"3494",2012,"Summer","STP","Sao Tome and Principe",2,2
+"3495",2012,"Summer","SUD","Sudan",5,6
+"3496",2012,"Summer","SUI","Switzerland",71,98
+"3497",2012,"Summer","SUR","Suriname",5,5
+"3498",2012,"Summer","SVK","Slovakia",52,47
+"3499",2012,"Summer","SWE","Sweden",81,133
+"3500",2012,"Summer","SWZ","Swaziland",3,3
+"3501",2012,"Summer","SYR","Syria",10,10
+"3502",2012,"Summer","TAN","Tanzania",5,6
+"3503",2012,"Summer","TGA","Tonga",3,3
+"3504",2012,"Summer","THA","Thailand",37,37
+"3505",2012,"Summer","TJK","Tajikistan",16,16
+"3506",2012,"Summer","TKM","Turkmenistan",10,10
+"3507",2012,"Summer","TLS","Timor-Leste",2,2
+"3508",2012,"Summer","TOG","Togo",6,6
+"3509",2012,"Summer","TPE","Taiwan",40,44
+"3510",2012,"Summer","TTO","Trinidad",22,25
+"3511",2012,"Summer","TUN","Tunisia",50,83
+"3512",2012,"Summer","TUR","Turkey",80,112
+"3513",2012,"Summer","TUV",NA,3,3
+"3514",2012,"Summer","UAE","United Arab Emirates",9,26
+"3515",2012,"Summer","UGA","Uganda",12,15
+"3516",2012,"Summer","UKR","Ukraine",174,230
+"3517",2012,"Summer","URU","Uruguay",11,27
+"3518",2012,"Summer","USA","USA",245,530
+"3519",2012,"Summer","UZB","Uzbekistan",52,53
+"3520",2012,"Summer","VAN","Vanuatu",5,5
+"3521",2012,"Summer","VEN","Venezuela",70,68
+"3522",2012,"Summer","VIE","Vietnam",23,18
+"3523",2012,"Summer","VIN","Saint Vincent",3,3
+"3524",2012,"Summer","YEM","Yemen",4,4
+"3525",2012,"Summer","ZAM","Zambia",7,7
+"3526",2012,"Summer","ZIM","Zimbabwe",8,7
+"3527",2014,"Winter","ALB","Albania",2,1
+"3528",2014,"Winter","AND","Andorra",10,6
+"3529",2014,"Winter","ARG","Argentina",10,7
+"3530",2014,"Winter","ARM","Armenia",5,4
+"3531",2014,"Winter","AUS","Australia",47,60
+"3532",2014,"Winter","AUT","Austria",70,126
+"3533",2014,"Winter","AZE","Azerbaijan",3,3
+"3534",2014,"Winter","BEL","Belgium",10,7
+"3535",2014,"Winter","BER","Bermuda",1,1
+"3536",2014,"Winter","BIH","Bosnia and Herzegovina",12,5
+"3537",2014,"Winter","BLR","Belarus",31,26
+"3538",2014,"Winter","BRA","Brazil",13,13
+"3539",2014,"Winter","BUL","Bulgaria",27,18
+"3540",2014,"Winter","CAN","Canada",93,217
+"3541",2014,"Winter","CAY","Cayman Islands",2,1
+"3542",2014,"Winter","CHI","Chile",12,6
+"3543",2014,"Winter","CHN","China",45,62
+"3544",2014,"Winter","CRO","Croatia",16,11
+"3545",2014,"Winter","CYP","Cyprus",2,1
+"3546",2014,"Winter","CZE","Czech Republic",65,87
+"3547",2014,"Winter","DEN","Denmark",9,10
+"3548",2014,"Winter","DMA","Dominica",1,1
+"3549",2014,"Winter","ESP","Spain",25,20
+"3550",2014,"Winter","EST","Estonia",27,25
+"3551",2014,"Winter","FIN","Finland",41,99
+"3552",2014,"Winter","FRA","France",69,107
+"3553",2014,"Winter","GBR","UK",40,53
+"3554",2014,"Winter","GEO","Georgia",5,4
+"3555",2014,"Winter","GER","Germany",79,151
+"3556",2014,"Winter","GRE","Greece",10,7
+"3557",2014,"Winter","HKG","China",1,1
+"3558",2014,"Winter","HUN","Hungary",23,16
+"3559",2014,"Winter","IND","India",2,2
+"3560",2014,"Winter","IOA","Individual Olympic Athletes",1,1
+"3561",2014,"Winter","IRI","Iran",5,5
+"3562",2014,"Winter","IRL","Ireland",8,5
+"3563",2014,"Winter","ISL","Iceland",7,5
+"3564",2014,"Winter","ISR","Israel",5,4
+"3565",2014,"Winter","ISV","Virgin Islands, US",2,1
+"3566",2014,"Winter","ITA","Italy",75,110
+"3567",2014,"Winter","IVB","Virgin Islands, British",1,1
+"3568",2014,"Winter","JAM","Jamaica",1,2
+"3569",2014,"Winter","JPN","Japan",59,109
+"3570",2014,"Winter","KAZ","Kazakhstan",47,50
+"3571",2014,"Winter","KGZ","Kyrgyzstan",2,1
+"3572",2014,"Winter","KOR","South Korea",52,71
+"3573",2014,"Winter","LAT","Latvia",32,56
+"3574",2014,"Winter","LIB","Lebanon",3,2
+"3575",2014,"Winter","LIE","Liechtenstein",5,3
+"3576",2014,"Winter","LTU","Lithuania",19,9
+"3577",2014,"Winter","LUX","Luxembourg",1,1
+"3578",2014,"Winter","MAR","Morocco",4,2
+"3579",2014,"Winter","MDA","Moldova",5,4
+"3580",2014,"Winter","MEX","Mexico",1,1
+"3581",2014,"Winter","MGL","Mongolia",2,2
+"3582",2014,"Winter","MKD","Macedonia",6,3
+"3583",2014,"Winter","MLT","Malta",2,1
+"3584",2014,"Winter","MNE","Montenegro",3,2
+"3585",2014,"Winter","MON","Monaco",8,5
+"3586",2014,"Winter","NED","Netherlands",28,39
+"3587",2014,"Winter","NEP","Nepal",1,1
+"3588",2014,"Winter","NOR","Norway",65,110
+"3589",2014,"Winter","NZL","New Zealand",12,14
+"3590",2014,"Winter","PAK","Pakistan",1,1
+"3591",2014,"Winter","PAR","Paraguay",1,1
+"3592",2014,"Winter","PER","Peru",5,3
+"3593",2014,"Winter","PHI","Philippines",1,1
+"3594",2014,"Winter","POL","Poland",58,58
+"3595",2014,"Winter","POR","Portugal",4,2
+"3596",2014,"Winter","ROU","Romania",32,22
+"3597",2014,"Winter","RUS","Russia",94,213
+"3598",2014,"Winter","SLO","Slovenia",38,58
+"3599",2014,"Winter","SMR","San Marino",2,2
+"3600",2014,"Winter","SRB","Serbia",14,8
+"3601",2014,"Winter","SUI","Switzerland",62,152
+"3602",2014,"Winter","SVK","Slovakia",38,62
+"3603",2014,"Winter","SWE","Sweden",38,99
+"3604",2014,"Winter","TGA","Tonga",1,1
+"3605",2014,"Winter","THA","Thailand",3,2
+"3606",2014,"Winter","TJK","Tajikistan",1,1
+"3607",2014,"Winter","TLS","Timor-Leste",1,1
+"3608",2014,"Winter","TOG","Togo",3,2
+"3609",2014,"Winter","TPE","Taiwan",5,3
+"3610",2014,"Winter","TUR","Turkey",10,6
+"3611",2014,"Winter","UKR","Ukraine",41,42
+"3612",2014,"Winter","USA","USA",94,222
+"3613",2014,"Winter","UZB","Uzbekistan",5,3
+"3614",2014,"Winter","VEN","Venezuela",1,1
+"3615",2014,"Winter","ZIM","Zimbabwe",2,1
+"3616",2016,"Summer","AFG","Afghanistan",3,3
+"3617",2016,"Summer","ALB","Albania",6,6
+"3618",2016,"Summer","ALG","Algeria",48,64
+"3619",2016,"Summer","AND","Andorra",4,4
+"3620",2016,"Summer","ANG","Angola",10,26
+"3621",2016,"Summer","ANT","Antigua",5,8
+"3622",2016,"Summer","ARG","Argentina",80,215
+"3623",2016,"Summer","ARM","Armenia",32,31
+"3624",2016,"Summer","ARU","Aruba",6,7
+"3625",2016,"Summer","ASA","American Samoa",4,4
+"3626",2016,"Summer","AUS","Australia",194,420
+"3627",2016,"Summer","AUT","Austria",61,71
+"3628",2016,"Summer","AZE","Azerbaijan",62,56
+"3629",2016,"Summer","BAH","Bahamas",20,29
+"3630",2016,"Summer","BAN","Bangladesh",7,7
+"3631",2016,"Summer","BAR","Barbados",11,11
+"3632",2016,"Summer","BDI","Burundi",9,9
+"3633",2016,"Summer","BEL","Belgium",74,104
+"3634",2016,"Summer","BEN","Benin",6,6
+"3635",2016,"Summer","BER","Bermuda",8,8
+"3636",2016,"Summer","BHU","Bhutan",2,2
+"3637",2016,"Summer","BIH","Bosnia and Herzegovina",8,11
+"3638",2016,"Summer","BIZ","Belize",3,3
+"3639",2016,"Summer","BLR","Belarus",86,120
+"3640",2016,"Summer","BOL","Boliva",10,12
+"3641",2016,"Summer","BOT","Botswana",7,12
+"3642",2016,"Summer","BRA","Brazil",222,462
+"3643",2016,"Summer","BRN","Bahrain",20,33
+"3644",2016,"Summer","BRU","Brunei",3,3
+"3645",2016,"Summer","BUL","Bulgaria",51,51
+"3646",2016,"Summer","BUR","Burkina Faso",5,5
+"3647",2016,"Summer","CAF","Central African Republic",6,6
+"3648",2016,"Summer","CAM","Cambodia",6,6
+"3649",2016,"Summer","CAN","Canada",175,310
+"3650",2016,"Summer","CAY","Cayman Islands",5,5
+"3651",2016,"Summer","CGO","Republic of Congo",9,10
+"3652",2016,"Summer","CHA","Chad",2,2
+"3653",2016,"Summer","CHI","Chile",36,42
+"3654",2016,"Summer","CHN","China",209,392
+"3655",2016,"Summer","CIV","Ivory Coast",12,12
+"3656",2016,"Summer","CMR","Cameroon",13,22
+"3657",2016,"Summer","COD","Democratic Republic of the Congo",4,4
+"3658",2016,"Summer","COK","Cook Islands",9,9
+"3659",2016,"Summer","COL","Colombia",85,143
+"3660",2016,"Summer","COM","Comoros",4,4
+"3661",2016,"Summer","CPV","Cape Verde",5,5
+"3662",2016,"Summer","CRC","Costa Rica",11,11
+"3663",2016,"Summer","CRO","Croatia",47,85
+"3664",2016,"Summer","CUB","Cuba",99,117
+"3665",2016,"Summer","CYP","Cyprus",19,15
+"3666",2016,"Summer","CZE","Czech Republic",92,104
+"3667",2016,"Summer","DEN","Denmark",67,119
+"3668",2016,"Summer","DJI","Djibouti",7,7
+"3669",2016,"Summer","DMA","Dominica",2,2
+"3670",2016,"Summer","DOM","Dominican Republic",22,26
+"3671",2016,"Summer","ECU","Ecuador",29,37
+"3672",2016,"Summer","EGY","Egypt",87,121
+"3673",2016,"Summer","ERI","Eritrea",6,12
+"3674",2016,"Summer","ESA","El Salvador",10,8
+"3675",2016,"Summer","ESP","Spain",146,307
+"3676",2016,"Summer","EST","Estonia",31,46
+"3677",2016,"Summer","ETH","Ethiopia",16,37
+"3678",2016,"Summer","FIJ","Fiji",14,53
+"3679",2016,"Summer","FIN","Finland",55,54
+"3680",2016,"Summer","FRA","France",202,392
+"3681",2016,"Summer","FSM","Micronesia",5,5
+"3682",2016,"Summer","GAB","Gabon",6,6
+"3683",2016,"Summer","GAM","Gambia",4,4
+"3684",2016,"Summer","GBR","UK",198,360
+"3685",2016,"Summer","GBS","Guinea-Bissau",5,5
+"3686",2016,"Summer","GEO","Georgia",40,40
+"3687",2016,"Summer","GEQ","Equatorial Guinea",1,1
+"3688",2016,"Summer","GER","Germany",217,418
+"3689",2016,"Summer","GHA","Ghana",12,13
+"3690",2016,"Summer","GRE","Greece",65,92
+"3691",2016,"Summer","GRN","Grenada",4,6
+"3692",2016,"Summer","GUA","Guatemala",19,21
+"3693",2016,"Summer","GUI","Guinea",5,5
+"3694",2016,"Summer","GUM","Guam",5,5
+"3695",2016,"Summer","GUY","Guyana",7,6
+"3696",2016,"Summer","HAI","Haiti",10,10
+"3697",2016,"Summer","HKG","China",32,37
+"3698",2016,"Summer","HON","Honduras",8,23
+"3699",2016,"Summer","HUN","Hungary",113,154
+"3700",2016,"Summer","INA","Indonesia",20,28
+"3701",2016,"Summer","IND","India",67,112
+"3702",2016,"Summer","IOA","Individual Olympic Athletes",6,9
+"3703",2016,"Summer","IRI","Iran",46,63
+"3704",2016,"Summer","IRL","Ireland",57,76
+"3705",2016,"Summer","IRQ","Iraq",5,20
+"3706",2016,"Summer","ISL","Iceland",14,8
+"3707",2016,"Summer","ISR","Israel",45,47
+"3708",2016,"Summer","ISV","Virgin Islands, US",7,7
+"3709",2016,"Summer","ITA","Italy",171,309
+"3710",2016,"Summer","IVB","Virgin Islands, British",4,4
+"3711",2016,"Summer","JAM","Jamaica",32,56
+"3712",2016,"Summer","JOR","Jordan",8,8
+"3713",2016,"Summer","JPN","Japan",186,335
+"3714",2016,"Summer","KAZ","Kazakhstan",98,101
+"3715",2016,"Summer","KEN","Kenya",29,79
+"3716",2016,"Summer","KGZ","Kyrgyzstan",17,19
+"3717",2016,"Summer","KIR","Kiribati",3,3
+"3718",2016,"Summer","KOR","South Korea",117,207
+"3719",2016,"Summer","KOS","Kosovo",8,8
+"3720",2016,"Summer","KSA","Saudi Arabia",10,10
+"3721",2016,"Summer","LAO","Laos",5,5
+"3722",2016,"Summer","LAT","Latvia",25,32
+"3723",2016,"Summer","LBA","Libya",7,7
+"3724",2016,"Summer","LBR","Liberia",3,2
+"3725",2016,"Summer","LCA","Saint Lucia",4,5
+"3726",2016,"Summer","LES","Lesotho",8,8
+"3727",2016,"Summer","LIB","Lebanon",9,9
+"3728",2016,"Summer","LIE","Liechtenstein",3,3
+"3729",2016,"Summer","LTU","Lithuania",49,67
+"3730",2016,"Summer","LUX","Luxembourg",14,10
+"3731",2016,"Summer","MAD","Madagascar",6,6
+"3732",2016,"Summer","MAR","Morocco",39,48
+"3733",2016,"Summer","MAS","Malaysia",29,32
+"3734",2016,"Summer","MAW","Malawi",5,5
+"3735",2016,"Summer","MDA","Moldova",22,23
+"3736",2016,"Summer","MDV","Maldives",4,4
+"3737",2016,"Summer","MEX","Mexico",80,123
+"3738",2016,"Summer","MGL","Mongolia",41,43
+"3739",2016,"Summer","MHL","Marshall Islands",5,5
+"3740",2016,"Summer","MKD","Macedonia",6,6
+"3741",2016,"Summer","MLI","Mali",6,6
+"3742",2016,"Summer","MLT","Malta",8,7
+"3743",2016,"Summer","MNE","Montenegro",9,35
+"3744",2016,"Summer","MON","Monaco",8,3
+"3745",2016,"Summer","MOZ","Mozambique",7,6
+"3746",2016,"Summer","MRI","Mauritius",11,11
+"3747",2016,"Summer","MTN","Mauritania",2,2
+"3748",2016,"Summer","MYA","Myanmar",8,7
+"3749",2016,"Summer","NAM","Namibia",9,10
+"3750",2016,"Summer","NCA","Nicaragua",5,5
+"3751",2016,"Summer","NED","Netherlands",122,237
+"3752",2016,"Summer","NEP","Nepal",7,7
+"3753",2016,"Summer","NGR","Nigeria",36,71
+"3754",2016,"Summer","NIG","Niger",6,6
+"3755",2016,"Summer","NOR","Norway",53,62
+"3756",2016,"Summer","NRU","Nauru",2,2
+"3757",2016,"Summer","NZL","New Zealand",100,195
+"3758",2016,"Summer","OMA","Oman",4,4
+"3759",2016,"Summer","PAK","Pakistan",7,7
+"3760",2016,"Summer","PAN","Panama",14,10
+"3761",2016,"Summer","PAR","Paraguay",11,11
+"3762",2016,"Summer","PER","Peru",28,29
+"3763",2016,"Summer","PHI","Philippines",13,13
+"3764",2016,"Summer","PLE","Palestine",6,6
+"3765",2016,"Summer","PLW","Palau",6,5
+"3766",2016,"Summer","PNG","Papua New Guinea",8,8
+"3767",2016,"Summer","POL","Poland",144,234
+"3768",2016,"Summer","POR","Portugal",61,90
+"3769",2016,"Summer","PRK","North Korea",28,31
+"3770",2016,"Summer","PUR","Puerto Rico",27,40
+"3771",2016,"Summer","QAT","Qatar",20,37
+"3772",2016,"Summer","ROT",NA,12,10
+"3773",2016,"Summer","ROU","Romania",62,95
+"3774",2016,"Summer","RSA","South Africa",70,135
+"3775",2016,"Summer","RUS","Russia",181,284
+"3776",2016,"Summer","RWA","Rwanda",7,7
+"3777",2016,"Summer","SAM","Samoa",9,8
+"3778",2016,"Summer","SEN","Senegal",11,22
+"3779",2016,"Summer","SEY","Seychelles",10,10
+"3780",2016,"Summer","SKN","Saint Kitts",4,6
+"3781",2016,"Summer","SLE","Sierra Leone",4,4
+"3782",2016,"Summer","SLO","Slovenia",45,63
+"3783",2016,"Summer","SMR","San Marino",3,4
+"3784",2016,"Summer","SOL","Solomon Islands",3,3
+"3785",2016,"Summer","SOM","Somalia",2,2
+"3786",2016,"Summer","SRB","Serbia",56,103
+"3787",2016,"Summer","SRI","Sri Lanka",10,9
+"3788",2016,"Summer","SSD","South Sudan",3,3
+"3789",2016,"Summer","STP","Sao Tome and Principe",3,3
+"3790",2016,"Summer","SUD","Sudan",6,6
+"3791",2016,"Summer","SUI","Switzerland",80,102
+"3792",2016,"Summer","SUR","Suriname",6,6
+"3793",2016,"Summer","SVK","Slovakia",49,51
+"3794",2016,"Summer","SWE","Sweden",79,150
+"3795",2016,"Summer","SWZ","Swaziland",2,2
+"3796",2016,"Summer","SYR","Syria",7,7
+"3797",2016,"Summer","TAN","Tanzania",5,7
+"3798",2016,"Summer","TGA","Tonga",7,7
+"3799",2016,"Summer","THA","Thailand",45,54
+"3800",2016,"Summer","TJK","Tajikistan",7,7
+"3801",2016,"Summer","TKM","Turkmenistan",9,9
+"3802",2016,"Summer","TLS","Timor-Leste",3,3
+"3803",2016,"Summer","TOG","Togo",5,5
+"3804",2016,"Summer","TPE","Taiwan",46,55
+"3805",2016,"Summer","TTO","Trinidad",24,28
+"3806",2016,"Summer","TUN","Tunisia",47,61
+"3807",2016,"Summer","TUR","Turkey",88,100
+"3808",2016,"Summer","TUV",NA,1,1
+"3809",2016,"Summer","UAE","United Arab Emirates",11,12
+"3810",2016,"Summer","UGA","Uganda",14,21
+"3811",2016,"Summer","UKR","Ukraine",142,204
+"3812",2016,"Summer","URU","Uruguay",14,17
+"3813",2016,"Summer","USA","USA",245,555
+"3814",2016,"Summer","UZB","Uzbekistan",69,70
+"3815",2016,"Summer","VAN","Vanuatu",4,4
+"3816",2016,"Summer","VEN","Venezuela",77,85
+"3817",2016,"Summer","VIE","Vietnam",24,22
+"3818",2016,"Summer","VIN","Saint Vincent",4,4
+"3819",2016,"Summer","YEM","Yemen",3,3
+"3820",2016,"Summer","ZAM","Zambia",7,7
+"3821",2016,"Summer","ZIM","Zimbabwe",13,30
