@@ -1,9 +1,11 @@
-# Olympic Athlete Data Analysis
+# [Olympic Athlete Data Analysis](https://mariajdong.shinyapps.io/olympiansapp/)
 **_Created by [Maria Dong](https://github.com/mariajdong), [Jess Izumi](https://github.com/jess-izuu), & [Shalom Lee](https://github.com/shalomjlee)._**
 
 An [R Shiny dashboard](https://rstudio.github.io/shinydashboard/) that analyzes Olympic athlete data from 1896 to 2016. Attributes analyzed include age, sex, team, year/season of games, medals, and more.
-
 <br>
+
+**Access the deployed page [here](https://mariajdong.shinyapps.io/olympiansapp/).**
+<br><br>
 
 ![screenshot1](/images/screenshot1.png)
 _Figure 1: A screenshot of the dashboard landing page._
@@ -12,11 +14,12 @@ _Figure 1: A screenshot of the dashboard landing page._
 The [Olympic Games](https://en.wikipedia.org/wiki/Olympic_Games) are the most prominent and celebrated series of international sporting events, in which athletes around the world compete. We wanted to further explore data around these athletes, dating back to 1896, when the first modern Olympics was held.
 
 ## Getting Started
-*To view the dashboard, you must download the Open Source Edition of [R Studio](https://www.rstudio.com/products/rstudio/), available for free [here](https://www.rstudio.com/products/rstudio/).*
+_If you prefer to run the dashboard on your local server, please follow the instructions below. Otherwise, you can view the deployed page [here](https://mariajdong.shinyapps.io/olympiansapp/)._
 
-1. Download the repo in your preferred manner.
-2. Open `olympic_dash.R` in R Studio.
-3. Click `Run App` at the top right-hand corner of the file display.
+1. Download and install [R Studio](https://www.rstudio.com/products/rstudio/) if you do not have it on your device. The Open Source Edition is available for free [here](https://www.rstudio.com/products/rstudio/).
+2. Download the repo in your preferred manner.
+3. Open `olympic_dash.R` in R Studio.
+4. Click `Run App` at the top right-hand corner of the file display.
 
 ![screenshot2](/images/screenshot2.png)
 
@@ -111,3 +114,4 @@ Some things we'd like to work on in future edits:
 
 **Other:**
 * Creating a version of the app that can be published to Github Pages
+* Creating a mobile-friendly version
