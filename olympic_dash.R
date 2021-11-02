@@ -1,9 +1,14 @@
+#install.packages("fresh") 
+#install.packages('treemap')
+#library(rsconnect)
+#deployApp()
 #dependencies
 library(shiny)
 library(shinydashboard)
 library(tidyverse)
 library(treemapify)
 library(fresh)
+library(treemap)
 # library(viridis)
 
 #import data
@@ -53,22 +58,87 @@ custom_theme <- create_theme(
 
 #begin page build
 ui <- dashboardPage(
-  
-  dashboardHeader(title = "Olympian Analysis"),
+
+  dashboardHeader(
+    title = "Olympian Analysis"
+    ),
   
   #begin sidebar
   dashboardSidebar(
+    tags$img(
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Olympic_rings_without_rims.svg/1200px-Olympic_rings_without_rims.svg.png",
+      style="width: 30%; margin-top: 10px; margin-left: 10px; margin-top: 10px"
+    ),
+
     sidebarMenu(
       id = 'sidebar',
       menuItem("Home", tabName = "t1"),
       menuItem("Athlete Demographics by Team", tabName = "t2"),
-      menuItem("Events, Medals, & Trends", tabName = "t3")
-      )
+      menuItem("Events, Medals, & Trends", tabName = "t3"),
+      style="margin-top: 20px"
+      ),
+    tags$img(
+      src="https://www.freeiconspng.com/uploads/sports-olympic-rings-icon-3.png",
+      style="width: 100%;margin-top: 100px"
+    ),
+    tags$img(
+      src="https://www.freeiconspng.com/thumbs/swimming-icon-png/sports-swimming-icon-png-1.png",
+      style="width: 100%; margin-top: 100px"
+    ),
+    tags$img(
+      src="https://www.freeiconspng.com/uploads/sports-running-icon-2.png",
+      style="width: 100%; margin-top: 100px"
+    ),
+    tags$img(
+      src="https://www.freeiconspng.com/uploads/file-olympic-pictogram-tennis--wikimedia-commons-12.png",
+      style="width: 100%; margin-top: 100px"
+    ),
+    tags$img(
+      src="https://www.freeiconspng.com/uploads/sports-olympic-torch-png-23.png",
+      style="width: 100%; margin-top: 100px"
+    ),
+    tags$img(
+      src="https://www.freeiconspng.com/uploads/sports-baseball-icon--ios-7-iconset--icons8-8.png",
+      style="width: 100%; margin-top: 100px"
+    ),
+    tags$img(
+      src="https://www.freeiconspng.com/uploads/sports-skiing-icon-10.png",
+      style="width: 100%; margin-top: 100px"
+    ),
+    tags$img(
+      src="https://www.freeiconspng.com/uploads/sports-weightlift-icon-20.png",
+      style="width: 100%; margin-top: 100px"
+    ),
+    tags$img(
+      src="https://www.freeiconspng.com/uploads/sports-football-icon-25.png",
+      style="width: 100%; margin-top: 100px"
+    ),
+    tags$img(
+      src="https://www.freeiconspng.com/uploads/sports-surfing-icon-3.png",
+      style="width: 100%; margin-top: 100px"
+    ),
+    tags$img(
+      src="https://www.freeiconspng.com/uploads/sports-yoga-icon-11.png",
+      style="width: 100%; margin-top: 100px"
+    ),
+    tags$img(
+      src="https://www.freeiconspng.com/uploads/water-icon-png-sea-sports-water-icon-14.png",
+      style="width: 100%; margin-top: 100px"
+    ),
+    tags$img(
+      src="https://www.freeiconspng.com/uploads/sports-dancing-icon-8.png",
+      style="width: 100%; margin-top: 100px"
+    )
+    
+    
   ), #end sidebar
   
   #begin body
   dashboardBody(
-    
+    #tags$img(
+    #  src ="https://qualifio.com/blog/wp-content/uploads/banner-ol-1.jpg",
+    #  style="display: block; margin-left: auto; margin-right: auto;"
+    #),
     #import fonts
     HTML('
       <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -757,8 +827,9 @@ server <- function(input, output, session){
   
   #treemap plot
   output$treemap <- renderPlot({
-    ggplot(data = treemap_df(), aes(area=events, fill=sport, label=paste(sport, events))) +
-      geom_treemap() +
+    ggplot(data = treemap_df(), aes(area=events, fill=sport, label=paste(sport, events), subgroup= sport)) +
+      geom_treemap() + 
+      geom_treemap_subgroup_border(colour="black", size=7)+
       geom_treemap_text(color = "white",
                         place = "center",
                         size = 20) +
